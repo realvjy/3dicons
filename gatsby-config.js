@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `3Dicons`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `vijay`,
+      summary: `master design chef, creating open source design library`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `beautiful open source 3D icons`,
+    siteUrl: `https://3dicons.co`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `realvjy`,
     },
   },
   plugins: [
@@ -112,8 +112,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `3dicons - beautiful open source 3D icons`,
+        short_name: `3dicons`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
