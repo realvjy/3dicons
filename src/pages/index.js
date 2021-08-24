@@ -6,6 +6,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import About from "../components/about"
 import Header from "../components/header"
+import Annouce from "../components/announce"
 import Footer from "../components/footer"
 
 class BlogIndex extends React.Component {
@@ -16,12 +17,25 @@ class BlogIndex extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="vijay verma - designer, maker, dreamer" />
-        <section className="header_section">
-
-
+        <SEO title="3dicons - Beautifully crafted opend source 3D icons" />
+        <Annouce />
+        <section className="navbar">
+          <div className="container">
+            <nav>
+              <div className="logo">
+                <a href="#"><img src="/3dicons.png"/></a>
+              </div>
+              <div className="menu">
+                <ul>
+                  <li><a href="#" className="btn btn-outline">show love</a></li>
+                  <li><a href="#" className="btn btn-text">donate</a></li>
+                  <li><a href="#" className="btn btn-text">github</a></li>
+                </ul>
+              </div>
+            </nav>
+          </div>
         </section>
-        <header />
+        <Header />
 
         <About />
         <Footer />

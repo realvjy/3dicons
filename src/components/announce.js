@@ -1,19 +1,20 @@
-// footer
+
+// announce
 // 24 Aug, 21
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
 
-const About = () => {
+const Annouce = () => {
     return (
-      <section className="about">
+      <section className="announce">
         <div className="container">
-          <div className="about-wrap">
-            Beautifully crafted open source 3D icons
+          <div className="announce-wrapper producthunt">
           </div>
         </div>
       </section>
+
     )
 }
 
-export default About
+export default Annouce
