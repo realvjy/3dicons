@@ -10,7 +10,14 @@ const Footer = () => {
       <section className="footer">
         <div className="container">
           <div className="footer-wrap">
-            I'm footer
+            <div className="credit-box">
+              <div className="name">
+                <p>made with love and coffee by<a href="https://twitter.com/realvjy"> @realvjy</a></p>
+              </div>
+              <div className="name">
+                <p>Free for commercial and personal use under<a href="#"> CC0 License</a></p>
+              </div>
+            </div>
           </div>
         </div>
       </section>

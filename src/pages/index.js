@@ -8,6 +8,8 @@ import About from "../components/about"
 import Header from "../components/header"
 import Annouce from "../components/announce"
 import Footer from "../components/footer"
+import AllIcons from "../components/all-icons"
+import InAction from "../components/in-action"
 
 class BlogIndex extends React.Component {
   render() {
@@ -36,7 +38,8 @@ class BlogIndex extends React.Component {
           </div>
         </section>
         <Header />
-
+        <AllIcons />
+        <InAction />
         <About />
         <Footer />
       </Layout>
