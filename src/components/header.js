@@ -40,21 +40,41 @@ const Header = () => {
                 </div>
                 <div className="img-box styles">
                   <div className="img-style">
-                    <img src="/clay.png"/>
-                    <h4>Clay</h4>
+                    <div className="style-wrap">
+                      <img src="/clay.png"/>
+                      <h4>Clay</h4>
+                    </div>
                   </div>
                   <div className="img-style">
-                    <img src="/gradient.png"/>
-                    <h4>Gradient</h4>
+                    <div className="style-wrap">
+                      <img src="/gradient.png"/>
+                      <h4>Gradient</h4>
+                    </div>
                   </div>
                   <div className="img-style">
-                    <img src="/colored.png"/>
-                    <h4>Color</h4>
+                    <div className="style-wrap">
+                      <img src="/colored.png"/>
+                      <h4>Color</h4>
+                    </div>
                   </div>
                   <div className="img-style">
-                    <img src="/premium.png"/>
-                    <h4>Premium</h4>
+                    <div className="style-wrap">
+                      <img src="/premium.png"/>
+                      <h4>Premium</h4>
+                    </div>
                   </div>
+                </div>
+              </div>
+
+            </div>
+            <div className="styles-angle">
+              <div className="s-a-wrap">
+                <div className="header-text">
+                  <h2 className="gradient blue">4 predefined color style</h2>
+                  <p>+ you can adjust color</p>
+                </div>
+                <div className="img-box angle">
+                  <img src="/angle-detail.png" />
                 </div>
               </div>
             </div>

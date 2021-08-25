@@ -171,12 +171,18 @@ main{
     justify-content: space-between;
     align-items: center;
     padding-top: 24px;
+    @media (max-width: $mobile-landscape){
+      flex-direction: column;
+    }
     .logo{
       img{
         height: 36px;
       }
     }
     .menu{
+      @media (max-width: $mobile-landscape){
+        margin-top: 24px;
+      }
       ul{
         display: flex;
         li{
@@ -195,14 +201,22 @@ main{
 
 .header{
   .header-wrap{
-    padding: 48px 16px;
+    padding: 0 16px;
+    padding-top: 48px;
     text-align: center;
+    @media (max-width: $mobile-landscape){
+      padding-top: 24px;
+    }
     h1{
       font-size: 36px;
       font-weight: 600;
       letter-spacing: -1px;
       display: inline-block;
       padding: 12px 0;
+      @media (max-width: $mobile-landscape){
+        font-size: 32px;
+        padding: 12px;
+      }
     }
     h3{
       font-size: 16px;
@@ -241,6 +255,9 @@ main{
   display: flex;
   padding: 12px 0;
   justify-content: center;
+  @media (max-width: $mobile-landscape){
+    flex-direction: column;
+  }
   .dwn-links{
       position: relative;
       display: inline-block;
@@ -248,11 +265,17 @@ main{
       z-index: 12;
       text-align: center;
       margin-right: 24px;
+      @media (max-width: $mobile-landscape){
+        margin-bottom: 24px;
+        margin-right: 0;
+      }
       .btn{
 
       }
       .btn-download{
-
+        @media (max-width: $mobile-landscape){
+          width: 100%;
+        }
       }
 
       .dwn-list{
@@ -362,6 +385,22 @@ main{
       opacity: .6;
     }
   }
+
+  &.btn-outline{
+    border: 1px solid $black;
+    display: flex;
+    vertical-align: middle;
+    align-items: center;
+    border-radius: 21px;
+    padding: 12px 16px!important;
+    img{
+      height: 16px;
+      margin-left: 6px;
+    }
+    &:hover{
+      opacity: .8;
+    }
+  }
   &.btn-coffee{
     background: $white;
     border:1px solid rgba(0,0,0,1);
@@ -396,6 +435,9 @@ main{
   background: rgba(248,248,252,.8);
   margin: 54px;
   border-radius: 24px;
+  @media (max-width: $mobile-landscape){
+    margin: 24px 0;
+  }
   .s-a-wrap{
     padding: 40px 24px;
     display: flex;
@@ -414,16 +456,31 @@ main{
     .img-box{
       display: flex;
       margin-top: 16px;
+      flex-wrap: wrap;
+      padding: 0 32px;
       .img-style{
-        padding: 16px;
-        img{
-          height: 150px;
-          margin-bottom: 16px;
+        width: 25%;
+        @media (max-width: $mobile-landscape){
+          width: 50%;
         }
-        h4{
-          font-size: 16px;
-          text-transform: uppercase;
-          letter-spacing: 4px;
+        .style-wrap{
+          padding: 16px;
+          img{
+            width: 100%;
+            margin-bottom: 16px;
+
+          }
+          h4{
+            font-size: 16px;
+            text-transform: uppercase;
+            letter-spacing: 4px;
+          }
+        }
+
+      }
+      &.angle{
+        img{
+          width: 100%;
         }
       }
     }
@@ -437,26 +494,45 @@ main{
     flex-direction: column;
     padding: 54px;
     align-items: center;
+    @media (max-width: $mobile-landscape){
+      padding: 4px;
+    }
     h2{
       font-size: 40px;
       font-weight: 700;
       letter-spacing: -.5px;
       margin-bottom: 50px;
+      @media (max-width: $mobile-landscape){
+        padding: 12px;
+        text-align: center;
+        font-size: 32px;
+        margin-bottom: 24px;
+      }
     }
     .icons-grid{
       display: flex;
       flex-wrap: wrap;
       .icons-box{
         width: 20%;
+        @media (max-width: $mobile-landscape){
+          width: 50%;
+        }
         .i-wrap{
           margin: 12px;
           padding: 16px;
-          background: rgba(248,248,252,.7);
+          background: rgba(248,248,252,.8);
           border-radius: 12px;
           a{
-            display: block;
+            display: flex;
+            align-items: center;
+            text-align: center;
+            @media (max-width: $mobile-landscape){
+            }
             img{
-              height: 120px;
+              width: 100%;
+              @media (max-width: $mobile-landscape){
+                height: 75%;
+              }
             }
           }
         }
@@ -468,19 +544,28 @@ main{
 .footer{
   .footer-wrap{
     margin: 0 70px;
+    @media (max-width: $mobile-landscape){
+      margin: 0 40px;
+    }
     .credit-box{
       padding: 32px 0;
       border-top: .5px solid $black;
       display: flex;
       justify-content: space-between;
-      p{
-        font-size: 15px;
-        font-weight: 400;
-        a{
-          color: $black;
-          font-weight: 700;
-          &:hover{
-            opacity: .8;
+      @media (max-width: $mobile-landscape){
+        flex-direction: column;
+      }
+      .name{
+        margin-bottom: 24px;
+        p{
+          font-size: 15px;
+          font-weight: 400;
+          a{
+            color: $black;
+            font-weight: 700;
+            &:hover{
+              opacity: .8;
+            }
           }
         }
       }
@@ -493,6 +578,10 @@ main{
     margin: 0 70px;
     display: flex;
     margin-bottom: 54px;
+    @media (max-width: $mobile-landscape){
+      margin: 0 16px;
+      margin-bottom: 54px;
+    }
     .request-box{
       padding: 16px;
       display: flex;
@@ -504,6 +593,10 @@ main{
       -moz-box-shadow: 0 24px 48px rgba(0,0,0,.10);
       box-shadow: 0 24px 48px rgba(0,0,0,.10);
       background: $white;
+      @media (max-width: $mobile-landscape){
+        flex-direction: column;
+        flex-direction: column-reverse;
+      }
       .r-text{
         width: 60%;
         padding: 32px;
@@ -530,6 +623,9 @@ main{
 .about{
   .about-wrap{
     margin: 0 54px;
+    @media (max-width: $mobile-landscape){
+      margin: 0 24px;
+    }
     .about-box{
       padding: 16px;
       text-align: left;
@@ -551,6 +647,9 @@ main{
       justify-content: space-between;
       vertical-align: bottom;
       margin-top: 50px;
+      @media (max-width: $mobile-landscape){
+        flex-direction: column;
+      }
       .soon-log{
         h4{
           font-size: 20px;
@@ -569,8 +668,15 @@ main{
         text-align: right;
         display: flex;
         flex-direction: column;
+        @media (max-width: $mobile-landscape){
+          flex-direction: row;
+          text-align: left;
+        }
         .num-stat{
           margin: 12px 0;
+          @media (max-width: $mobile-landscape){
+            margin-right: 12px;
+          }
           h3{
             font-size: 28px;
             font-weight: 600;
