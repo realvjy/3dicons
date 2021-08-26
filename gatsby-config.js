@@ -5,7 +5,7 @@ module.exports = {
       name: `vijay`,
       summary: `master design chef, creating open source design library`,
     },
-    description: `beautiful open source 3D icons`,
+    description: `100+ beautifuly crafted open-source 3D icons`,
     siteUrl: `https://3dicons.co`,
     social: {
       twitter: `realvjy`,
@@ -13,13 +13,6 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
-      },
-    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -56,6 +49,16 @@ module.exports = {
             options: {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
+          },
+          {
+            resolve: `gatsby-remark-classes`,
+            options: {
+              classMap: {
+                "heading[depth=1]": "title",
+                "heading[depth=2]": "subtitle",
+                paragraph: "para",
+              }
+            }
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,

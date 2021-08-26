@@ -21,6 +21,7 @@
     "gatsby-plugin-react-helmet": "^4.6.0",
     "gatsby-plugin-sass": "^4.12.0",
     "gatsby-plugin-sharp": "^3.6.0",
+    "gatsby-remark-classes": "^1.0.0",
     "gatsby-remark-copy-linked-files": "^3.2.0",
     "gatsby-remark-images": "^4.2.0",
     "gatsby-remark-prismjs": "^4.2.0",
