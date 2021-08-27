@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-using-typescript-tsx","path":"/using-typescript/","result":{"data":{"site":{"buildTime":"2021-08-24 07:59 pm UTC"}},"pageContext":{}},"staticQueryHashes":["2841359383"]}
+{
+    "componentChunkName": "component---src-pages-using-typescript-tsx",
+    "path": "/using-typescript/",
+    "result": {"data":{"site":{"buildTime":"2021-08-27 08:46 pm UTC"}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383"]}
