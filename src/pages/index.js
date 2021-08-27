@@ -16,7 +16,15 @@ class BlogIndex extends React.Component {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
-
+    const fadeProperties = {
+      duration: 5000,
+      transitionDuration: 500,
+      infinite: false,
+      indicators: true,
+      onChange: (oldIndex, newIndex) => {
+        console.log(`fade transition from ${oldIndex} to ${newIndex}`);
+      }
+    }
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="3dicons - Beautifully crafted opend source 3D icons" />
@@ -36,6 +44,11 @@ class BlogIndex extends React.Component {
               </div>
             </nav>
           </div>
+
+          <div className="list">
+            
+          </div>
+
         </section>
         <Header />
         <AllIcons />
