@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-index-js",
     "path": "/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"allMarkdownRemark":{"edges":[{"node":{"excerpt":"","fields":{"slug":"/notebook/"},"frontmatter":{"date":"August 25, 2019","title":"Notebook","description":null}}}]}},"pageContext":{}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"allMarkdownRemark":{"edges":[{"node":{"excerpt":"","fields":{"slug":"/notebook/"},"frontmatter":{"date":"August 25, 2019","title":"Notebook","description":null}}},{"node":{"excerpt":"","fields":{"slug":"/user/"},"frontmatter":{"date":"August 25, 2019","title":"Notebook","description":null}}},{"node":{"excerpt":"","fields":{"slug":"/zoom/"},"frontmatter":{"date":"August 25, 2019","title":"Notebook","description":null}}}]}},"pageContext":{}},
     "staticQueryHashes": ["2841359383","3257411868","824772427"]}

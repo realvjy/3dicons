@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/notebook/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","excerpt":"","html":"","frontmatter":{"title":"Notebook","date":"August 25, 2019","description":null}},"previous":null,"next":null},"pageContext":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","previousPostId":null,"nextPostId":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","excerpt":"","html":"","frontmatter":{"title":"Notebook","date":"August 25, 2019","description":null}},"previous":null,"next":{"fields":{"slug":"/user/"},"frontmatter":{"title":"Notebook"}}},"pageContext":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","previousPostId":null,"nextPostId":"e0e37179-95ab-5311-93d1-37842dd8ffd1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
