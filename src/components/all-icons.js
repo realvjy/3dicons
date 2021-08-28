@@ -50,20 +50,7 @@ const AllIcons = () => {
     const initalState = 0;
     const [count, setCount] = useState(initalState);
     const counterRef = useRef(initalState);
-    useEffect(() => {
-      counterRef.current = count;
-    })
 
-    useEffect(() => {
-      setInterval(() => {
-        setCount(counterRef.current + 1);
-      },700);
-    }, []);
-
-    function sayHello(event) {
-      counterRef.current = 0;
-      console.log(event.target.dataset.clay);
-    }
 
 
     const siteTitle = data.site.siteMetadata.title
@@ -76,22 +63,23 @@ const AllIcons = () => {
           <div className="icons-wrap">
             <h2 className="gradient blue">100+ icons Preview</h2>
               <div className="icons-grid">
-              <>
-                {count}
-              </>
               {icons.map(({ node }) => {
                 const title = node.frontmatter.title
                 return (
+                  <>
                   <div className="icons-box">
                     <div className="i-wrap">
-                      <a href="#" onMouseEnter={sayHello.bind(this)}>
-                        <div classeName="imgs">
-                          <img src={node.frontmatter.clay} key="1" data-clay={node.frontmatter.clay} data-gradient={node.frontmatter.gradinet} data-premium={node.frontmatter.premium}/>
-
+                      <div className="img-ani">
+                        <div className="img-list">
+                          <img src={node.frontmatter.clay} key="1" className="clay"/>
+                          <img src={node.frontmatter.gradient} key="1" className="gradient"/>
+                          <img src={node.frontmatter.color} key="1" className="color"/>
+                          <img src={node.frontmatter.premium} key="1" className="premium"/>
                         </div>
-                      </a>
+                      </div>
                     </div>
                   </div>
+                  </>
                 )
               })}
               </div>
