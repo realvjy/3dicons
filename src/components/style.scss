@@ -223,9 +223,9 @@ main{
       padding-top: 24px;
     }
     h1{
-      font-size: 36px;
-      font-weight: 600;
-      letter-spacing: -1px;
+      font-size: 44px;
+      font-weight: 700;
+      letter-spacing: -2.5px;
       display: inline-block;
       padding: 12px 0;
       @media (max-width: $mobile-landscape){
@@ -239,6 +239,10 @@ main{
       display: inline-block;
       padding: 12px 0;
       text-transform: uppercase;
+      line-height: 130%;
+      @media (max-width: $mobile-landscape){
+        line-height: 130%;
+      }
       a{
         font-weight: 600;
         color: $black;
@@ -515,7 +519,7 @@ main{
     h2{
       font-size: 40px;
       font-weight: 700;
-      letter-spacing: -.5px;
+      letter-spacing: -2px;
       margin-bottom: 50px;
       @media (max-width: $mobile-landscape){
         padding: 12px;
@@ -646,15 +650,77 @@ main{
 
 .inaction{
   .ia-wrap{
-    margin: 0 70px;
+    margin: 0 54px;
     display: flex;
     margin-bottom: 54px;
+    flex-direction: column;
+    align-items: center;
     @media (max-width: $mobile-landscape){
       margin: 0 16px;
       margin-bottom: 54px;
     }
+    p{
+      width: 600px;
+      text-align: center;
+      font-size: 18px;
+      line-height: 140%;
+      margin-bottom: 24px;
+      @media (max-width: $mobile-landscape){
+        width: 100%;
+      }
+    }
+    h2{
+      font-size: 44px;
+      font-weight: 700;
+      letter-spacing: -2.5px;
+      margin-bottom: 16px;
+      @media (max-width: $mobile-landscape){
+        padding: 12px;
+        text-align: center;
+        font-size: 32px;
+        margin-bottom: 24px;
+      }
+    }
+
+    .action-box{
+      display: flex;
+      flex-wrap: wrap;
+      margin: 4px;
+      .a-img-box{
+        .a-img-wrap{
+          padding: 12px;
+        }
+        &._4c{
+          width: 25%;
+          @media (max-width: $mobile-landscape){
+            width: 100%;
+          }
+        }
+        &._3c{
+          width: 33.33%;
+          @media (max-width: $mobile-landscape){
+            width: 100%;
+          }
+        }
+        &._2c{
+          width: 50%;
+          @media (max-width: $mobile-landscape){
+            width: 100%;
+          }
+        }
+        &._1c{
+          width: 100%;
+        }
+        img{
+          width: 100%;
+          border-radius: 16px;
+          -webkit-box-shadow: 0 24px 32px rgba(0,0,0,.06);
+          -moz-box-shadow: 0 24px 32px rgba(0,0,0,.06);
+          box-shadow: 0 24px 32px rgba(0,0,0,.06);
+        }
+      }
+    }
     .request-box{
-      padding: 16px;
       display: flex;
       flex-direction: row;
       align-items: center;
@@ -664,6 +730,7 @@ main{
       -moz-box-shadow: 0 24px 48px rgba(0,0,0,.10);
       box-shadow: 0 24px 48px rgba(0,0,0,.10);
       background: $white;
+      margin: 24px;
       @media (max-width: $mobile-landscape){
         flex-direction: column;
         flex-direction: column-reverse;
@@ -694,8 +761,54 @@ main{
 .about{
   .about-wrap{
     margin: 0 54px;
+    padding: 48px 0;
     @media (max-width: $mobile-landscape){
       margin: 0 24px;
+    }
+
+    .about-title{
+      margin: 24px 100px;
+      margin-top: 60px;
+      padding-bottom: 32px;
+      @media (max-width: $mobile-landscape){
+        margin: 12px;
+      }
+      .about-icon{
+        height: 100px;
+      }
+      h2{
+        font-size: 42px;
+        font-weight: 700;
+        margin-bottom: 24px;
+        margin-top: 24px;
+        @media (max-width: $mobile-landscape){
+          font-size: 36px;
+        }
+      }
+      p{
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 140%;
+        margin-bottom: 24px;
+        margin-top: 24px;
+        @media (max-width: $mobile-landscape){
+          font-size: 16px;
+          font-weight: 400;
+        }
+      }
+      strong{
+        font-weight: 500!important;
+      }
+      a{
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 140%;
+        margin: 8px 0;
+        display: block;
+        &:hover{
+          opacity: .8;
+        }
+      }
     }
     .about-box{
       padding: 16px;
@@ -705,12 +818,29 @@ main{
         font-weight: 600;
         line-height: normal;
         margin-bottom: 12px;
+        @media (max-width: $mobile-landscape){
+          font-size: 22px;
+        }
       }
       p{
         line-height: normal;
         font-weight: 300;
         font-size: 18px;
+        line-height: 140%;
+        margin-bottom: 12px;
+        @media (max-width: $mobile-landscape){
+          font-size: 16px;
+        }
       }
+      a{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 90%;
+        &:hover{
+          opacity: .8;
+        }
+      }
+
     }
     .stats{
       padding: 16px;
@@ -723,7 +853,7 @@ main{
       }
       .soon-log{
         h4{
-          font-size: 20px;
+          font-size: 22px;
           font-weight: 500;
           line-height: normal;
           margin-bottom: 12px;
@@ -750,7 +880,7 @@ main{
           }
           h3{
             font-size: 28px;
-            font-weight: 600;
+            font-weight: 700;
             line-height: normal;
           }
           span{

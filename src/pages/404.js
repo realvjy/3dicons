@@ -1,19 +1,50 @@
 import * as React from "react"
-import { graphql } from "gatsby"
+import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import Seo from "../components/seo"
+import SEO from "../components/seo"
+import Footer from "../components/footer"
 
-const NotFoundPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
+class NotFoundPage extends React.Component {
+  render() {
+    const { data } = this.props
+    const siteTitle = data.site.siteMetadata.title
 
-  return (
-    <Layout location={location} title={siteTitle}>
-      <Seo title="404: Not Found" />
-      <h1>404: Not Found</h1>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-    </Layout>
-  )
+    return (
+      <Layout location={this.props.location} title={siteTitle}>
+        <SEO title="illlustrations - MIT License" />
+        <section className="navbar">
+          <div className="container">
+            <nav>
+              <div className="logo">
+                <a href="/"><img src="/3dicons.png"/></a>
+              </div>
+              <div className="menu">
+                <ul>
+                  <li><a href="#" className="btn btn-outline">show love <img src="/twitter.svg"/> </a></li>
+                  <li><a href="/about" className="btn btn-text">about</a></li>
+                  <li><a href="https://www.buymeacoffee.com/realvjy" className="btn btn-text">donate</a></li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+
+          <div className="list">
+
+          </div>
+
+        </section>
+        <section className="about">
+          <div className="container">
+            <div className="about-wrap">
+              404 Page
+            </div>
+          </div>
+        </section>
+        <Footer />
+      </Layout>
+    )
+  }
 }
 
 export default NotFoundPage

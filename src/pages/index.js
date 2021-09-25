@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import About from "../components/about"
+import KnowMore from "../components/know-more"
 import Header from "../components/header"
 import Annouce from "../components/announce"
 import Footer from "../components/footer"
@@ -33,27 +33,28 @@ class BlogIndex extends React.Component {
           <div className="container">
             <nav>
               <div className="logo">
-                <a href="#"><img src="/3dicons.png"/></a>
+                <a href="/"><img src="/3dicons.png"/></a>
               </div>
               <div className="menu">
                 <ul>
                   <li><a href="#" className="btn btn-outline">show love <img src="/twitter.svg"/> </a></li>
-                  <li><a href="#" className="btn btn-text">donate</a></li>
-                  <li><a href="#" className="btn btn-text">github</a></li>
+                  <li><a href="/about" className="btn btn-text">about</a></li>
+                  <li><a href="https://www.buymeacoffee.com/realvjy" className="btn btn-text">donate</a></li>
                 </ul>
               </div>
             </nav>
           </div>
 
           <div className="list">
-            
+
           </div>
 
         </section>
         <Header />
         <AllIcons />
+
         <InAction />
-        <About />
+        <KnowMore />
         <Footer />
       </Layout>
     )
