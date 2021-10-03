@@ -13,6 +13,8 @@ const Header = () => {
             <h1>Beautifully crafted open source 3D icons</h1>
             <h3>100% FREE FOR Commercial and Personal Use UNDER <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a></h3>
             <div className="assets">
+                <h5>Use with any design tool</h5>
+
                 <div className="p-logo"><img src="/figma.png"/> <img src="/sketch.png"/> <img src="/xd.png"/> <img src="/blender.png"/><img src="/obj.png"/></div>
             </div>
             <div className="btn-lnks">

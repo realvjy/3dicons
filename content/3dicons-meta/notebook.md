@@ -1,13 +1,11 @@
----
-id: 1
-title: Notebook
-path: /mdx-intro
-date: 2019-08-25
+id: 76
+title: Notebook 
+file-slug: notebook
+date: Oct 03, 2021 20:27:44
 feature: false
-category: 3dicons
-clay: https://3dicons.sgp1.digitaloceanspaces.com/3dicons-test/3dicons-test/chat_bubble_00.png
-gradient: https://3dicons.sgp1.digitaloceanspaces.com/3dicons-test/3dicons-test/chat_bubble_01.png
-color: https://3dicons.sgp1.digitaloceanspaces.com/3dicons-test/3dicons-test/chat_bubble_03.png
-premium: https://3dicons.sgp1.digitaloceanspaces.com/3dicons-test/3dicons-test/chat_bubble_02.png
-
----
+category: icons
+angle: dynamic
+clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/notebook-dynamic-clay.png
+gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/notebook-dynamic-gradient.png
+color: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/color/notebook-dynamic-color.png
+premium: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/premium/notebook-dynamic-premium.png

@@ -234,7 +234,7 @@ main{
       }
     }
     h3{
-      font-size: 16px;
+      font-size: 17px;
       letter-spacing: 1px;
       display: inline-block;
       padding: 12px 0;
@@ -254,6 +254,12 @@ main{
 
     .assets{
       margin-top: 12px;
+      h5{
+        font-size: 14px;
+        opacity: .5;
+        letter-spacing: -.5px;
+        margin-bottom: 8px;
+      }
       .p-logo{
           display: flex;
           justify-content: center;

@@ -1,13 +1,11 @@
----
-id: 1
-title: Notebook
-path: /mdx-intro
-date: 2019-08-25
+id: 120
+title: Zoom 
+file-slug: zoom
+date: Oct 03, 2021 20:27:44
 feature: false
-category: 3dicons
-clay: https://3dicons.sgp1.digitaloceanspaces.com/3dicons-test/3dicons-test/chat_bubble_00.png
-gradient: https://3dicons.sgp1.digitaloceanspaces.com/3dicons-test/3dicons-test/chat_bubble_01.png
-color: https://3dicons.sgp1.digitaloceanspaces.com/3dicons-test/3dicons-test/chat_bubble_03.png
-premium: https://3dicons.sgp1.digitaloceanspaces.com/3dicons-test/3dicons-test/chat_bubble_02.png
-
----
+category: icons
+angle: dynamic
+clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/zoom-dynamic-clay.png
+gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/zoom-dynamic-gradient.png
+color: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/color/zoom-dynamic-color.png
+premium: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/premium/zoom-dynamic-premium.png
