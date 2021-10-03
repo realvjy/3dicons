@@ -70,11 +70,11 @@ const AllIcons = () => {
                   <div className="icons-box">
                     <div className="i-wrap">
                       <div className="img-ani">
-                        <div className="img-list">
-                          <img src={node.frontmatter.gradient} key="1" className="gradient"/>
-                          <img src={node.frontmatter.clay} key="1" className="clay"/>
-                          <img src={node.frontmatter.color} key="1" className="color"/>
-                          <img src={node.frontmatter.premium} key="1" className="premium"/>
+                        <div className="img-list" key={node.frontmatter.id.toString()}>
+                          <img src={node.frontmatter.gradient} className="gradient"/>
+                          <img src={node.frontmatter.clay} className="clay"/>
+                          <img src={node.frontmatter.color} className="color"/>
+                          <img src={node.frontmatter.premium} className="premium"/>
                         </div>
                       </div>
                     </div>
