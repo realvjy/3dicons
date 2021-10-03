@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sphere/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}},"next":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}}},"pageContext":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","previousPostId":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2","nextPostId":"9db305a7-e6c6-57de-80a5-c9cb71144a68"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}},"next":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}}},"pageContext":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","previousPostId":"7c7a7eaa-2190-5cf7-8fd9-72dbfb2a202d","nextPostId":"dc74a60a-5904-5fa2-a8a0-00d547ec0285"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

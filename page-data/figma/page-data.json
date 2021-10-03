@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/figma/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8090f6a2-2127-5482-b9d5-9c48bccf617f","excerpt":"","html":"","frontmatter":{"title":"Figma","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}},"next":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}}},"pageContext":{"id":"8090f6a2-2127-5482-b9d5-9c48bccf617f","previousPostId":"2a1ece06-2c17-507c-8bad-d64b93190138","nextPostId":"98c27363-0a27-5758-b33d-4b3427a72f73"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8090f6a2-2127-5482-b9d5-9c48bccf617f","excerpt":"","html":"","frontmatter":{"title":"Figma","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}},"next":{"fields":{"slug":"/file-fav/"},"frontmatter":{"title":"File Fav"}}},"pageContext":{"id":"8090f6a2-2127-5482-b9d5-9c48bccf617f","previousPostId":"23fe5000-5048-5e59-b467-3756fc7de10d","nextPostId":"7d92520f-e962-5b99-ac2b-f308f1a6438b"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

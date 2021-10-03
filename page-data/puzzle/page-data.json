@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/puzzle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e","excerpt":"","html":"","frontmatter":{"title":"Puzzle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-outgoing/"},"frontmatter":{"title":"Phone Outgoing"}},"next":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}}},"pageContext":{"id":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e","previousPostId":"eee28079-6ab7-5525-bae5-0a56e1157b2b","nextPostId":"42f3ad2a-0072-5346-bf70-576724f09ca8"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e","excerpt":"","html":"","frontmatter":{"title":"Puzzle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}},"next":{"fields":{"slug":"/setting/"},"frontmatter":{"title":"Setting"}}},"pageContext":{"id":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e","previousPostId":"68c6048d-b39f-5cb3-a0ea-752e50df6993","nextPostId":"25152a5f-fb89-52f3-a77d-8b0df013a304"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/zoom/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","excerpt":"","html":"","frontmatter":{"title":"Zoom","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}},"next":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}}},"pageContext":{"id":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","previousPostId":"ab5390fd-e849-5e70-be05-1aa3b44173e0","nextPostId":"2f52358e-e0cf-562f-be10-510d9bbb326d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","excerpt":"","html":"","frontmatter":{"title":"Zoom","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}},"next":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}}},"pageContext":{"id":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","previousPostId":"29fa79f8-066f-551c-a216-69373356832a","nextPostId":"4c01dc12-ddfb-5726-a912-0e705c277df8"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/link/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4091ef55-6965-5dde-98b5-55ffdaaaa0cd","excerpt":"","html":"","frontmatter":{"title":"Link","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}},"next":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}}},"pageContext":{"id":"4091ef55-6965-5dde-98b5-55ffdaaaa0cd","previousPostId":"bea2f4c1-5f55-516c-bd74-5b6778f6fefb","nextPostId":"c916c8ca-3db7-5196-bab1-d4d38737d5f8"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4091ef55-6965-5dde-98b5-55ffdaaaa0cd","excerpt":"","html":"","frontmatter":{"title":"Link","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/headphone/"},"frontmatter":{"title":"Headphone"}},"next":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}}},"pageContext":{"id":"4091ef55-6965-5dde-98b5-55ffdaaaa0cd","previousPostId":"f839c392-f05d-5f1f-91b1-014a5038fe5d","nextPostId":"bea2f4c1-5f55-516c-bd74-5b6778f6fefb"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

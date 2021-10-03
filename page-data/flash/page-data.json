@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/flash/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/forward/"},"frontmatter":{"title":"Forward"}},"next":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}}},"pageContext":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","previousPostId":"b3750146-733c-551f-9dda-64a430aecaaf","nextPostId":"7d93ed38-0574-50ec-86c5-43f5d0e22385"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}},"next":{"fields":{"slug":"/locker/"},"frontmatter":{"title":"Locker"}}},"pageContext":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","previousPostId":"6f61a428-1311-5ab2-843f-b07a321ef369","nextPostId":"85f6ae0f-1277-515e-af88-0202f2b6962c"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

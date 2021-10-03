@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/color-palette/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","previousPostId":"53f2e3ee-7f34-5c94-957e-37557a2252b3","nextPostId":"432841d1-d56b-5256-a3f7-19e9e7ac8dea"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}},"next":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}}},"pageContext":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","previousPostId":"56cda326-20c6-5d13-9425-2ba265ee8814","nextPostId":"8db05b76-ea0c-521a-bcba-434049955b39"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/play/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bf7979e2-2262-5f33-8705-abe29aca1e1b","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/picture/"},"frontmatter":{"title":"Picture"}},"next":{"fields":{"slug":"/phone-end/"},"frontmatter":{"title":"Phone End"}}},"pageContext":{"id":"bf7979e2-2262-5f33-8705-abe29aca1e1b","previousPostId":"a53f670b-3075-5d15-9b22-9f284b395185","nextPostId":"d872c08c-28fd-5076-8993-286962c5b310"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bf7979e2-2262-5f33-8705-abe29aca1e1b","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}},"next":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}}},"pageContext":{"id":"bf7979e2-2262-5f33-8705-abe29aca1e1b","previousPostId":"5fd6a85e-9f14-5dad-915c-c4202c48f68c","nextPostId":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/paint-kit/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","excerpt":"","html":"","frontmatter":{"title":"Paint Kit","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}},"next":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}}},"pageContext":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","previousPostId":"7e474570-e9d5-530b-9699-b8f07d767d47","nextPostId":"88dfd47d-9d7b-53f3-b602-20b32aa9128d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","excerpt":"","html":"","frontmatter":{"title":"Paint Kit","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}}},"pageContext":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","previousPostId":"29676fea-edfb-580e-9858-5a357eb683a2","nextPostId":"53f2e3ee-7f34-5c94-957e-37557a2252b3"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/rupee/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f39a711e-138f-505f-879a-b97fcfe00d27","excerpt":"","html":"","frontmatter":{"title":"Rupee","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}},"next":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}}},"pageContext":{"id":"f39a711e-138f-505f-879a-b97fcfe00d27","previousPostId":"68c6048d-b39f-5cb3-a0ea-752e50df6993","nextPostId":"7c7a7eaa-2190-5cf7-8fd9-72dbfb2a202d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f39a711e-138f-505f-879a-b97fcfe00d27","excerpt":"","html":"","frontmatter":{"title":"Rupee","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}},"next":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}}},"pageContext":{"id":"f39a711e-138f-505f-879a-b97fcfe00d27","previousPostId":"42f3ad2a-0072-5346-bf70-576724f09ca8","nextPostId":"68c6048d-b39f-5cb3-a0ea-752e50df6993"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

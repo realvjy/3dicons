@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/camera/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}},"next":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}}},"pageContext":{"id":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","previousPostId":"387ac35d-c009-5933-9954-67d491c7663e","nextPostId":"6ba7ea2d-544e-58fd-816a-a62c967b8aee"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}},"next":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}}},"pageContext":{"id":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","previousPostId":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d","nextPostId":"387ac35d-c009-5933-9954-67d491c7663e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

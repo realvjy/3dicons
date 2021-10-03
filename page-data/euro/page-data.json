@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/euro/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fce21935-3a9e-5187-bce2-a435ba9fda58","excerpt":"","html":"","frontmatter":{"title":"Euro","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}},"next":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}}},"pageContext":{"id":"fce21935-3a9e-5187-bce2-a435ba9fda58","previousPostId":"4795ddb3-b892-500b-95d0-79d753b3be52","nextPostId":"02920517-d996-52b3-ae2d-71ef8a20341b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fce21935-3a9e-5187-bce2-a435ba9fda58","excerpt":"","html":"","frontmatter":{"title":"Euro","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}},"next":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}}},"pageContext":{"id":"fce21935-3a9e-5187-bce2-a435ba9fda58","previousPostId":"2a1ece06-2c17-507c-8bad-d64b93190138","nextPostId":"4795ddb3-b892-500b-95d0-79d753b3be52"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

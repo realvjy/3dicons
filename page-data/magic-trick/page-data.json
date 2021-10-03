@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/magic-trick/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"692e97d4-2a31-56c3-a7a9-849ec9ddb3eb","excerpt":"","html":"","frontmatter":{"title":"Magic Trick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/locker/"},"frontmatter":{"title":"Locker"}},"next":{"fields":{"slug":"/map-pin/"},"frontmatter":{"title":"Map Pin"}}},"pageContext":{"id":"692e97d4-2a31-56c3-a7a9-849ec9ddb3eb","previousPostId":"85f6ae0f-1277-515e-af88-0202f2b6962c","nextPostId":"a6434734-8371-5a93-aaf1-16252838079c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"692e97d4-2a31-56c3-a7a9-849ec9ddb3eb","excerpt":"","html":"","frontmatter":{"title":"Magic Trick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}},"next":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}}},"pageContext":{"id":"692e97d4-2a31-56c3-a7a9-849ec9ddb3eb","previousPostId":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","nextPostId":"50544469-279f-5183-98e4-15435d2a6da1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

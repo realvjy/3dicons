@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/new-folder/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b38c0c54-0e31-56a7-b607-20dd3c94fb59","excerpt":"","html":"","frontmatter":{"title":"New Folder","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}},"next":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}}},"pageContext":{"id":"b38c0c54-0e31-56a7-b607-20dd3c94fb59","previousPostId":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","nextPostId":"53f2e3ee-7f34-5c94-957e-37557a2252b3"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b38c0c54-0e31-56a7-b607-20dd3c94fb59","excerpt":"","html":"","frontmatter":{"title":"New Folder","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}},"next":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}}},"pageContext":{"id":"b38c0c54-0e31-56a7-b607-20dd3c94fb59","previousPostId":"f042d474-dd6b-510e-8f66-f77033423fda","nextPostId":"d0c4084e-b63b-5ae1-85b7-6818032814f7"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

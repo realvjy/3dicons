@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/heart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","excerpt":"","html":"","frontmatter":{"title":"Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}},"next":{"fields":{"slug":"/headphone/"},"frontmatter":{"title":"Headphone"}}},"pageContext":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","previousPostId":"82041682-e9f1-5f8a-b592-b97ce1581b93","nextPostId":"f839c392-f05d-5f1f-91b1-014a5038fe5d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","excerpt":"","html":"","frontmatter":{"title":"Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}},"next":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}}},"pageContext":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","previousPostId":"bea2f4c1-5f55-516c-bd74-5b6778f6fefb","nextPostId":"6f61a428-1311-5ab2-843f-b07a321ef369"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

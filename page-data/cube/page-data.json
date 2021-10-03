@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/cube/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b3424582-25a5-5c8e-8d6b-d33e072985e8","excerpt":"","html":"","frontmatter":{"title":"Cube","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}},"next":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}}},"pageContext":{"id":"b3424582-25a5-5c8e-8d6b-d33e072985e8","previousPostId":"02920517-d996-52b3-ae2d-71ef8a20341b","nextPostId":"5f90196f-bad9-5e8d-880d-57b76613b62f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b3424582-25a5-5c8e-8d6b-d33e072985e8","excerpt":"","html":"","frontmatter":{"title":"Cube","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}},"next":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}}},"pageContext":{"id":"b3424582-25a5-5c8e-8d6b-d33e072985e8","previousPostId":"02920517-d996-52b3-ae2d-71ef8a20341b","nextPostId":"2a1ece06-2c17-507c-8bad-d64b93190138"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

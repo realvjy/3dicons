@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/back/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d2cbed14-793b-5437-96d9-3c1bf6c13727","excerpt":"","html":"","frontmatter":{"title":"Back","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/3d/"},"frontmatter":{"title":"3d"}},"next":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}}},"pageContext":{"id":"d2cbed14-793b-5437-96d9-3c1bf6c13727","previousPostId":"af57d37f-e2b2-5973-a92b-6a903855196b","nextPostId":"c2486883-dd06-53ca-b6ca-7be615c01419"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d2cbed14-793b-5437-96d9-3c1bf6c13727","excerpt":"","html":"","frontmatter":{"title":"Back","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/backward/"},"frontmatter":{"title":"Backward"}},"next":{"fields":{"slug":"/axe/"},"frontmatter":{"title":"Axe"}}},"pageContext":{"id":"d2cbed14-793b-5437-96d9-3c1bf6c13727","previousPostId":"b858b401-797c-52a8-aac1-29347e62f453","nextPostId":"67fb6259-874b-55df-aa13-4ac3e9b9f251"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

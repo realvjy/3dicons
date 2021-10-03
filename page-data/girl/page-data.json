@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/girl/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9699b477-37ba-5094-8439-fff813d99693","excerpt":"","html":"","frontmatter":{"title":"Girl","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}},"next":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}}},"pageContext":{"id":"9699b477-37ba-5094-8439-fff813d99693","previousPostId":"fbf33a97-7423-557a-bfc0-6fbaf647c157","nextPostId":"82041682-e9f1-5f8a-b592-b97ce1581b93"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9699b477-37ba-5094-8439-fff813d99693","excerpt":"","html":"","frontmatter":{"title":"Girl","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat/"},"frontmatter":{"title":"Chat"}},"next":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}}},"pageContext":{"id":"9699b477-37ba-5094-8439-fff813d99693","previousPostId":"889bfd4a-6199-5f03-91f6-1cbb865862e5","nextPostId":"82041682-e9f1-5f8a-b592-b97ce1581b93"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

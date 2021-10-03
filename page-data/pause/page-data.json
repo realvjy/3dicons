@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pause/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}},"next":{"fields":{"slug":"/phone-missing/"},"frontmatter":{"title":"Phone Missing"}}},"pageContext":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","previousPostId":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","nextPostId":"139b5b5c-730a-52bd-be70-7bfba4a7ccd1"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-missing/"},"frontmatter":{"title":"Phone Missing"}},"next":{"fields":{"slug":"/phone-only/"},"frontmatter":{"title":"Phone Only"}}},"pageContext":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","previousPostId":"139b5b5c-730a-52bd-be70-7bfba4a7ccd1","nextPostId":"6549ca59-4a7f-5a28-afe0-6e4504370ea8"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

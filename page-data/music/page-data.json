@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/music/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}},"next":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}}},"pageContext":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","previousPostId":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","nextPostId":"a91eed36-92bd-503c-8a31-e7f4814161be"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}},"next":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}}},"pageContext":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","previousPostId":"a91eed36-92bd-503c-8a31-e7f4814161be","nextPostId":"b38c0c54-0e31-56a7-b607-20dd3c94fb59"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
