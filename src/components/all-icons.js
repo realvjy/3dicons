@@ -61,7 +61,8 @@ const AllIcons = () => {
       <section className="all-icons">
         <div className="container">
           <div className="icons-wrap">
-            <h2 className="gradient blue">100+ icons Preview</h2>
+            <h2 className="gradient blue">120+ icons Preview</h2>
+            <p>1440+ Rendered Images</p>
               <div className="icons-grid">
               {icons.map(({ node }) => {
                 const title = node.frontmatter.title
@@ -70,7 +71,7 @@ const AllIcons = () => {
                   <div className="icons-box">
                     <div className="i-wrap">
                       <div className="img-ani">
-                        <div className="img-list" key={node.frontmatter.id.toString()}>
+                        <div className="img-list" key={node.frontmatter.id}>
                           <img src={node.frontmatter.gradient} className="gradient"/>
                           <img src={node.frontmatter.clay} className="clay"/>
                           <img src={node.frontmatter.color} className="color"/>

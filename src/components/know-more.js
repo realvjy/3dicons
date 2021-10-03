@@ -26,12 +26,12 @@ const KnowMore = () => {
               </div>
               <div className="all-icons">
                 <div className="num-stat">
-                  <h3>121</h3>
-                  <span>Icons</span>
+                  <h3>120</h3>
+                  <span>Unique Icons</span>
                 </div>
                 <div className="num-stat">
                   <h3>1440</h3>
-                  <span>Renders</span>
+                  <span>Rendered Images</span>
                 </div>
               </div>
             </div>

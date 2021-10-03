@@ -470,11 +470,12 @@ main{
     align-items: center;
     .header-text{
       h2{
-        font-weight: 600;
-        letter-spacing: -.2px;
+        font-weight: 700;
+        letter-spacing: -1.7px;
         line-height: normal;
-        font-size: 28px;
+        font-size: 32px;
         margin: 8px 0;
+
       }
 
     }
@@ -497,6 +498,7 @@ main{
           }
           h4{
             font-size: 16px;
+            font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 4px;
           }
@@ -504,6 +506,7 @@ main{
 
       }
       &.angle{
+        padding: 0!important;
         img{
           width: 100%;
         }
@@ -526,13 +529,18 @@ main{
       font-size: 40px;
       font-weight: 700;
       letter-spacing: -2px;
-      margin-bottom: 50px;
       @media (max-width: $mobile-landscape){
         padding: 12px;
         text-align: center;
         font-size: 32px;
         margin-bottom: 24px;
       }
+    }
+    p{
+      line-height: 120%;
+      font-size: 18px;
+      margin-bottom: 32px;
+      margin-top: 20px;
     }
     .icons-grid{
       display: flex;
@@ -579,6 +587,8 @@ main{
                 top: 0;
                 left: 0;
                 overflow: hidden;
+                -webkit-filter: drop-shadow(0 8px 32px rgba(0,0,0,.1));
+                filter: drop-shadow(0 8px 32px rgba(0,0,0,.1));
                 &.color{
                   opacity: 1;
                 }
@@ -658,7 +668,7 @@ main{
   .ia-wrap{
     margin: 0 54px;
     display: flex;
-    margin-bottom: 54px;
+    margin-top: 72px;
     flex-direction: column;
     align-items: center;
     @media (max-width: $mobile-landscape){
@@ -720,6 +730,7 @@ main{
         img{
           width: 100%;
           border-radius: 16px;
+          border: .2px solid rgba(220,220,220,0.2);
           -webkit-box-shadow: 0 24px 32px rgba(0,0,0,.06);
           -moz-box-shadow: 0 24px 32px rgba(0,0,0,.06);
           box-shadow: 0 24px 32px rgba(0,0,0,.06);
@@ -760,8 +771,9 @@ main{
             @media (max-width: $mobile-landscape){
               padding: 24px;
               padding-top: 0;
+              text-align: center;
+
             }
-            text-align: center;
             h2{
               font-size: 48px;
               font-weight: 700;
@@ -929,6 +941,8 @@ main{
             line-height: normal;
           }
           span{
+            font-size: 14px;
+            opacity: .8;
             line-height: normal;
           }
         }

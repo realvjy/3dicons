@@ -34,7 +34,6 @@ const Header = () => {
               <div className="s-a-wrap">
                 <div className="header-text">
                   <h2 className="gradient blue">4 predefined color style</h2>
-                  <p>+ you can adjust color</p>
                 </div>
                 <div className="img-box styles">
                   <div className="img-style">
@@ -68,8 +67,7 @@ const Header = () => {
             <div className="styles-angle">
               <div className="s-a-wrap">
                 <div className="header-text">
-                  <h2 className="gradient blue">4 predefined color style</h2>
-                  <p>+ you can adjust color</p>
+                  <h2 className="gradient blue">3 Camera angle & HQ render</h2>
                 </div>
                 <div className="img-box angle">
                   <img src="/angle-detail.png" />
