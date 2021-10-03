@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/thumb-down/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9db305a7-e6c6-57de-80a5-c9cb71144a68","excerpt":"","html":"","frontmatter":{"title":"Thumb Down","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}},"next":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}}},"pageContext":{"id":"9db305a7-e6c6-57de-80a5-c9cb71144a68","previousPostId":"3038415d-cb79-5271-bcb6-6ed96c017d8e","nextPostId":"84970912-8ea7-5b17-9535-ee413c212e82"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9db305a7-e6c6-57de-80a5-c9cb71144a68","excerpt":"","html":"","frontmatter":{"title":"Thumb Down","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}},"next":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}}},"pageContext":{"id":"9db305a7-e6c6-57de-80a5-c9cb71144a68","previousPostId":"c3ada814-fa2a-5750-aef8-38b53f49db32","nextPostId":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

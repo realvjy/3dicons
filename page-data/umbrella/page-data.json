@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/umbrella/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3038415d-cb79-5271-bcb6-6ed96c017d8e","excerpt":"","html":"","frontmatter":{"title":"Umbrella","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}},"next":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}}},"pageContext":{"id":"3038415d-cb79-5271-bcb6-6ed96c017d8e","previousPostId":"2f52358e-e0cf-562f-be10-510d9bbb326d","nextPostId":"9db305a7-e6c6-57de-80a5-c9cb71144a68"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3038415d-cb79-5271-bcb6-6ed96c017d8e","excerpt":"","html":"","frontmatter":{"title":"Umbrella","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}},"next":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}}},"pageContext":{"id":"3038415d-cb79-5271-bcb6-6ed96c017d8e","previousPostId":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","nextPostId":"84970912-8ea7-5b17-9535-ee413c212e82"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

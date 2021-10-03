@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/yuan/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"29fa79f8-066f-551c-a216-69373356832a","excerpt":"","html":"","frontmatter":{"title":"Yuan","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}},"next":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}}},"pageContext":{"id":"29fa79f8-066f-551c-a216-69373356832a","previousPostId":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197","nextPostId":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"29fa79f8-066f-551c-a216-69373356832a","excerpt":"","html":"","frontmatter":{"title":"Yuan","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}},"next":null},"pageContext":{"id":"29fa79f8-066f-551c-a216-69373356832a","previousPostId":"2642639c-9077-5d1d-9d35-342881328040","nextPostId":null}},
     "staticQueryHashes": ["2841359383","3257411868"]}

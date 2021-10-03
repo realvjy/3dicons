@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pause/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/phone-end/"},"frontmatter":{"title":"Phone End"}}},"pageContext":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","previousPostId":"29676fea-edfb-580e-9858-5a357eb683a2","nextPostId":"d872c08c-28fd-5076-8993-286962c5b310"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}},"next":{"fields":{"slug":"/phone-missing/"},"frontmatter":{"title":"Phone Missing"}}},"pageContext":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","previousPostId":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","nextPostId":"139b5b5c-730a-52bd-be70-7bfba4a7ccd1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

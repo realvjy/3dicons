@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/flash/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}},"next":{"fields":{"slug":"/folder/"},"frontmatter":{"title":"Folder"}}},"pageContext":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","previousPostId":"7d93ed38-0574-50ec-86c5-43f5d0e22385","nextPostId":"a9972342-0e2f-536a-b2a6-e9f28aa5396b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/forward/"},"frontmatter":{"title":"Forward"}},"next":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}}},"pageContext":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","previousPostId":"b3750146-733c-551f-9dda-64a430aecaaf","nextPostId":"7d93ed38-0574-50ec-86c5-43f5d0e22385"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

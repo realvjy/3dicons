@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/mobile/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"98fb2c3c-0c1d-54e0-b2d3-30287141fa58","excerpt":"","html":"","frontmatter":{"title":"Mobile","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}},"next":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}}},"pageContext":{"id":"98fb2c3c-0c1d-54e0-b2d3-30287141fa58","previousPostId":"06c762e7-8e1e-504c-9ca6-bc46478fd087","nextPostId":"a55f575e-5617-5398-8073-66dc78dc9c4e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"98fb2c3c-0c1d-54e0-b2d3-30287141fa58","excerpt":"","html":"","frontmatter":{"title":"Mobile","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}},"next":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}}},"pageContext":{"id":"98fb2c3c-0c1d-54e0-b2d3-30287141fa58","previousPostId":"4c01dc12-ddfb-5726-a912-0e705c277df8","nextPostId":"a55f575e-5617-5398-8073-66dc78dc9c4e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

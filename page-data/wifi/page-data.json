@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/wifi/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}},"next":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}}},"pageContext":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","previousPostId":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","nextPostId":"2cbbc144-2c6a-5874-a036-cf6724980d95"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}},"next":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}}},"pageContext":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","previousPostId":"a6efb0de-3893-5aa3-9e0a-b10e88b39d59","nextPostId":"1472cc3a-5ae8-5f28-9fb9-00c661948fae"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

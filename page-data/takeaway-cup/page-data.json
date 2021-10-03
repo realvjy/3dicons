@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/takeaway-cup/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b8efdcf2-fddd-5230-94b5-45554c33ddb4","excerpt":"","html":"","frontmatter":{"title":"Takeaway Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}},"next":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}}},"pageContext":{"id":"b8efdcf2-fddd-5230-94b5-45554c33ddb4","previousPostId":"2642639c-9077-5d1d-9d35-342881328040","nextPostId":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b8efdcf2-fddd-5230-94b5-45554c33ddb4","excerpt":"","html":"","frontmatter":{"title":"Takeaway Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}},"next":{"fields":{"slug":"/setting/"},"frontmatter":{"title":"Setting"}}},"pageContext":{"id":"b8efdcf2-fddd-5230-94b5-45554c33ddb4","previousPostId":"a0d61cc8-74b7-5188-986e-cf2835e83c26","nextPostId":"25152a5f-fb89-52f3-a77d-8b0df013a304"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

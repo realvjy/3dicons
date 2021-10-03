@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/music/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","previousPostId":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","nextPostId":"432841d1-d56b-5256-a3f7-19e9e7ac8dea"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}},"next":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}}},"pageContext":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","previousPostId":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","nextPostId":"a91eed36-92bd-503c-8a31-e7f4814161be"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

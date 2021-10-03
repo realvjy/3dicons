@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sphere/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}},"next":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}}},"pageContext":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","previousPostId":"a0d61cc8-74b7-5188-986e-cf2835e83c26","nextPostId":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}},"next":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}}},"pageContext":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","previousPostId":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2","nextPostId":"9db305a7-e6c6-57de-80a5-c9cb71144a68"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

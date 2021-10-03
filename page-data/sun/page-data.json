@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sun/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"63eea7bc-8d7e-5016-84dc-61665aac0a1a","excerpt":"","html":"","frontmatter":{"title":"Sun","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}},"next":{"fields":{"slug":"/setting/"},"frontmatter":{"title":"Setting"}}},"pageContext":{"id":"63eea7bc-8d7e-5016-84dc-61665aac0a1a","previousPostId":"dc74a60a-5904-5fa2-a8a0-00d547ec0285","nextPostId":"25152a5f-fb89-52f3-a77d-8b0df013a304"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"63eea7bc-8d7e-5016-84dc-61665aac0a1a","excerpt":"","html":"","frontmatter":{"title":"Sun","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}},"next":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}}},"pageContext":{"id":"63eea7bc-8d7e-5016-84dc-61665aac0a1a","previousPostId":"7c7a7eaa-2190-5cf7-8fd9-72dbfb2a202d","nextPostId":"dc74a60a-5904-5fa2-a8a0-00d547ec0285"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

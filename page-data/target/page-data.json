@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/target/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","excerpt":"","html":"","frontmatter":{"title":"Target","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}},"next":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}}},"pageContext":{"id":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","previousPostId":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2","nextPostId":"a6efb0de-3893-5aa3-9e0a-b10e88b39d59"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","excerpt":"","html":"","frontmatter":{"title":"Target","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}},"next":{"fields":{"slug":"/tea-cup/"},"frontmatter":{"title":"Tea Cup"}}},"pageContext":{"id":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","previousPostId":"dc74a60a-5904-5fa2-a8a0-00d547ec0285","nextPostId":"0b570000-5b82-5697-ab03-34202388b171"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

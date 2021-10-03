@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/eyedropper/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4e26da73-6078-52c5-913e-e52d873dee5e","excerpt":"","html":"","frontmatter":{"title":"Eyedropper","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}},"next":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}}},"pageContext":{"id":"4e26da73-6078-52c5-913e-e52d873dee5e","previousPostId":"fce21935-3a9e-5187-bce2-a435ba9fda58","nextPostId":"98c27363-0a27-5758-b33d-4b3427a72f73"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4e26da73-6078-52c5-913e-e52d873dee5e","excerpt":"","html":"","frontmatter":{"title":"Eyedropper","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}},"next":{"fields":{"slug":"/file-plus/"},"frontmatter":{"title":"File Plus"}}},"pageContext":{"id":"4e26da73-6078-52c5-913e-e52d873dee5e","previousPostId":"98c27363-0a27-5758-b33d-4b3427a72f73","nextPostId":"be8aeba7-9f54-5eb9-8ad8-da9cabd2fcb7"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

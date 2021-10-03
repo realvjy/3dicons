@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/trophy/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","excerpt":"","html":"","frontmatter":{"title":"Trophy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}},"next":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}}},"pageContext":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","previousPostId":"29fa79f8-066f-551c-a216-69373356832a","nextPostId":"ab5390fd-e849-5e70-be05-1aa3b44173e0"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","excerpt":"","html":"","frontmatter":{"title":"Trophy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}},"next":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}}},"pageContext":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","previousPostId":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197","nextPostId":"3038415d-cb79-5271-bcb6-6ed96c017d8e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

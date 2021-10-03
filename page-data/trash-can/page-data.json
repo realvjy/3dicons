@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/trash-can/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2f52358e-e0cf-562f-be10-510d9bbb326d","excerpt":"","html":"","frontmatter":{"title":"Trash Can","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}},"next":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}}},"pageContext":{"id":"2f52358e-e0cf-562f-be10-510d9bbb326d","previousPostId":"a6efb0de-3893-5aa3-9e0a-b10e88b39d59","nextPostId":"3038415d-cb79-5271-bcb6-6ed96c017d8e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2f52358e-e0cf-562f-be10-510d9bbb326d","excerpt":"","html":"","frontmatter":{"title":"Trash Can","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}},"next":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}}},"pageContext":{"id":"2f52358e-e0cf-562f-be10-510d9bbb326d","previousPostId":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","nextPostId":"2642639c-9077-5d1d-9d35-342881328040"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

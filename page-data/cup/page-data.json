@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/cup/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"02920517-d996-52b3-ae2d-71ef8a20341b","excerpt":"","html":"","frontmatter":{"title":"Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/crown/"},"frontmatter":{"title":"Crown"}},"next":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}}},"pageContext":{"id":"02920517-d996-52b3-ae2d-71ef8a20341b","previousPostId":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","nextPostId":"2a1ece06-2c17-507c-8bad-d64b93190138"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"02920517-d996-52b3-ae2d-71ef8a20341b","excerpt":"","html":"","frontmatter":{"title":"Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}},"next":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}}},"pageContext":{"id":"02920517-d996-52b3-ae2d-71ef8a20341b","previousPostId":"fce21935-3a9e-5187-bce2-a435ba9fda58","nextPostId":"b3424582-25a5-5c8e-8d6b-d33e072985e8"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

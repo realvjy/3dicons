@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/color-palette/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}},"next":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}}},"pageContext":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","previousPostId":"036acc64-4734-5496-a4d4-b9bddddcb102","nextPostId":"39e24189-8dc8-5d07-94fd-4a551b18b5b9"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","previousPostId":"53f2e3ee-7f34-5c94-957e-37557a2252b3","nextPostId":"432841d1-d56b-5256-a3f7-19e9e7ac8dea"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

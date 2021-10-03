@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/location/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","excerpt":"","html":"","frontmatter":{"title":"Location","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}},"next":{"fields":{"slug":"/locker/"},"frontmatter":{"title":"Locker"}}},"pageContext":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","previousPostId":"00cd8c0c-851f-513c-8ed3-0d13baf01a52","nextPostId":"85f6ae0f-1277-515e-af88-0202f2b6962c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","excerpt":"","html":"","frontmatter":{"title":"Location","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}},"next":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}}},"pageContext":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","previousPostId":"4091ef55-6965-5dde-98b5-55ffdaaaa0cd","nextPostId":"6f61a428-1311-5ab2-843f-b07a321ef369"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

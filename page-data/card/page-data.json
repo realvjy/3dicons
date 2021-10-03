@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/card/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","excerpt":"","html":"","frontmatter":{"title":"Card","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}},"next":{"fields":{"slug":"/calculator/"},"frontmatter":{"title":"Calculator"}}},"pageContext":{"id":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","previousPostId":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","nextPostId":"4d7d4b31-661a-507d-9515-19a58cb88db4"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","excerpt":"","html":"","frontmatter":{"title":"Card","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}},"next":{"fields":{"slug":"/chat-bubble/"},"frontmatter":{"title":"Chat Bubble"}}},"pageContext":{"id":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","previousPostId":"23fe5000-5048-5e59-b467-3756fc7de10d","nextPostId":"274ceee2-e673-5846-9b08-b142cbc44a47"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

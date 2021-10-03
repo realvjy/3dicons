@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/blender/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"036acc64-4734-5496-a4d4-b9bddddcb102","excerpt":"","html":"","frontmatter":{"title":"Blender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}},"next":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}}},"pageContext":{"id":"036acc64-4734-5496-a4d4-b9bddddcb102","previousPostId":"8db05b76-ea0c-521a-bcba-434049955b39","nextPostId":"7e474570-e9d5-530b-9699-b8f07d767d47"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"036acc64-4734-5496-a4d4-b9bddddcb102","excerpt":"","html":"","frontmatter":{"title":"Blender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/backward/"},"frontmatter":{"title":"Backward"}},"next":{"fields":{"slug":"/boy/"},"frontmatter":{"title":"Boy"}}},"pageContext":{"id":"036acc64-4734-5496-a4d4-b9bddddcb102","previousPostId":"b858b401-797c-52a8-aac1-29347e62f453","nextPostId":"4f44566d-567e-5c02-b8af-3c69cd80c5bb"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

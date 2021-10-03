@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/gift/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","excerpt":"","html":"","frontmatter":{"title":"Gift","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/flag/"},"frontmatter":{"title":"Flag"}},"next":{"fields":{"slug":"/girl/"},"frontmatter":{"title":"Girl"}}},"pageContext":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","previousPostId":"b08f79d7-cbfd-51f5-a425-97dc0d759997","nextPostId":"9699b477-37ba-5094-8439-fff813d99693"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","excerpt":"","html":"","frontmatter":{"title":"Gift","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","previousPostId":"7d93ed38-0574-50ec-86c5-43f5d0e22385","nextPostId":"fbf33a97-7423-557a-bfc0-6fbaf647c157"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/map-pin/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6434734-8371-5a93-aaf1-16252838079c","excerpt":"","html":"","frontmatter":{"title":"Map Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}},"next":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}}},"pageContext":{"id":"a6434734-8371-5a93-aaf1-16252838079c","previousPostId":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","nextPostId":"4c01dc12-ddfb-5726-a912-0e705c277df8"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6434734-8371-5a93-aaf1-16252838079c","excerpt":"","html":"","frontmatter":{"title":"Map Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}},"next":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}}},"pageContext":{"id":"a6434734-8371-5a93-aaf1-16252838079c","previousPostId":"692e97d4-2a31-56c3-a7a9-849ec9ddb3eb","nextPostId":"06c762e7-8e1e-504c-9ca6-bc46478fd087"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

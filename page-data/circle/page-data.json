@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/circle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"87755d5f-c7d2-5f40-a563-53b5950e6f91","excerpt":"","html":"","frontmatter":{"title":"Circle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}},"next":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}}},"pageContext":{"id":"87755d5f-c7d2-5f40-a563-53b5950e6f91","previousPostId":"2e3872f7-3d6d-5bc5-ba22-a47261970683","nextPostId":"387ac35d-c009-5933-9954-67d491c7663e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"87755d5f-c7d2-5f40-a563-53b5950e6f91","excerpt":"","html":"","frontmatter":{"title":"Circle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}},"next":{"fields":{"slug":"/crown/"},"frontmatter":{"title":"Crown"}}},"pageContext":{"id":"87755d5f-c7d2-5f40-a563-53b5950e6f91","previousPostId":"56cda326-20c6-5d13-9425-2ba265ee8814","nextPostId":"0a855ceb-bcf3-59f5-bb56-d2177a734d43"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

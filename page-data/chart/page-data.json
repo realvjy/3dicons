@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/chart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","excerpt":"","html":"","frontmatter":{"title":"Chart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/calculator/"},"frontmatter":{"title":"Calculator"}},"next":{"fields":{"slug":"/chat-text/"},"frontmatter":{"title":"Chat Text"}}},"pageContext":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","previousPostId":"4d7d4b31-661a-507d-9515-19a58cb88db4","nextPostId":"c8b56e52-3b32-5a20-aa31-a817249c9dbe"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","excerpt":"","html":"","frontmatter":{"title":"Chart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}},"next":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}}},"pageContext":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","previousPostId":"6ba7ea2d-544e-58fd-816a-a62c967b8aee","nextPostId":"20efafdf-54a6-54e1-9a5e-40fab6b85f87"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

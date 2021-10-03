@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pound/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","excerpt":"","html":"","frontmatter":{"title":"Pound","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}},"next":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}}},"pageContext":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","previousPostId":"d0c4084e-b63b-5ae1-85b7-6818032814f7","nextPostId":"f39a711e-138f-505f-879a-b97fcfe00d27"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","excerpt":"","html":"","frontmatter":{"title":"Pound","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}},"next":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}}},"pageContext":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","previousPostId":"42f3ad2a-0072-5346-bf70-576724f09ca8","nextPostId":"96075d54-ca8c-568d-acc6-609b13fd83b1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

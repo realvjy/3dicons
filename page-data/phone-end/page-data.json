@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/phone-end/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d872c08c-28fd-5076-8993-286962c5b310","excerpt":"","html":"","frontmatter":{"title":"Phone End","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}},"next":{"fields":{"slug":"/phone-incoming/"},"frontmatter":{"title":"Phone Incoming"}}},"pageContext":{"id":"d872c08c-28fd-5076-8993-286962c5b310","previousPostId":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","nextPostId":"10315916-8e92-5e38-9ca6-83655ffc23eb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d872c08c-28fd-5076-8993-286962c5b310","excerpt":"","html":"","frontmatter":{"title":"Phone End","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/phone-outgoing/"},"frontmatter":{"title":"Phone Outgoing"}}},"pageContext":{"id":"d872c08c-28fd-5076-8993-286962c5b310","previousPostId":"bf7979e2-2262-5f33-8705-abe29aca1e1b","nextPostId":"eee28079-6ab7-5525-bae5-0a56e1157b2b"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
