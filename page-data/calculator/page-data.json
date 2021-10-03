@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/calculator/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4d7d4b31-661a-507d-9515-19a58cb88db4","excerpt":"","html":"","frontmatter":{"title":"Calculator","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark/"},"frontmatter":{"title":"Bookmark"}},"next":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}}},"pageContext":{"id":"4d7d4b31-661a-507d-9515-19a58cb88db4","previousPostId":"28652105-0fbf-5947-9428-7a9841c50245","nextPostId":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

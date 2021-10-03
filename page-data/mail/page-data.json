@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/mail/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50544469-279f-5183-98e4-15435d2a6da1","excerpt":"","html":"","frontmatter":{"title":"Mail","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}},"next":{"fields":{"slug":"/map-pin/"},"frontmatter":{"title":"Map Pin"}}},"pageContext":{"id":"50544469-279f-5183-98e4-15435d2a6da1","previousPostId":"692e97d4-2a31-56c3-a7a9-849ec9ddb3eb","nextPostId":"a6434734-8371-5a93-aaf1-16252838079c"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

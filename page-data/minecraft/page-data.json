@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/minecraft/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a55f575e-5617-5398-8073-66dc78dc9c4e","excerpt":"","html":"","frontmatter":{"title":"Minecraft","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}},"next":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}}},"pageContext":{"id":"a55f575e-5617-5398-8073-66dc78dc9c4e","previousPostId":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","nextPostId":"98fb2c3c-0c1d-54e0-b2d3-30287141fa58"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

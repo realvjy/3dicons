@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/play/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bf7979e2-2262-5f33-8705-abe29aca1e1b","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}},"next":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}}},"pageContext":{"id":"bf7979e2-2262-5f33-8705-abe29aca1e1b","previousPostId":"53f2e3ee-7f34-5c94-957e-37557a2252b3","nextPostId":"5fd6a85e-9f14-5dad-915c-c4202c48f68c"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

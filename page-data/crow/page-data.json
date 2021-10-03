@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/crow/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9b466aca-330a-5984-b445-243c68b296b6","excerpt":"","html":"","frontmatter":{"title":"Crow","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}},"next":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}}},"pageContext":{"id":"9b466aca-330a-5984-b445-243c68b296b6","previousPostId":"87755d5f-c7d2-5f40-a563-53b5950e6f91","nextPostId":"56cda326-20c6-5d13-9425-2ba265ee8814"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

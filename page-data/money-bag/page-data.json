@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/money-bag/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d382eba7-bbe0-5183-8eac-03434a0c75e4","excerpt":"","html":"","frontmatter":{"title":"Money Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}},"next":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}}},"pageContext":{"id":"d382eba7-bbe0-5183-8eac-03434a0c75e4","previousPostId":"98fb2c3c-0c1d-54e0-b2d3-30287141fa58","nextPostId":"a91eed36-92bd-503c-8a31-e7f4814161be"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

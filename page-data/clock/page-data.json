@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/clock/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8db05b76-ea0c-521a-bcba-434049955b39","excerpt":"","html":"","frontmatter":{"title":"Clock","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}},"next":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}}},"pageContext":{"id":"8db05b76-ea0c-521a-bcba-434049955b39","previousPostId":"b3424582-25a5-5c8e-8d6b-d33e072985e8","nextPostId":"2a1ece06-2c17-507c-8bad-d64b93190138"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

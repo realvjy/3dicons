@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/megaphone/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4c01dc12-ddfb-5726-a912-0e705c277df8","excerpt":"","html":"","frontmatter":{"title":"Megaphone","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}},"next":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}}},"pageContext":{"id":"4c01dc12-ddfb-5726-a912-0e705c277df8","previousPostId":"06c762e7-8e1e-504c-9ca6-bc46478fd087","nextPostId":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

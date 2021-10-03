@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/trophy/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","excerpt":"","html":"","frontmatter":{"title":"Trophy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}},"next":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}}},"pageContext":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","previousPostId":"2f52358e-e0cf-562f-be10-510d9bbb326d","nextPostId":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

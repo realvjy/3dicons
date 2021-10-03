@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/umbrella/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3038415d-cb79-5271-bcb6-6ed96c017d8e","excerpt":"","html":"","frontmatter":{"title":"Umbrella","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}},"next":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}}},"pageContext":{"id":"3038415d-cb79-5271-bcb6-6ed96c017d8e","previousPostId":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197","nextPostId":"84970912-8ea7-5b17-9535-ee413c212e82"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

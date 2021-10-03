@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/fav-folder/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"98c27363-0a27-5758-b33d-4b3427a72f73","excerpt":"","html":"","frontmatter":{"title":"Fav Folder","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}},"next":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}}},"pageContext":{"id":"98c27363-0a27-5758-b33d-4b3427a72f73","previousPostId":"fce21935-3a9e-5187-bce2-a435ba9fda58","nextPostId":"5f90196f-bad9-5e8d-880d-57b76613b62f"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

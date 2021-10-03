@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/roll-brush/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"42f3ad2a-0072-5346-bf70-576724f09ca8","excerpt":"","html":"","frontmatter":{"title":"Roll Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}},"next":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}}},"pageContext":{"id":"42f3ad2a-0072-5346-bf70-576724f09ca8","previousPostId":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e","nextPostId":"f39a711e-138f-505f-879a-b97fcfe00d27"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

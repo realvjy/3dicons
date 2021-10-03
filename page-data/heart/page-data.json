@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/heart/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","excerpt":"","html":"","frontmatter":{"title":"Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}},"next":{"fields":{"slug":"/headphone/"},"frontmatter":{"title":"Headphone"}}},"pageContext":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","previousPostId":"82041682-e9f1-5f8a-b592-b97ce1581b93","nextPostId":"f839c392-f05d-5f1f-91b1-014a5038fe5d"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/bookmark-fav/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c5a6f678-fa4f-537f-8ff6-5255849feabe","excerpt":"","html":"","frontmatter":{"title":"Bookmark Fav","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/boy/"},"frontmatter":{"title":"Boy"}},"next":{"fields":{"slug":"/bucket/"},"frontmatter":{"title":"Bucket"}}},"pageContext":{"id":"c5a6f678-fa4f-537f-8ff6-5255849feabe","previousPostId":"4f44566d-567e-5c02-b8af-3c69cd80c5bb","nextPostId":"66160a86-892d-5891-8500-f26c293f664c"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

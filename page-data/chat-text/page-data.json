@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/chat-text/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c8b56e52-3b32-5a20-aa31-a817249c9dbe","excerpt":"","html":"","frontmatter":{"title":"Chat Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}},"next":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}}},"pageContext":{"id":"c8b56e52-3b32-5a20-aa31-a817249c9dbe","previousPostId":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","nextPostId":"23fe5000-5048-5e59-b467-3756fc7de10d"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/bucket/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"66160a86-892d-5891-8500-f26c293f664c","excerpt":"","html":"","frontmatter":{"title":"Bucket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark-fav/"},"frontmatter":{"title":"Bookmark Fav"}},"next":{"fields":{"slug":"/brush/"},"frontmatter":{"title":"Brush"}}},"pageContext":{"id":"66160a86-892d-5891-8500-f26c293f664c","previousPostId":"c5a6f678-fa4f-537f-8ff6-5255849feabe","nextPostId":"5757415d-e698-5aff-9df6-bfc2d8e98ddc"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

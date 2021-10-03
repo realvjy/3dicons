@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/pin/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5fd6a85e-9f14-5dad-915c-c4202c48f68c","excerpt":"","html":"","frontmatter":{"title":"Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}}},"pageContext":{"id":"5fd6a85e-9f14-5dad-915c-c4202c48f68c","previousPostId":"bf7979e2-2262-5f33-8705-abe29aca1e1b","nextPostId":"4a582e03-4fb9-5746-9ee9-e1221abb4158"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

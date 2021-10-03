@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/eth/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4795ddb3-b892-500b-95d0-79d753b3be52","excerpt":"","html":"","frontmatter":{"title":"Eth","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}},"next":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}}},"pageContext":{"id":"4795ddb3-b892-500b-95d0-79d753b3be52","previousPostId":"2a1ece06-2c17-507c-8bad-d64b93190138","nextPostId":"02920517-d996-52b3-ae2d-71ef8a20341b"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/cube/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b3424582-25a5-5c8e-8d6b-d33e072985e8","excerpt":"","html":"","frontmatter":{"title":"Cube","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}},"next":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}}},"pageContext":{"id":"b3424582-25a5-5c8e-8d6b-d33e072985e8","previousPostId":"39e24189-8dc8-5d07-94fd-4a551b18b5b9","nextPostId":"8db05b76-ea0c-521a-bcba-434049955b39"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

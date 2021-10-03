@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/file-text/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c7ecf228-304c-572b-ad82-c158c6f9689c","excerpt":"","html":"","frontmatter":{"title":"File Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file-plus/"},"frontmatter":{"title":"File Plus"}},"next":{"fields":{"slug":"/file-fav/"},"frontmatter":{"title":"File Fav"}}},"pageContext":{"id":"c7ecf228-304c-572b-ad82-c158c6f9689c","previousPostId":"be8aeba7-9f54-5eb9-8ad8-da9cabd2fcb7","nextPostId":"7d92520f-e962-5b99-ac2b-f308f1a6438b"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

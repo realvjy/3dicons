@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/map-pin/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6434734-8371-5a93-aaf1-16252838079c","excerpt":"","html":"","frontmatter":{"title":"Map Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}},"next":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}}},"pageContext":{"id":"a6434734-8371-5a93-aaf1-16252838079c","previousPostId":"50544469-279f-5183-98e4-15435d2a6da1","nextPostId":"06c762e7-8e1e-504c-9ca6-bc46478fd087"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/gift/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","excerpt":"","html":"","frontmatter":{"title":"Gift","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/forward/"},"frontmatter":{"title":"Forward"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","previousPostId":"b3750146-733c-551f-9dda-64a430aecaaf","nextPostId":"fbf33a97-7423-557a-bfc0-6fbaf647c157"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

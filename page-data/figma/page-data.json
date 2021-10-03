@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/figma/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8090f6a2-2127-5482-b9d5-9c48bccf617f","excerpt":"","html":"","frontmatter":{"title":"Figma","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eyedropper/"},"frontmatter":{"title":"Eyedropper"}},"next":{"fields":{"slug":"/file/"},"frontmatter":{"title":"File"}}},"pageContext":{"id":"8090f6a2-2127-5482-b9d5-9c48bccf617f","previousPostId":"4e26da73-6078-52c5-913e-e52d873dee5e","nextPostId":"7f796f07-2c99-5573-bfce-7d1610fe5a55"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/sun/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"63eea7bc-8d7e-5016-84dc-61665aac0a1a","excerpt":"","html":"","frontmatter":{"title":"Sun","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}},"next":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}}},"pageContext":{"id":"63eea7bc-8d7e-5016-84dc-61665aac0a1a","previousPostId":"c3ada814-fa2a-5750-aef8-38b53f49db32","nextPostId":"b8efdcf2-fddd-5230-94b5-45554c33ddb4"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

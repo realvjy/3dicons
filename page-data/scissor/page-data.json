@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/scissor/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"68c6048d-b39f-5cb3-a0ea-752e50df6993","excerpt":"","html":"","frontmatter":{"title":"Scissor","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}},"next":{"fields":{"slug":"/setting/"},"frontmatter":{"title":"Setting"}}},"pageContext":{"id":"68c6048d-b39f-5cb3-a0ea-752e50df6993","previousPostId":"96075d54-ca8c-568d-acc6-609b13fd83b1","nextPostId":"25152a5f-fb89-52f3-a77d-8b0df013a304"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

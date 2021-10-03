@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/yuan/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"29fa79f8-066f-551c-a216-69373356832a","excerpt":"","html":"","frontmatter":{"title":"Yuan","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}},"next":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}}},"pageContext":{"id":"29fa79f8-066f-551c-a216-69373356832a","previousPostId":"2cbbc144-2c6a-5874-a036-cf6724980d95","nextPostId":"ab5390fd-e849-5e70-be05-1aa3b44173e0"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
