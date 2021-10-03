@@ -20,14 +20,10 @@ const Header = () => {
             <div className="btn-lnks">
                 <div className="dwn-links">
                   <button className="btn btn-download">
-                    <h4>Download All</h4>
+                    <h4>Coming Soon</h4>
                   </button>
                   <ul className="dwn-list">
-                    <li><a href="https://bit.ly/contra-wireframe-kit-figma"><img src="/figma.png"/> Figma</a></li>
-                    <li><a href="http://bit.ly/contra-wireframe-kit-sketchapp"><img src="/sketch.png"/> Sketch</a></li>
-                    <li><a href="https://bit.ly/contra-wireframe-kit-xd"><img src="xd.png"/> Adobe XD</a></li>
-                    <li><a href="https://bit.ly/contra-wireframe-kit-xd"><img src="blender.png"/> Blender & .OBJ</a></li>
-                    <li><a href="https://bit.ly/contra-wireframe-kit-studio"><img src="/png.png"/> .PNG</a></li>
+                    <li><a href="https://bit.ly/3dicons-early-access"> Early Access</a></li>
                   </ul>
                 </div>
                 <a href="https://www.buymeacoffee.com/realvjy" className="btn btn-coffee">
