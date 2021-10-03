@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/forward/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b3750146-733c-551f-9dda-64a430aecaaf","excerpt":"","html":"","frontmatter":{"title":"Forward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}},"next":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}}},"pageContext":{"id":"b3750146-733c-551f-9dda-64a430aecaaf","previousPostId":"4091ef55-6965-5dde-98b5-55ffdaaaa0cd","nextPostId":"00cd8c0c-851f-513c-8ed3-0d13baf01a52"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b3750146-733c-551f-9dda-64a430aecaaf","excerpt":"","html":"","frontmatter":{"title":"Forward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/girl/"},"frontmatter":{"title":"Girl"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"b3750146-733c-551f-9dda-64a430aecaaf","previousPostId":"9699b477-37ba-5094-8439-fff813d99693","nextPostId":"fbf33a97-7423-557a-bfc0-6fbaf647c157"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

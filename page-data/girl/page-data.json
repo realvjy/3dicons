@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/girl/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9699b477-37ba-5094-8439-fff813d99693","excerpt":"","html":"","frontmatter":{"title":"Girl","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}},"next":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}}},"pageContext":{"id":"9699b477-37ba-5094-8439-fff813d99693","previousPostId":"96075d54-ca8c-568d-acc6-609b13fd83b1","nextPostId":"9db305a7-e6c6-57de-80a5-c9cb71144a68"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9699b477-37ba-5094-8439-fff813d99693","excerpt":"","html":"","frontmatter":{"title":"Girl","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}},"next":{"fields":{"slug":"/forward/"},"frontmatter":{"title":"Forward"}}},"pageContext":{"id":"9699b477-37ba-5094-8439-fff813d99693","previousPostId":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","nextPostId":"b3750146-733c-551f-9dda-64a430aecaaf"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

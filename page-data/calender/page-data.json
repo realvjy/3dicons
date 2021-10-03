@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/calender/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"387ac35d-c009-5933-9954-67d491c7663e","excerpt":"","html":"","frontmatter":{"title":"Calender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}},"next":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}}},"pageContext":{"id":"387ac35d-c009-5933-9954-67d491c7663e","previousPostId":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","nextPostId":"23fe5000-5048-5e59-b467-3756fc7de10d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"387ac35d-c009-5933-9954-67d491c7663e","excerpt":"","html":"","frontmatter":{"title":"Calender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}},"next":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}}},"pageContext":{"id":"387ac35d-c009-5933-9954-67d491c7663e","previousPostId":"87755d5f-c7d2-5f40-a563-53b5950e6f91","nextPostId":"8db05b76-ea0c-521a-bcba-434049955b39"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

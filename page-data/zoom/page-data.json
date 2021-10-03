@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/zoom/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","excerpt":"","html":"","frontmatter":{"title":"Zoom","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}},"next":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}}},"pageContext":{"id":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","previousPostId":"29fa79f8-066f-551c-a216-69373356832a","nextPostId":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","excerpt":"","html":"","frontmatter":{"title":"Zoom","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}},"next":{"fields":{"slug":"/tea-cup/"},"frontmatter":{"title":"Tea Cup"}}},"pageContext":{"id":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","previousPostId":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220","nextPostId":"0b570000-5b82-5697-ab03-34202388b171"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

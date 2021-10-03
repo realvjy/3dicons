@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/money-bag/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d382eba7-bbe0-5183-8eac-03434a0c75e4","excerpt":"","html":"","frontmatter":{"title":"Money Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}},"next":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}}},"pageContext":{"id":"d382eba7-bbe0-5183-8eac-03434a0c75e4","previousPostId":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","nextPostId":"b38c0c54-0e31-56a7-b607-20dd3c94fb59"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d382eba7-bbe0-5183-8eac-03434a0c75e4","excerpt":"","html":"","frontmatter":{"title":"Money Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}},"next":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}}},"pageContext":{"id":"d382eba7-bbe0-5183-8eac-03434a0c75e4","previousPostId":"a91eed36-92bd-503c-8a31-e7f4814161be","nextPostId":"f1cb7c35-a423-5bf6-b0c3-6c78c84235b5"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

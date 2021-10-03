@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/video-camera/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"84970912-8ea7-5b17-9535-ee413c212e82","excerpt":"","html":"","frontmatter":{"title":"Video Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}},"next":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}}},"pageContext":{"id":"84970912-8ea7-5b17-9535-ee413c212e82","previousPostId":"2cbbc144-2c6a-5874-a036-cf6724980d95","nextPostId":"ab5390fd-e849-5e70-be05-1aa3b44173e0"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"84970912-8ea7-5b17-9535-ee413c212e82","excerpt":"","html":"","frontmatter":{"title":"Video Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}},"next":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}}},"pageContext":{"id":"84970912-8ea7-5b17-9535-ee413c212e82","previousPostId":"9db305a7-e6c6-57de-80a5-c9cb71144a68","nextPostId":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

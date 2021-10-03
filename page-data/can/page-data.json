@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/can/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6ba7ea2d-544e-58fd-816a-a62c967b8aee","excerpt":"","html":"","frontmatter":{"title":"Can","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/calculator/"},"frontmatter":{"title":"Calculator"}},"next":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}}},"pageContext":{"id":"6ba7ea2d-544e-58fd-816a-a62c967b8aee","previousPostId":"4d7d4b31-661a-507d-9515-19a58cb88db4","nextPostId":"20efafdf-54a6-54e1-9a5e-40fab6b85f87"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6ba7ea2d-544e-58fd-816a-a62c967b8aee","excerpt":"","html":"","frontmatter":{"title":"Can","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat-text/"},"frontmatter":{"title":"Chat Text"}},"next":{"fields":{"slug":"/chat/"},"frontmatter":{"title":"Chat"}}},"pageContext":{"id":"6ba7ea2d-544e-58fd-816a-a62c967b8aee","previousPostId":"c8b56e52-3b32-5a20-aa31-a817249c9dbe","nextPostId":"889bfd4a-6199-5f03-91f6-1cbb865862e5"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

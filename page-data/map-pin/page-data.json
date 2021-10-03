@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/map-pin/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6434734-8371-5a93-aaf1-16252838079c","excerpt":"","html":"","frontmatter":{"title":"Map Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}},"next":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}}},"pageContext":{"id":"a6434734-8371-5a93-aaf1-16252838079c","previousPostId":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220","nextPostId":"c2486883-dd06-53ca-b6ca-7be615c01419"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6434734-8371-5a93-aaf1-16252838079c","excerpt":"","html":"","frontmatter":{"title":"Map Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}},"next":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}}},"pageContext":{"id":"a6434734-8371-5a93-aaf1-16252838079c","previousPostId":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","nextPostId":"4c01dc12-ddfb-5726-a912-0e705c277df8"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

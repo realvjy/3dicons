@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/phone-ringing/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"08967e3b-9a71-5b74-9a67-98db4f313e87","excerpt":"","html":"","frontmatter":{"title":"Phone Ringing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-outgoing/"},"frontmatter":{"title":"Phone Outgoing"}},"next":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}}},"pageContext":{"id":"08967e3b-9a71-5b74-9a67-98db4f313e87","previousPostId":"eee28079-6ab7-5525-bae5-0a56e1157b2b","nextPostId":"bf7979e2-2262-5f33-8705-abe29aca1e1b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"08967e3b-9a71-5b74-9a67-98db4f313e87","excerpt":"","html":"","frontmatter":{"title":"Phone Ringing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}}},"pageContext":{"id":"08967e3b-9a71-5b74-9a67-98db4f313e87","previousPostId":"bf7979e2-2262-5f33-8705-abe29aca1e1b","nextPostId":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

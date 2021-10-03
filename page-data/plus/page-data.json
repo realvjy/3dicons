@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/plus/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e","excerpt":"","html":"","frontmatter":{"title":"Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}}},"pageContext":{"id":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e","previousPostId":"bf7979e2-2262-5f33-8705-abe29aca1e1b","nextPostId":"5fd6a85e-9f14-5dad-915c-c4202c48f68c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e","excerpt":"","html":"","frontmatter":{"title":"Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-ringing/"},"frontmatter":{"title":"Phone Ringing"}},"next":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}}},"pageContext":{"id":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e","previousPostId":"08967e3b-9a71-5b74-9a67-98db4f313e87","nextPostId":"5fd6a85e-9f14-5dad-915c-c4202c48f68c"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

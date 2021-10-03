@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/locker/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"85f6ae0f-1277-515e-af88-0202f2b6962c","excerpt":"","html":"","frontmatter":{"title":"Locker","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}},"next":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}}},"pageContext":{"id":"85f6ae0f-1277-515e-af88-0202f2b6962c","previousPostId":"50544469-279f-5183-98e4-15435d2a6da1","nextPostId":"06c762e7-8e1e-504c-9ca6-bc46478fd087"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"85f6ae0f-1277-515e-af88-0202f2b6962c","excerpt":"","html":"","frontmatter":{"title":"Locker","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}},"next":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}}},"pageContext":{"id":"85f6ae0f-1277-515e-af88-0202f2b6962c","previousPostId":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","nextPostId":"bea2f4c1-5f55-516c-bd74-5b6778f6fefb"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

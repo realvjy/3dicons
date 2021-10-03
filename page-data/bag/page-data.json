@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/bag/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c2486883-dd06-53ca-b6ca-7be615c01419","excerpt":"","html":"","frontmatter":{"title":"Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/map-pin/"},"frontmatter":{"title":"Map Pin"}},"next":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}}},"pageContext":{"id":"c2486883-dd06-53ca-b6ca-7be615c01419","previousPostId":"a6434734-8371-5a93-aaf1-16252838079c","nextPostId":"a91eed36-92bd-503c-8a31-e7f4814161be"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c2486883-dd06-53ca-b6ca-7be615c01419","excerpt":"","html":"","frontmatter":{"title":"Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/backward/"},"frontmatter":{"title":"Backward"}},"next":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}}},"pageContext":{"id":"c2486883-dd06-53ca-b6ca-7be615c01419","previousPostId":"b858b401-797c-52a8-aac1-29347e62f453","nextPostId":"1e57312c-90ce-562d-8404-2e47af74f6e0"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

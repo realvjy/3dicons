@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/heart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","excerpt":"","html":"","frontmatter":{"title":"Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}},"next":{"fields":{"slug":"/tea-cup/"},"frontmatter":{"title":"Tea Cup"}}},"pageContext":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","previousPostId":"a91eed36-92bd-503c-8a31-e7f4814161be","nextPostId":"0b570000-5b82-5697-ab03-34202388b171"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","excerpt":"","html":"","frontmatter":{"title":"Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}},"next":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}}},"pageContext":{"id":"6419e78d-53af-552b-aaec-d6fe59a394ea","previousPostId":"6f61a428-1311-5ab2-843f-b07a321ef369","nextPostId":"4091ef55-6965-5dde-98b5-55ffdaaaa0cd"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

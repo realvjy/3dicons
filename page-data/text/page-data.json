@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/text/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","excerpt":"","html":"","frontmatter":{"title":"Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}},"next":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}}},"pageContext":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","previousPostId":"c3ada814-fa2a-5750-aef8-38b53f49db32","nextPostId":"f39a711e-138f-505f-879a-b97fcfe00d27"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","excerpt":"","html":"","frontmatter":{"title":"Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}},"next":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}}},"pageContext":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","previousPostId":"7c7a7eaa-2190-5cf7-8fd9-72dbfb2a202d","nextPostId":"c3ada814-fa2a-5750-aef8-38b53f49db32"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/battery/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1e57312c-90ce-562d-8404-2e47af74f6e0","excerpt":"","html":"","frontmatter":{"title":"Battery","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/backward/"},"frontmatter":{"title":"Backward"}},"next":{"fields":{"slug":"/back/"},"frontmatter":{"title":"Back"}}},"pageContext":{"id":"1e57312c-90ce-562d-8404-2e47af74f6e0","previousPostId":"b858b401-797c-52a8-aac1-29347e62f453","nextPostId":"d2cbed14-793b-5437-96d9-3c1bf6c13727"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1e57312c-90ce-562d-8404-2e47af74f6e0","excerpt":"","html":"","frontmatter":{"title":"Battery","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}},"next":{"fields":{"slug":"/brush/"},"frontmatter":{"title":"Brush"}}},"pageContext":{"id":"1e57312c-90ce-562d-8404-2e47af74f6e0","previousPostId":"c2486883-dd06-53ca-b6ca-7be615c01419","nextPostId":"5757415d-e698-5aff-9df6-bfc2d8e98ddc"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

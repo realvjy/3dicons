@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/chat-text/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c8b56e52-3b32-5a20-aa31-a817249c9dbe","excerpt":"","html":"","frontmatter":{"title":"Chat Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat/"},"frontmatter":{"title":"Chat"}},"next":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}}},"pageContext":{"id":"c8b56e52-3b32-5a20-aa31-a817249c9dbe","previousPostId":"889bfd4a-6199-5f03-91f6-1cbb865862e5","nextPostId":"2e3872f7-3d6d-5bc5-ba22-a47261970683"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c8b56e52-3b32-5a20-aa31-a817249c9dbe","excerpt":"","html":"","frontmatter":{"title":"Chat Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}},"next":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}}},"pageContext":{"id":"c8b56e52-3b32-5a20-aa31-a817249c9dbe","previousPostId":"23fe5000-5048-5e59-b467-3756fc7de10d","nextPostId":"6ba7ea2d-544e-58fd-816a-a62c967b8aee"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

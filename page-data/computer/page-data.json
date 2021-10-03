@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/computer/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"56cda326-20c6-5d13-9425-2ba265ee8814","excerpt":"","html":"","frontmatter":{"title":"Computer","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/at/"},"frontmatter":{"title":"At"}},"next":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}}},"pageContext":{"id":"56cda326-20c6-5d13-9425-2ba265ee8814","previousPostId":"90fe78e7-544d-5347-aa11-b73995e3b222","nextPostId":"02920517-d996-52b3-ae2d-71ef8a20341b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"56cda326-20c6-5d13-9425-2ba265ee8814","excerpt":"","html":"","frontmatter":{"title":"Computer","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark-fav/"},"frontmatter":{"title":"Bookmark Fav"}},"next":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}}},"pageContext":{"id":"56cda326-20c6-5d13-9425-2ba265ee8814","previousPostId":"c5a6f678-fa4f-537f-8ff6-5255849feabe","nextPostId":"b3424582-25a5-5c8e-8d6b-d33e072985e8"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

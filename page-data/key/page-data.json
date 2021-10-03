@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/key/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bea2f4c1-5f55-516c-bd74-5b6778f6fefb","excerpt":"","html":"","frontmatter":{"title":"Key","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}},"next":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}}},"pageContext":{"id":"bea2f4c1-5f55-516c-bd74-5b6778f6fefb","previousPostId":"6f61a428-1311-5ab2-843f-b07a321ef369","nextPostId":"4091ef55-6965-5dde-98b5-55ffdaaaa0cd"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bea2f4c1-5f55-516c-bd74-5b6778f6fefb","excerpt":"","html":"","frontmatter":{"title":"Key","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/locker/"},"frontmatter":{"title":"Locker"}},"next":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}}},"pageContext":{"id":"bea2f4c1-5f55-516c-bd74-5b6778f6fefb","previousPostId":"85f6ae0f-1277-515e-af88-0202f2b6962c","nextPostId":"692e97d4-2a31-56c3-a7a9-849ec9ddb3eb"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

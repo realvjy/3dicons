@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/next/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","excerpt":"","html":"","frontmatter":{"title":"Next","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}}},"pageContext":{"id":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","previousPostId":"29676fea-edfb-580e-9858-5a357eb683a2","nextPostId":"88dfd47d-9d7b-53f3-b602-20b32aa9128d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","excerpt":"","html":"","frontmatter":{"title":"Next","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}},"next":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}}},"pageContext":{"id":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","previousPostId":"f1cb7c35-a423-5bf6-b0c3-6c78c84235b5","nextPostId":"f042d474-dd6b-510e-8f66-f77033423fda"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

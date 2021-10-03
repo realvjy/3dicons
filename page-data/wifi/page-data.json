@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/wifi/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}},"next":{"fields":{"slug":"/picture/"},"frontmatter":{"title":"Picture"}}},"pageContext":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","previousPostId":"84970912-8ea7-5b17-9535-ee413c212e82","nextPostId":"a53f670b-3075-5d15-9b22-9f284b395185"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}},"next":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}}},"pageContext":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","previousPostId":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","nextPostId":"2cbbc144-2c6a-5874-a036-cf6724980d95"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/explorer/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5f90196f-bad9-5e8d-880d-57b76613b62f","excerpt":"","html":"","frontmatter":{"title":"Explorer","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eyedropper/"},"frontmatter":{"title":"Eyedropper"}},"next":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}}},"pageContext":{"id":"5f90196f-bad9-5e8d-880d-57b76613b62f","previousPostId":"4e26da73-6078-52c5-913e-e52d873dee5e","nextPostId":"98c27363-0a27-5758-b33d-4b3427a72f73"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5f90196f-bad9-5e8d-880d-57b76613b62f","excerpt":"","html":"","frontmatter":{"title":"Explorer","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}},"next":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}}},"pageContext":{"id":"5f90196f-bad9-5e8d-880d-57b76613b62f","previousPostId":"4795ddb3-b892-500b-95d0-79d753b3be52","nextPostId":"fce21935-3a9e-5187-bce2-a435ba9fda58"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

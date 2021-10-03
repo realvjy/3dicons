@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/megaphone/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4c01dc12-ddfb-5726-a912-0e705c277df8","excerpt":"","html":"","frontmatter":{"title":"Megaphone","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}},"next":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}}},"pageContext":{"id":"4c01dc12-ddfb-5726-a912-0e705c277df8","previousPostId":"a55f575e-5617-5398-8073-66dc78dc9c4e","nextPostId":"98fb2c3c-0c1d-54e0-b2d3-30287141fa58"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4c01dc12-ddfb-5726-a912-0e705c277df8","excerpt":"","html":"","frontmatter":{"title":"Megaphone","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/map-pin/"},"frontmatter":{"title":"Map Pin"}},"next":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}}},"pageContext":{"id":"4c01dc12-ddfb-5726-a912-0e705c277df8","previousPostId":"a6434734-8371-5a93-aaf1-16252838079c","nextPostId":"06c762e7-8e1e-504c-9ca6-bc46478fd087"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

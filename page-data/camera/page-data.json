@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/camera/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/folder/"},"frontmatter":{"title":"Folder"}},"next":{"fields":{"slug":"/flash/"},"frontmatter":{"title":"Flash"}}},"pageContext":{"id":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","previousPostId":"a9972342-0e2f-536a-b2a6-e9f28aa5396b","nextPostId":"ba648b97-a07a-53dd-9673-9d452c4bdc55"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}},"next":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}}},"pageContext":{"id":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","previousPostId":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d","nextPostId":"20efafdf-54a6-54e1-9a5e-40fab6b85f87"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/rupee/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f39a711e-138f-505f-879a-b97fcfe00d27","excerpt":"","html":"","frontmatter":{"title":"Rupee","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}},"next":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}}},"pageContext":{"id":"f39a711e-138f-505f-879a-b97fcfe00d27","previousPostId":"a0d61cc8-74b7-5188-986e-cf2835e83c26","nextPostId":"b8efdcf2-fddd-5230-94b5-45554c33ddb4"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f39a711e-138f-505f-879a-b97fcfe00d27","excerpt":"","html":"","frontmatter":{"title":"Rupee","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}},"next":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}}},"pageContext":{"id":"f39a711e-138f-505f-879a-b97fcfe00d27","previousPostId":"4a582e03-4fb9-5746-9ee9-e1221abb4158","nextPostId":"b38c0c54-0e31-56a7-b607-20dd3c94fb59"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

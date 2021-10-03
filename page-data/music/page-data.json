@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/music/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}},"next":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}}},"pageContext":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","previousPostId":"f1cb7c35-a423-5bf6-b0c3-6c78c84235b5","nextPostId":"2192a6b4-39b2-51c6-8bc4-42c28869af0b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"f042d474-dd6b-510e-8f66-f77033423fda","previousPostId":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","nextPostId":"432841d1-d56b-5256-a3f7-19e9e7ac8dea"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

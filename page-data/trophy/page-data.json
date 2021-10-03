@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/trophy/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","excerpt":"","html":"","frontmatter":{"title":"Trophy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}},"next":null},"pageContext":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","previousPostId":"1472cc3a-5ae8-5f28-9fb9-00c661948fae","nextPostId":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","excerpt":"","html":"","frontmatter":{"title":"Trophy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}},"next":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}}},"pageContext":{"id":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","previousPostId":"29fa79f8-066f-551c-a216-69373356832a","nextPostId":"ab5390fd-e849-5e70-be05-1aa3b44173e0"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

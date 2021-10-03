@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/3d/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"af57d37f-e2b2-5973-a92b-6a903855196b","excerpt":"","html":"","frontmatter":{"title":"3d","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark/"},"frontmatter":{"title":"Bookmark"}},"next":{"fields":{"slug":"/boy/"},"frontmatter":{"title":"Boy"}}},"pageContext":{"id":"af57d37f-e2b2-5973-a92b-6a903855196b","previousPostId":"28652105-0fbf-5947-9428-7a9841c50245","nextPostId":"4f44566d-567e-5c02-b8af-3c69cd80c5bb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"af57d37f-e2b2-5973-a92b-6a903855196b","excerpt":"","html":"","frontmatter":{"title":"3d","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/axe/"},"frontmatter":{"title":"Axe"}},"next":{"fields":{"slug":"/back/"},"frontmatter":{"title":"Back"}}},"pageContext":{"id":"af57d37f-e2b2-5973-a92b-6a903855196b","previousPostId":"67fb6259-874b-55df-aa13-4ac3e9b9f251","nextPostId":"d2cbed14-793b-5437-96d9-3c1bf6c13727"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

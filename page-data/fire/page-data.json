@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/fire/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7d93ed38-0574-50ec-86c5-43f5d0e22385","excerpt":"","html":"","frontmatter":{"title":"Fire","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file/"},"frontmatter":{"title":"File"}},"next":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}}},"pageContext":{"id":"7d93ed38-0574-50ec-86c5-43f5d0e22385","previousPostId":"7f796f07-2c99-5573-bfce-7d1610fe5a55","nextPostId":"2a1ece06-2c17-507c-8bad-d64b93190138"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7d93ed38-0574-50ec-86c5-43f5d0e22385","excerpt":"","html":"","frontmatter":{"title":"Fire","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file/"},"frontmatter":{"title":"File"}},"next":{"fields":{"slug":"/flash/"},"frontmatter":{"title":"Flash"}}},"pageContext":{"id":"7d93ed38-0574-50ec-86c5-43f5d0e22385","previousPostId":"7f796f07-2c99-5573-bfce-7d1610fe5a55","nextPostId":"ba648b97-a07a-53dd-9673-9d452c4bdc55"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

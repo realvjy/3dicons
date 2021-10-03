@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/mic/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","excerpt":"","html":"","frontmatter":{"title":"Mic","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}},"next":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}}},"pageContext":{"id":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","previousPostId":"98fb2c3c-0c1d-54e0-b2d3-30287141fa58","nextPostId":"d382eba7-bbe0-5183-8eac-03434a0c75e4"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","excerpt":"","html":"","frontmatter":{"title":"Mic","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}},"next":{"fields":{"slug":"/map-pin/"},"frontmatter":{"title":"Map Pin"}}},"pageContext":{"id":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","previousPostId":"50544469-279f-5183-98e4-15435d2a6da1","nextPostId":"a6434734-8371-5a93-aaf1-16252838079c"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

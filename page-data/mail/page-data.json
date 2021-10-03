@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/mail/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50544469-279f-5183-98e4-15435d2a6da1","excerpt":"","html":"","frontmatter":{"title":"Mail","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}},"next":{"fields":{"slug":"/locker/"},"frontmatter":{"title":"Locker"}}},"pageContext":{"id":"50544469-279f-5183-98e4-15435d2a6da1","previousPostId":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","nextPostId":"85f6ae0f-1277-515e-af88-0202f2b6962c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50544469-279f-5183-98e4-15435d2a6da1","excerpt":"","html":"","frontmatter":{"title":"Mail","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}},"next":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}}},"pageContext":{"id":"50544469-279f-5183-98e4-15435d2a6da1","previousPostId":"692e97d4-2a31-56c3-a7a9-849ec9ddb3eb","nextPostId":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

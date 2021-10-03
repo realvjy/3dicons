@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/setting/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"25152a5f-fb89-52f3-a77d-8b0df013a304","excerpt":"","html":"","frontmatter":{"title":"Setting","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}},"next":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}}},"pageContext":{"id":"25152a5f-fb89-52f3-a77d-8b0df013a304","previousPostId":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e","nextPostId":"7c7a7eaa-2190-5cf7-8fd9-72dbfb2a202d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"25152a5f-fb89-52f3-a77d-8b0df013a304","excerpt":"","html":"","frontmatter":{"title":"Setting","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}},"next":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}}},"pageContext":{"id":"25152a5f-fb89-52f3-a77d-8b0df013a304","previousPostId":"63eea7bc-8d7e-5016-84dc-61665aac0a1a","nextPostId":"7c7a7eaa-2190-5cf7-8fd9-72dbfb2a202d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/notify-heart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}},"next":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}}},"pageContext":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","previousPostId":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","nextPostId":"29676fea-edfb-580e-9858-5a357eb683a2"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}},"next":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}}},"pageContext":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","previousPostId":"5fd6a85e-9f14-5dad-915c-c4202c48f68c","nextPostId":"4a582e03-4fb9-5746-9ee9-e1221abb4158"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

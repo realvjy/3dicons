@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/paint-kit/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","excerpt":"","html":"","frontmatter":{"title":"Paint Kit","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}},"next":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}}},"pageContext":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","previousPostId":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","nextPostId":"53f2e3ee-7f34-5c94-957e-37557a2252b3"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","excerpt":"","html":"","frontmatter":{"title":"Paint Kit","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}},"next":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}}},"pageContext":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","previousPostId":"f042d474-dd6b-510e-8f66-f77033423fda","nextPostId":"29676fea-edfb-580e-9858-5a357eb683a2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

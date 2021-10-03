@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/paint-brush/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"29676fea-edfb-580e-9858-5a357eb683a2","excerpt":"","html":"","frontmatter":{"title":"Paint Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}},"next":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}}},"pageContext":{"id":"29676fea-edfb-580e-9858-5a357eb683a2","previousPostId":"d0c4084e-b63b-5ae1-85b7-6818032814f7","nextPostId":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"29676fea-edfb-580e-9858-5a357eb683a2","excerpt":"","html":"","frontmatter":{"title":"Paint Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}},"next":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}}},"pageContext":{"id":"29676fea-edfb-580e-9858-5a357eb683a2","previousPostId":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","nextPostId":"88dfd47d-9d7b-53f3-b602-20b32aa9128d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

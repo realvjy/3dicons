@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sphere/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}},"next":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}}},"pageContext":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","previousPostId":"63eea7bc-8d7e-5016-84dc-61665aac0a1a","nextPostId":"a0d61cc8-74b7-5188-986e-cf2835e83c26"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}},"next":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}}},"pageContext":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","previousPostId":"a0d61cc8-74b7-5188-986e-cf2835e83c26","nextPostId":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

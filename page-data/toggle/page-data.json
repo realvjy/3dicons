@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/toggle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220","excerpt":"","html":"","frontmatter":{"title":"Toggle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/target/"},"frontmatter":{"title":"Target"}},"next":{"fields":{"slug":"/map-pin/"},"frontmatter":{"title":"Map Pin"}}},"pageContext":{"id":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220","previousPostId":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","nextPostId":"a6434734-8371-5a93-aaf1-16252838079c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220","excerpt":"","html":"","frontmatter":{"title":"Toggle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}},"next":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}}},"pageContext":{"id":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220","previousPostId":"2cbbc144-2c6a-5874-a036-cf6724980d95","nextPostId":"1472cc3a-5ae8-5f28-9fb9-00c661948fae"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
