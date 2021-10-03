@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/clock/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8db05b76-ea0c-521a-bcba-434049955b39","excerpt":"","html":"","frontmatter":{"title":"Clock","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}},"next":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}}},"pageContext":{"id":"8db05b76-ea0c-521a-bcba-434049955b39","previousPostId":"b3424582-25a5-5c8e-8d6b-d33e072985e8","nextPostId":"2a1ece06-2c17-507c-8bad-d64b93190138"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8db05b76-ea0c-521a-bcba-434049955b39","excerpt":"","html":"","frontmatter":{"title":"Clock","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}},"next":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}}},"pageContext":{"id":"8db05b76-ea0c-521a-bcba-434049955b39","previousPostId":"87755d5f-c7d2-5f40-a563-53b5950e6f91","nextPostId":"7e474570-e9d5-530b-9699-b8f07d767d47"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

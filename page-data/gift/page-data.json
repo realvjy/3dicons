@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/gift/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","excerpt":"","html":"","frontmatter":{"title":"Gift","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/forward/"},"frontmatter":{"title":"Forward"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","previousPostId":"b3750146-733c-551f-9dda-64a430aecaaf","nextPostId":"fbf33a97-7423-557a-bfc0-6fbaf647c157"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","excerpt":"","html":"","frontmatter":{"title":"Gift","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}},"next":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}}},"pageContext":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","previousPostId":"82041682-e9f1-5f8a-b592-b97ce1581b93","nextPostId":"6f61a428-1311-5ab2-843f-b07a321ef369"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

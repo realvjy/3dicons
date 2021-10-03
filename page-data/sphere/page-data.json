@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sphere/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}},"next":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}}},"pageContext":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","previousPostId":"dc74a60a-5904-5fa2-a8a0-00d547ec0285","nextPostId":"63eea7bc-8d7e-5016-84dc-61665aac0a1a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}},"next":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}}},"pageContext":{"id":"c3ada814-fa2a-5750-aef8-38b53f49db32","previousPostId":"63eea7bc-8d7e-5016-84dc-61665aac0a1a","nextPostId":"a0d61cc8-74b7-5188-986e-cf2835e83c26"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

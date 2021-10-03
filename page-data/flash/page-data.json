@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/flash/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}},"next":{"fields":{"slug":"/girl/"},"frontmatter":{"title":"Girl"}}},"pageContext":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","previousPostId":"7d93ed38-0574-50ec-86c5-43f5d0e22385","nextPostId":"9699b477-37ba-5094-8439-fff813d99693"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"ba648b97-a07a-53dd-9673-9d452c4bdc55","previousPostId":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408","nextPostId":"fbf33a97-7423-557a-bfc0-6fbaf647c157"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

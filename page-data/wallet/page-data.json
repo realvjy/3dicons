@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/wallet/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2cbbc144-2c6a-5874-a036-cf6724980d95","excerpt":"","html":"","frontmatter":{"title":"Wallet","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}},"next":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}}},"pageContext":{"id":"2cbbc144-2c6a-5874-a036-cf6724980d95","previousPostId":"84970912-8ea7-5b17-9535-ee413c212e82","nextPostId":"29fa79f8-066f-551c-a216-69373356832a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2cbbc144-2c6a-5874-a036-cf6724980d95","excerpt":"","html":"","frontmatter":{"title":"Wallet","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}},"next":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}}},"pageContext":{"id":"2cbbc144-2c6a-5874-a036-cf6724980d95","previousPostId":"3038415d-cb79-5271-bcb6-6ed96c017d8e","nextPostId":"84970912-8ea7-5b17-9535-ee413c212e82"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

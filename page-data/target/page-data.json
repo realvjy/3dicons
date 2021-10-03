@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/target/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","excerpt":"","html":"","frontmatter":{"title":"Target","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}},"next":{"fields":{"slug":"/tea-cup/"},"frontmatter":{"title":"Tea Cup"}}},"pageContext":{"id":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","previousPostId":"b8efdcf2-fddd-5230-94b5-45554c33ddb4","nextPostId":"0b570000-5b82-5697-ab03-34202388b171"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","excerpt":"","html":"","frontmatter":{"title":"Target","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}},"next":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}}},"pageContext":{"id":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","previousPostId":"9db305a7-e6c6-57de-80a5-c9cb71144a68","nextPostId":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

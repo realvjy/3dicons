@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tea-cup/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0b570000-5b82-5697-ab03-34202388b171","excerpt":"","html":"","frontmatter":{"title":"Tea Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/target/"},"frontmatter":{"title":"Target"}},"next":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}}},"pageContext":{"id":"0b570000-5b82-5697-ab03-34202388b171","previousPostId":"20828f0d-c0ba-5433-a766-ceecc81bdcf9","nextPostId":"a0d61cc8-74b7-5188-986e-cf2835e83c26"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0b570000-5b82-5697-ab03-34202388b171","excerpt":"","html":"","frontmatter":{"title":"Tea Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}},"next":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}}},"pageContext":{"id":"0b570000-5b82-5697-ab03-34202388b171","previousPostId":"6419e78d-53af-552b-aaec-d6fe59a394ea","nextPostId":"2f52358e-e0cf-562f-be10-510d9bbb326d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

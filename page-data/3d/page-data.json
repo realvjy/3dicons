@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/3d/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"af57d37f-e2b2-5973-a92b-6a903855196b","excerpt":"","html":"","frontmatter":{"title":"3d","date":"Invalid date","description":null}},"previous":null,"next":{"fields":{"slug":"/3d-coin/"},"frontmatter":{"title":"3d Coin"}}},"pageContext":{"id":"af57d37f-e2b2-5973-a92b-6a903855196b","previousPostId":null,"nextPostId":"bd59039f-2da6-5d7e-afae-2b10df16c9a5"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"af57d37f-e2b2-5973-a92b-6a903855196b","excerpt":"","html":"","frontmatter":{"title":"3d","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark/"},"frontmatter":{"title":"Bookmark"}},"next":{"fields":{"slug":"/boy/"},"frontmatter":{"title":"Boy"}}},"pageContext":{"id":"af57d37f-e2b2-5973-a92b-6a903855196b","previousPostId":"28652105-0fbf-5947-9428-7a9841c50245","nextPostId":"4f44566d-567e-5c02-b8af-3c69cd80c5bb"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

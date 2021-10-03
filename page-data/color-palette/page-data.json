@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/color-palette/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat/"},"frontmatter":{"title":"Chat"}},"next":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}}},"pageContext":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","previousPostId":"889bfd4a-6199-5f03-91f6-1cbb865862e5","nextPostId":"87755d5f-c7d2-5f40-a563-53b5950e6f91"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}},"next":{"fields":{"slug":"/at/"},"frontmatter":{"title":"At"}}},"pageContext":{"id":"7e474570-e9d5-530b-9699-b8f07d767d47","previousPostId":"8db05b76-ea0c-521a-bcba-434049955b39","nextPostId":"90fe78e7-544d-5347-aa11-b73995e3b222"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/file-fav/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7d92520f-e962-5b99-ac2b-f308f1a6438b","excerpt":"","html":"","frontmatter":{"title":"File Fav","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file-text/"},"frontmatter":{"title":"File Text"}},"next":{"fields":{"slug":"/flag/"},"frontmatter":{"title":"Flag"}}},"pageContext":{"id":"7d92520f-e962-5b99-ac2b-f308f1a6438b","previousPostId":"c7ecf228-304c-572b-ad82-c158c6f9689c","nextPostId":"b08f79d7-cbfd-51f5-a425-97dc0d759997"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7d92520f-e962-5b99-ac2b-f308f1a6438b","excerpt":"","html":"","frontmatter":{"title":"File Fav","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/figma/"},"frontmatter":{"title":"Figma"}},"next":{"fields":{"slug":"/file/"},"frontmatter":{"title":"File"}}},"pageContext":{"id":"7d92520f-e962-5b99-ac2b-f308f1a6438b","previousPostId":"8090f6a2-2127-5482-b9d5-9c48bccf617f","nextPostId":"7f796f07-2c99-5573-bfce-7d1610fe5a55"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

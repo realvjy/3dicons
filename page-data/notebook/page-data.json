@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/notebook/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","excerpt":"","html":"","frontmatter":{"title":"Notebook","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}},"next":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}}},"pageContext":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","previousPostId":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","nextPostId":"29676fea-edfb-580e-9858-5a357eb683a2"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","excerpt":"","html":"","frontmatter":{"title":"Notebook","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}},"next":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}}},"pageContext":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","previousPostId":"f042d474-dd6b-510e-8f66-f77033423fda","nextPostId":"d0c4084e-b63b-5ae1-85b7-6818032814f7"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

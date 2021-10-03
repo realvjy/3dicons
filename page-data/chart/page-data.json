@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/chart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","excerpt":"","html":"","frontmatter":{"title":"Chart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat-text/"},"frontmatter":{"title":"Chat Text"}},"next":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}}},"pageContext":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","previousPostId":"c8b56e52-3b32-5a20-aa31-a817249c9dbe","nextPostId":"2e3872f7-3d6d-5bc5-ba22-a47261970683"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","excerpt":"","html":"","frontmatter":{"title":"Chart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}},"next":{"fields":{"slug":"/chat-bubble/"},"frontmatter":{"title":"Chat Bubble"}}},"pageContext":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","previousPostId":"387ac35d-c009-5933-9954-67d491c7663e","nextPostId":"274ceee2-e673-5846-9b08-b142cbc44a47"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

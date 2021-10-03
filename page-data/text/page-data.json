@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/text/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","excerpt":"","html":"","frontmatter":{"title":"Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tea-cup/"},"frontmatter":{"title":"Tea Cup"}},"next":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}}},"pageContext":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","previousPostId":"0b570000-5b82-5697-ab03-34202388b171","nextPostId":"9db305a7-e6c6-57de-80a5-c9cb71144a68"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","excerpt":"","html":"","frontmatter":{"title":"Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}},"next":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}}},"pageContext":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","previousPostId":"c3ada814-fa2a-5750-aef8-38b53f49db32","nextPostId":"f39a711e-138f-505f-879a-b97fcfe00d27"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

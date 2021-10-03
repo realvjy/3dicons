@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/picture/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a53f670b-3075-5d15-9b22-9f284b395185","excerpt":"","html":"","frontmatter":{"title":"Picture","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-ringing/"},"frontmatter":{"title":"Phone Ringing"}},"next":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}}},"pageContext":{"id":"a53f670b-3075-5d15-9b22-9f284b395185","previousPostId":"08967e3b-9a71-5b74-9a67-98db4f313e87","nextPostId":"53f2e3ee-7f34-5c94-957e-37557a2252b3"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a53f670b-3075-5d15-9b22-9f284b395185","excerpt":"","html":"","frontmatter":{"title":"Picture","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}},"next":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}}},"pageContext":{"id":"a53f670b-3075-5d15-9b22-9f284b395185","previousPostId":"ab5390fd-e849-5e70-be05-1aa3b44173e0","nextPostId":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/3d-coin/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bd59039f-2da6-5d7e-afae-2b10df16c9a5","excerpt":"","html":"","frontmatter":{"title":"3d Coin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/3d/"},"frontmatter":{"title":"3d"}},"next":{"fields":{"slug":"/at/"},"frontmatter":{"title":"At"}}},"pageContext":{"id":"bd59039f-2da6-5d7e-afae-2b10df16c9a5","previousPostId":"af57d37f-e2b2-5973-a92b-6a903855196b","nextPostId":"90fe78e7-544d-5347-aa11-b73995e3b222"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bd59039f-2da6-5d7e-afae-2b10df16c9a5","excerpt":"","html":"","frontmatter":{"title":"3d Coin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}},"next":{"fields":{"slug":"/brush/"},"frontmatter":{"title":"Brush"}}},"pageContext":{"id":"bd59039f-2da6-5d7e-afae-2b10df16c9a5","previousPostId":"036acc64-4734-5496-a4d4-b9bddddcb102","nextPostId":"5757415d-e698-5aff-9df6-bfc2d8e98ddc"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

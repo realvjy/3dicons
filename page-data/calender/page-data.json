@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/calender/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"387ac35d-c009-5933-9954-67d491c7663e","excerpt":"","html":"","frontmatter":{"title":"Calender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}},"next":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}}},"pageContext":{"id":"387ac35d-c009-5933-9954-67d491c7663e","previousPostId":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d","nextPostId":"6ba7ea2d-544e-58fd-816a-a62c967b8aee"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"387ac35d-c009-5933-9954-67d491c7663e","excerpt":"","html":"","frontmatter":{"title":"Calender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}},"next":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}}},"pageContext":{"id":"387ac35d-c009-5933-9954-67d491c7663e","previousPostId":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","nextPostId":"23fe5000-5048-5e59-b467-3756fc7de10d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

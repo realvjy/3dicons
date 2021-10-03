@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/money/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f1cb7c35-a423-5bf6-b0c3-6c78c84235b5","excerpt":"","html":"","frontmatter":{"title":"Money","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}},"next":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}}},"pageContext":{"id":"f1cb7c35-a423-5bf6-b0c3-6c78c84235b5","previousPostId":"f042d474-dd6b-510e-8f66-f77033423fda","nextPostId":"b38c0c54-0e31-56a7-b607-20dd3c94fb59"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f1cb7c35-a423-5bf6-b0c3-6c78c84235b5","excerpt":"","html":"","frontmatter":{"title":"Money","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}},"next":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}}},"pageContext":{"id":"f1cb7c35-a423-5bf6-b0c3-6c78c84235b5","previousPostId":"b38c0c54-0e31-56a7-b607-20dd3c94fb59","nextPostId":"f042d474-dd6b-510e-8f66-f77033423fda"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/next/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","excerpt":"","html":"","frontmatter":{"title":"Next","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}},"next":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}}},"pageContext":{"id":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","previousPostId":"b38c0c54-0e31-56a7-b607-20dd3c94fb59","nextPostId":"2192a6b4-39b2-51c6-8bc4-42c28869af0b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","excerpt":"","html":"","frontmatter":{"title":"Next","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}}},"pageContext":{"id":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","previousPostId":"29676fea-edfb-580e-9858-5a357eb683a2","nextPostId":"88dfd47d-9d7b-53f3-b602-20b32aa9128d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

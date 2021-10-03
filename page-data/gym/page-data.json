@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/gym/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"82041682-e9f1-5f8a-b592-b97ce1581b93","excerpt":"","html":"","frontmatter":{"title":"Gym","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}},"next":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}}},"pageContext":{"id":"82041682-e9f1-5f8a-b592-b97ce1581b93","previousPostId":"fbf33a97-7423-557a-bfc0-6fbaf647c157","nextPostId":"6419e78d-53af-552b-aaec-d6fe59a394ea"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"82041682-e9f1-5f8a-b592-b97ce1581b93","excerpt":"","html":"","frontmatter":{"title":"Gym","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/headphone/"},"frontmatter":{"title":"Headphone"}},"next":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}}},"pageContext":{"id":"82041682-e9f1-5f8a-b592-b97ce1581b93","previousPostId":"f839c392-f05d-5f1f-91b1-014a5038fe5d","nextPostId":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

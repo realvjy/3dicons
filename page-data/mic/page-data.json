@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/mic/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","excerpt":"","html":"","frontmatter":{"title":"Mic","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}},"next":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}}},"pageContext":{"id":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","previousPostId":"4c01dc12-ddfb-5726-a912-0e705c277df8","nextPostId":"a55f575e-5617-5398-8073-66dc78dc9c4e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","excerpt":"","html":"","frontmatter":{"title":"Mic","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}},"next":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}}},"pageContext":{"id":"1ac4edcc-30ee-55dd-9602-7f20f1e8efff","previousPostId":"98fb2c3c-0c1d-54e0-b2d3-30287141fa58","nextPostId":"d382eba7-bbe0-5183-8eac-03434a0c75e4"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/crown/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","excerpt":"","html":"","frontmatter":{"title":"Crown","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}},"next":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}}},"pageContext":{"id":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","previousPostId":"02920517-d996-52b3-ae2d-71ef8a20341b","nextPostId":"39e24189-8dc8-5d07-94fd-4a551b18b5b9"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

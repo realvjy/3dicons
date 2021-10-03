@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/notify-heart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","previousPostId":"29676fea-edfb-580e-9858-5a357eb683a2","nextPostId":"432841d1-d56b-5256-a3f7-19e9e7ac8dea"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}},"next":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}}},"pageContext":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","previousPostId":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","nextPostId":"29676fea-edfb-580e-9858-5a357eb683a2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
