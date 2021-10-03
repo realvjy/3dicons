@@ -1,10 +1,10 @@
 ---
 id: 64
-title: Map Pin 
+title: Map Pin
 file-slug: map-pin
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: social
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/map-pin-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/map-pin-dynamic-gradient.png

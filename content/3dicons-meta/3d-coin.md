@@ -1,10 +1,10 @@
 ---
 id: 1
-title: 3d Coin 
+title: 3d Coin
 file-slug: 3d-coin
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: money-coin
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/3d-coin-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/3d-coin-dynamic-gradient.png

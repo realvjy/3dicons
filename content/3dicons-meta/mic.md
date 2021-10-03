@@ -1,10 +1,10 @@
 ---
 id: 67
-title: Mic 
+title: Mic
 file-slug: mic
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: media
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/mic-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/mic-dynamic-gradient.png

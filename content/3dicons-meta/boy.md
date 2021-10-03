@@ -1,10 +1,10 @@
 ---
 id: 12
-title: Boy 
+title: Boy
 file-slug: boy
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: user
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/boy-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/boy-dynamic-gradient.png

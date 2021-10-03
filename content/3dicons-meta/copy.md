@@ -1,10 +1,10 @@
 ---
 id: 30
-title: Copy 
+title: Copy
 file-slug: copy
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: content
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/copy-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/copy-dynamic-gradient.png

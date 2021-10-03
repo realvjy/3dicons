@@ -1,10 +1,10 @@
 ---
 id: 96
-title: Rupee 
+title: Rupee
 file-slug: rupee
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: money-coin
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/rupee-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/rupee-dynamic-gradient.png

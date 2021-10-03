@@ -68,12 +68,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `UA-151947591-2`,
+      },
+    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -133,9 +133,9 @@ module.exports = {
         short_name: `3dicons`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#000000`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `content/assets/3dicons.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,

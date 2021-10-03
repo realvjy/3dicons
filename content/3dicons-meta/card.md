@@ -1,10 +1,10 @@
 ---
 id: 20
-title: Card 
+title: Card
 file-slug: card
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: finance
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/card-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/card-dynamic-gradient.png

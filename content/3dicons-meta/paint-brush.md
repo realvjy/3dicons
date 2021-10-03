@@ -1,10 +1,10 @@
 ---
 id: 78
-title: Paint Brush 
+title: Paint Brush
 file-slug: paint-brush
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: art
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/paint-brush-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/paint-brush-dynamic-gradient.png

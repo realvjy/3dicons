@@ -1,10 +1,10 @@
 ---
 id: 79
-title: Paint Kit 
+title: Paint Kit
 file-slug: paint-kit
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: a
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/paint-kit-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/paint-kit-dynamic-gradient.png

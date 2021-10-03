@@ -1,10 +1,10 @@
 ---
 id: 61
-title: Locker 
+title: Locker
 file-slug: locker
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: finance
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/locker-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/locker-dynamic-gradient.png

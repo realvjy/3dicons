@@ -1,10 +1,10 @@
 ---
 id: 7
-title: Bag 
+title: Bag
 file-slug: bag
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: finance
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/bag-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/bag-dynamic-gradient.png

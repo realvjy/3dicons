@@ -25,7 +25,7 @@ const AllIcons = () => {
               siteUrl
             }
           }
-          allMarkdownRemark {
+          allMarkdownRemark(sort: {fields: frontmatter___category}){
             edges {
               node {
                 frontmatter {
@@ -71,8 +71,8 @@ const AllIcons = () => {
                     <div className="i-wrap">
                       <div className="img-ani">
                         <div className="img-list">
-                          <img src={node.frontmatter.clay} key="1" className="clay"/>
                           <img src={node.frontmatter.gradient} key="1" className="gradient"/>
+                          <img src={node.frontmatter.clay} key="1" className="clay"/>
                           <img src={node.frontmatter.color} key="1" className="color"/>
                           <img src={node.frontmatter.premium} key="1" className="premium"/>
                         </div>

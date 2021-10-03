@@ -1,10 +1,10 @@
 ---
 id: 11
-title: Bookmark Fav 
+title: Bookmark Fav
 file-slug: bookmark-fav
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: user
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/bookmark-fav-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/bookmark-fav-dynamic-gradient.png

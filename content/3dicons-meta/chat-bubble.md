@@ -1,10 +1,10 @@
 ---
 id: 22
-title: Chat Bubble 
+title: Chat Bubble
 file-slug: chat-bubble
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: user
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/chat-bubble-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/chat-bubble-dynamic-gradient.png

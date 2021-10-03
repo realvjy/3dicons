@@ -1,10 +1,10 @@
 ---
 id: 87
-title: Phone Ringing 
+title: Phone Ringing
 file-slug: phone-ringing
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: phone
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/phone-ringing-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/phone-ringing-dynamic-gradient.png

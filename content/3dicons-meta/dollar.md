@@ -1,10 +1,10 @@
 ---
 id: 34
-title: Dollar 
+title: Dollar
 file-slug: dollar
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: money-coin
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/dollar-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/dollar-dynamic-gradient.png

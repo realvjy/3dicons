@@ -1,10 +1,10 @@
 ---
 id: 42
-title: File Fav 
+title: File Fav
 file-slug: file-fav
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: document
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/file-fav-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/file-fav-dynamic-gradient.png

@@ -1,10 +1,10 @@
 ---
 id: 10
-title: Bookmark 
+title: Bookmark
 file-slug: bookmark
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: user
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/bookmark-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/bookmark-dynamic-gradient.png

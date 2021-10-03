@@ -1,10 +1,10 @@
 ---
 id: 109
-title: Tick 
+title: Tick
 file-slug: tick
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: at
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/tick-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/tick-dynamic-gradient.png

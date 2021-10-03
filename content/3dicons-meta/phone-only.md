@@ -1,10 +1,10 @@
 ---
 id: 85
-title: Phone Only 
+title: Phone Only
 file-slug: phone-only
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: phone
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/phone-only-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/phone-only-dynamic-gradient.png

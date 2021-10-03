@@ -1,10 +1,10 @@
 ---
 id: 38
-title: Eyedropper 
+title: Eyedropper
 file-slug: eyedropper
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: art
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/eyedropper-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/eyedropper-dynamic-gradient.png

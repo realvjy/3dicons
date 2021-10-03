@@ -1,10 +1,10 @@
 ---
 id: 28
-title: Color Palette 
+title: Color Palette
 file-slug: color-palette
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: art
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/color-palette-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/color-palette-dynamic-gradient.png

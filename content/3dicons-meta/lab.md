@@ -1,10 +1,10 @@
 ---
 id: 57
-title: Lab 
+title: Lab
 file-slug: lab
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: misc
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/lab-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/lab-dynamic-gradient.png

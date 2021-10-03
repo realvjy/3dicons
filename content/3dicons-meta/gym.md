@@ -1,10 +1,10 @@
 ---
 id: 53
-title: Gym 
+title: Gym
 file-slug: gym
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: misc
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/gym-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/gym-dynamic-gradient.png

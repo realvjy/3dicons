@@ -1,10 +1,10 @@
 ---
 id: 66
-title: Megaphone 
+title: Megaphone
 file-slug: megaphone
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: media
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/megaphone-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/megaphone-dynamic-gradient.png

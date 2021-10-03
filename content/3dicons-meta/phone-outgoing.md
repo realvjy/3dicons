@@ -1,10 +1,10 @@
 ---
 id: 86
-title: Phone Outgoing 
+title: Phone Outgoing
 file-slug: phone-outgoing
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: phone
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/phone-outgoing-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/phone-outgoing-dynamic-gradient.png

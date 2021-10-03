@@ -1,10 +1,10 @@
 ---
 id: 52
-title: Glass 
+title: Glass
 file-slug: glass
 date: Oct 03, 2021 20:34:23
 feature: false
-category: icons
+category: misc
 angle: dynamic
 clay: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/glass-dynamic-clay.png
 gradient: https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/gradient/glass-dynamic-gradient.png
