@@ -16,7 +16,6 @@ class BlogIndex extends React.Component {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
-    const images
     const fadeProperties = {
       duration: 5000,
       transitionDuration: 500,
