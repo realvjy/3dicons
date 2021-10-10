@@ -59,7 +59,7 @@ const InAction = () => {
                 <div className="r-text">
                   <div className="r-t-wrap">
                     <h2 className="gradient blue">Get custom 3D icons</h2>
-                    <p>You can get custom icon pack of 20 just $25. It may be possible those icons will add here and free for you 😍. </p>
+                    <p>For just $25, you can get a pack of 20 custom icons. I hope to add them here and make them free for you 😍. </p>
                     <a href="#" className="btn btn-coffee">Request Icon</a>
                   </div>
                 </div>

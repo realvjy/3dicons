@@ -15,15 +15,20 @@ const Header = () => {
             <div className="assets">
                 <h5>Use with any design tool</h5>
 
-                <div className="p-logo"><img src="/figma.png"/> <img src="/sketch.png"/> <img src="/xd.png"/> <img src="/blender.png"/><img src="/obj.png"/></div>
+                <div className="p-logo"><img src="/blender.png"/><img src="/figma.png"/> <img src="/sketch.png"/> <img src="/xd.png"/> <img src="/photoshop.png"/><img src="/c4d.png"/><img src="/studio.png"/></div>
             </div>
             <div className="btn-lnks">
                 <div className="dwn-links">
                   <button className="btn btn-download">
-                    <h4>Coming Soon</h4>
+                    <h4>Download all</h4>
                   </button>
                   <ul className="dwn-list">
-                    <li><a href="https://bit.ly/3dicons-early-access"> Early Access</a></li>
+                    <li><a href="#"> <img src="/figma-file.png"/>Figma <span> (compressed)</span></a></li>
+                    <li><a href="https://bit.ly/3dicons-dynamic-png-v1"> <img src="/png-file.png"/>PNG Dynamic <span> (2400px, 1.3gb)</span></a></li>
+                    <li><a href="https://bit.ly/3dicons-iso-png-v1"> <img src="/png-file.png"/>PNG ISO<span> (2400px, 1.2gb)</span></a></li>
+                    <li><a href="https://bit.ly/3dicons-front-png-v1"> <img src="/png-file.png"/>PNG Front <span> (2400px, 1.2gb)</span></a></li>
+                    <li><a href="https://bit.ly/3dicons-blender-v1"> <img src="/blender-file.png"/>Blender File <span> (205mb)</span></a></li>
+                    <li><a href="https://bit.ly/3dicons-fbx-v1"> <img src="/fbx-file.png"/>Fbx File <span> (240mb)</span></a></li>
                   </ul>
                 </div>
                 <a href="https://www.buymeacoffee.com/realvjy" className="btn btn-coffee">

@@ -42,22 +42,35 @@ class About extends React.Component {
               <div className="about-title">
                 <img src="/3d.png" className="about-icon"/>
                 <h2>About 3DICONS</h2>
-                <p>3Dicons is a set of beautifully crafted open-source icons that have been created in Blender and made available to the community as part of an open design initiative. It has been released under a Creative Commons CC0 license, and hence it is free to use for personal and commercial projects, as well as copying, editing, remixing, sharing, and redrawing. With this resource, designers should be able to produce beautiful and effective design in less time. Although all icons are designed with a few color options to meet most of your production-ready needs, you can use these images as placeholders until you are ready to outsource a 3D illustrator. </p>
+                <p>3Dicons is a set of beautifully crafted open-source 3D icons that have been created in Blender and made available to the community. It has been released under a Creative Commons CC0 license, and hence it is free to use for personal and commercial projects, as well as copying, editing, remixing, sharing, and redrawing. This resource will make it easier for designers and content creators to produce beautiful and effective designs in less time. Although all icons are designed and rendered with a few color options to meet most of your production-ready needs, you can use these images as placeholders until you are ready to outsource a 3D illustrator.</p>
               </div>
 
               <div className="about-title">
                 <img src="/bubble.png" className="about-icon"/>
                 <h2>Why Open</h2>
-                <p>I believe in open design and encourage others to embrace it. We designers sometimes do things like redesign websites and apps (like restructuring Facebook and Netflix) at sites like dribbble, behance, and codepen. Therefore, it becomes a question when designers create designs solely for the purpose of showcasing their skills, and the source files of these designs are nothing but occupying more and more of your storage on your computer. I think that if someone works on something as a concept, why not share it with the community to get feedback, as well as sharing the source will help them to understand how things are crafted. By sharing our source files, skills, and best practices, we improve the community and enhance design. After understanding this I started working on this direction and found @pablo Stanley always trying give as many as possible to give back to community. And decide do the same. I first shared source files for 100+ illustrations. These illustrations were stored on my drive for years.</p>
-                <p>Similarly, in February 2021, I began studying 3D illustrations. The majority of these models were made only for the purpose of learning how to model. I believe in learning by doing, and I believe that picking a single icon and learning how to construct it in 3d is challenging. After a while, I noticed that these icons had expanded to almost 30 different icons. As a result, I made the decision to create a collection of at least 60 illustrations and share them with the community. Then I don’t stopped my self to create more total is 120+.</p>
+                <p>I support open design initiatives. Designers often redesign existing designs, websites, and apps in order to post them on sites like Dribbble, Behance, or any social platform. We do this primarily to learn, improve, or showcase our skills. If someone works on a concept, why not share the source with the community so they can also learn how it was done. By sharing our source files, skills, and best practices, we uplift the community and enhance design. It was not common a few years ago, if we ever found a PSD file, it was like finding an invaluable treasure. These days, there are many people who start sharing their learning. Although, there is not much good content to look at. <a href="#">Pablo Stanley</a> is one of the most talented artists I have ever known, and he is regularly providing the community with top-quality open design resources. I really admire his contribution to the community and his work.</p>
+                <p>In 2019, I shared my source files which had 100+ illustrations. I had these illustrations on my drive for years, but they were only taking up a lot of storage space. I realized the importance of open source when I made them available to the community. Additionally, I believe we do not need to monetize every side project, it's okay to be creative instead.</p>
+                <p>Similarly, in February 2021, I began studying 3D. I started creating 3D icons for the sole purpose of learning how to model. I believe that learning by doing is the best way to learn. A great challenge for me was to pick one icon in 3D and learn how to construct it. In the process of my learning, I noticed that these icons had grown to almost 30. So, decided why not create a pack of 60+ icons and share. In the end, I created 120.</p>
               </div>
 
               <div className="about-title">
                 <img src="/tool.png" className="about-icon"/>
                 <h2>How it was made</h2>
                 <p>I created all these icons in Blender. Some of them were first doodled on iPad using Procreate, and then modeled in 3D. After modeling, all icons were rendered in different angles and styles for multipurpose use. The rough master file and all production ready assets can be downloaded from this link.</p>
-                <a href="#">Check this FAQ notion board for further information »</a>
-                <a href="#">You can also see how I created 3Dicons on SmashingMagazine »</a>
+                <a href="#">Master Files (Blender, Notion Board, Sketches)</a>
+                <a href="https://realvjy.notion.site/3dicons-FAQ-be562c619cf04f2daa04a10c2684575d">Check this FAQ notion board for further information »</a>
+              </div>
+
+              <div className="about-title">
+                <img src="/setting.png" className="about-icon"/>
+                <h2>Running Cost: $8/mo</h2>
+                <ul>
+                  <li><span className="cost-lf">Domain & DNS</span><span className="cost-rh">: $36/year (Bigrock)</span></li>
+                  <li><span className="cost-lf">Web Hosting</span><span className="cost-rh">: FREE (Github Page)</span></li>
+                  <li><span className="cost-lf">Image Hosting</span><span className="cost-rh">: $5/mo (Digital Ocean)</span></li>
+                  <li><span className="cost-lf">Planing & Managing</span><span className="cost-rh">: FREE (Notion)</span></li>
+                  <li><span className="cost-lf">Code & Backup</span><span className="cost-rh">: FREE (Github)</span></li>
+                </ul>
               </div>
 
               <div className="about-title">

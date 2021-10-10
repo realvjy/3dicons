@@ -265,7 +265,7 @@ main{
           justify-content: center;
           img{
             margin: 8px;
-            height: 32px;
+            height: 30px;
           }
       }
     }
@@ -324,26 +324,31 @@ main{
         -o-transition: all 250ms cubic-bezier(0.02, 0.01, 0.47, 1);
         transition: all 250ms cubic-bezier(0.02, 0.01, 0.47, 1);
         >li{
-          text-align: center;
+          text-align: left;
           a{
-            font-size: 16px;
+            font-size: 15px;
             font-weight: 700;
             border-bottom: 1px solid rgba(0,0,0,0.05);
-            margin: 0 20px;
-            padding: 16px 0;
+            margin: 0 16px;
+            padding: 12px 0;
             display: flex;
-
+            letter-spacing: -.5px;
             text-decoration: none;
             vertical-align: middle;
             align-items: center;
             text-align: center;
             color: $black;
             img{
-              height: 20px;
+              height: 28px;
               margin-right: 6px;
             }
+            span{
+              font-weight: 400;
+              margin-left: 4px;
+              color: $grey;
+            }
             &:hover{
-              color: $blue;
+              color: rgba(0,0,0,.6);
             }
           }
           &:last-child{
@@ -390,7 +395,7 @@ main{
   &.btn-download{
     background: $black;
     border:1px solid $black;
-    padding: 22px 48px;
+    padding: 22px 75px;
     cursor: pointer;
     display: inline-block;
     transition: all ease 0.2s;
@@ -839,7 +844,27 @@ main{
         margin-bottom: 24px;
         margin-top: 24px;
         @media (max-width: $mobile-landscape){
-          font-size: 36px;
+          font-size: 32px;
+        }
+      }
+      ul{
+        li{
+          line-height: 120%;
+          padding: 6px 0;
+          display: flex;
+          @media (max-width: $mobile-landscape){
+            flex-direction: column;
+          }
+          .cost-lf{
+            font-weight: 400;
+            width: 27%;
+            @media (max-width: $mobile-landscape){
+              width: auto;
+            }
+          }
+          .cost-rh{
+            font-weight: 600;
+          }
         }
       }
       p{
@@ -851,6 +876,12 @@ main{
         @media (max-width: $mobile-landscape){
           font-size: 16px;
           font-weight: 400;
+        }
+        a{
+          font-size: 18px;
+          display: inline-block;
+          line-height: 140%;
+          margin: auto;
         }
       }
       strong{

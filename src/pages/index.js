@@ -38,6 +38,7 @@ class BlogIndex extends React.Component {
               <div className="menu">
                 <ul>
                   <li><a href="#" className="btn btn-outline">show love <img src="/twitter.svg"/> </a></li>
+                  <li><a href="/about" className="btn btn-text">about</a></li>
                   <li><a href="https://www.buymeacoffee.com/realvjy" className="btn btn-text">donate</a></li>
                 </ul>
               </div>
