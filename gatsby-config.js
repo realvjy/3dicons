@@ -5,7 +5,7 @@ module.exports = {
       name: `vijay`,
       summary: `master design chef, creating open source design library`,
     },
-    description: `100+ beautifuly crafted open-source 3D icons`,
+    description: `1440+ beautifully crafted open-source 3D icons. You can use completely free and without attribution for personal or commercial project`,
     siteUrl: `https://3dicons.co`,
     social: {
       twitter: `realvjy`,

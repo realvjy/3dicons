@@ -36,11 +36,19 @@ const Seo = ({ description, lang, meta, title }) => {
         lang,
       }}
       title={title}
-      titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
+      titleTemplate={`%s`}
       meta={[
         {
           name: `description`,
           content: metaDescription,
+        },
+        {
+          name: `keywords`,
+          content: `3d, 3d-illustrations, open source illustrations, free 3d icons, 3d model, models, 3d illustration download, realvjy, 3dicons.co, free blender, 3d illustration kit, download 3d illustration, 3d icon, 3d icons libarary, free icons, blender file`,
+        },
+        {
+          property: `og:image`,
+          content: `https://3dicons.co/preview.jpg`,
         },
         {
           property: `og:title`,
@@ -55,12 +63,20 @@ const Seo = ({ description, lang, meta, title }) => {
           content: `website`,
         },
         {
+          property: `og:url`,
+          content: site.siteMetadata.siteUrl,
+        },
+        {
           name: `twitter:card`,
-          content: `summary`,
+          content: `summary_large_image`,
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata?.social?.twitter || ``,
+          content: `@realvjy`,
+        },
+        {
+          name: `twitter:url`,
+          content: site.siteMetadata.siteUrl,
         },
         {
           name: `twitter:title`,
@@ -69,6 +85,10 @@ const Seo = ({ description, lang, meta, title }) => {
         {
           name: `twitter:description`,
           content: metaDescription,
+        },
+        {
+          name: `twitter:image`,
+          content: `https://3dicons.co/preview.jpg`,
         },
       ].concat(meta)}
     />

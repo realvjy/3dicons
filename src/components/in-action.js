@@ -59,13 +59,13 @@ const InAction = () => {
                 <div className="r-text">
                   <div className="r-t-wrap">
                     <h2 className="gradient blue">Get custom 3D icons</h2>
-                    <p>For just $25, you can get a pack of 20 custom icons. I hope to add them here and make them free for you 😍. </p>
-                    <a href="#" className="btn btn-coffee">Request Icon</a>
+                    <p>For just $25, you can get a pack of 20 custom icons. Perhaps I can include them here and make them free for you 😍. </p>
+                    <a href="https://forms.gle/ec5wGyt6HqqMcCBAA" className="btn btn-coffee disable request">Request Icon <span>Closed</span></a>
                   </div>
                 </div>
                 <div className="r-img">
                   <div className="r-im-wrap">
-                    <img src="/clay.png"/>
+                    <img src="/3dicons.gif"/>
                   </div>
                 </div>
               </div>

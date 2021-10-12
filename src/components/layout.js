@@ -14,8 +14,12 @@ const Layout = ({ location, title, children }) => {
     )
 
     return (
-        <div>
+        <div className="3dicons_main">
+          <header>{header}</header>
           <main>{children}</main>
+          <div className="ph-float">
+            
+          </div>
         </div>
     )
 }

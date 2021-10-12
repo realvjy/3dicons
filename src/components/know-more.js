@@ -11,9 +11,10 @@ const KnowMore = () => {
           <div className="about-wrap">
             <div className="about-box">
               <h3>About 3Dicons</h3>
-              <p>The project started as I was learning to use blender. Some of these icons are created just as a way to learn how to model those tiny things. Eventually, I realized I must make this available to the community. In conclusion, I decided to create a large collection of the most widely used 3D icons, and it has taken me months to put it all together. It is opensource and free for both personal and commercial use under CC0. You'll enjoy it.  You can reach me at twitter.com/realvjy</p>
-              <p><a href="#">Read more about the project »</a></p>
+              <p>When I began learning blender, I came up with the idea for this project. Some of these icons were created just so I could learn how to model those tiny things. After creating those, it occurred to me that I should make them available to the community. The result is a collection of the most widely used 3D icons, which has taken me months to craft in blender. It is opensource and free for both personal and commercial use under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a>. So, download and start creating some cool designs. Feel free to tweet me <a href="https://twitter.com/realvjy">@realvjy</a>, for any feedback</p>
+              <p><a href="/about" className="llnk">Read more about the project »</a></p>
             </div>
+
             <div className="stats">
               <div className="soon-log">
                 <h4>ROADMAP</h4>
@@ -22,6 +23,7 @@ const KnowMore = () => {
                   <li>2. Package for Developers</li>
                   <li>3. Explorer and Single Download</li>
                   <li>4. Adding new icon sets regulary and more</li>
+                  <li>5. Online editor and scene builder</li>
                 </ul>
               </div>
               <div className="all-icons">
