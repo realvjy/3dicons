@@ -10,7 +10,7 @@ const InAction = () => {
         <div className="container">
           <div className="ia-wrap">
             <h2 className="gradient blue">3dicons in action</h2>
-            <p>Crafted some exmaples - mockups, post and presentaion you can download free download from Figma community</p>
+            <p>Crafted some exmaples - mockups, post and presentaion you can download free <a href="https://bit.ly/3dicons-mockups">from Figma community.</a></p>
             <div className="action-box">
               <div className="a-img-box _4c">
                 <div className="a-img-wrap">
