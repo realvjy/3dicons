@@ -23,7 +23,7 @@ const Header = () => {
                     <h4>Download all</h4>
                   </button>
                   <ul className="dwn-list">
-                    <li><a href="#"> <img src="/figma-file.png"/>Figma <span> (compressed)</span></a></li>
+                    <li><a href="https://bit.ly/3dicons-v1"> <img src="/figma-file.png"/>Figma <span> (compressed)</span></a></li>
                     <li><a href="https://bit.ly/3dicons-dynamic-png-v1"> <img src="/png-file.png"/>PNG Dynamic <span> (2400px, 1.3gb)</span></a></li>
                     <li><a href="https://bit.ly/3dicons-iso-png-v1"> <img src="/png-file.png"/>PNG ISO<span> (2400px, 1.2gb)</span></a></li>
                     <li><a href="https://bit.ly/3dicons-front-png-v1"> <img src="/png-file.png"/>PNG Front <span> (2400px, 1.2gb)</span></a></li>
