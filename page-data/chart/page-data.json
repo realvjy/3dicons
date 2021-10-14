@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/chart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","excerpt":"","html":"","frontmatter":{"title":"Chart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}},"next":{"fields":{"slug":"/figma/"},"frontmatter":{"title":"Figma"}}},"pageContext":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","previousPostId":"98c27363-0a27-5758-b33d-4b3427a72f73","nextPostId":"8090f6a2-2127-5482-b9d5-9c48bccf617f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","excerpt":"","html":"","frontmatter":{"title":"Chart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}},"next":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}}},"pageContext":{"id":"23fe5000-5048-5e59-b467-3756fc7de10d","previousPostId":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","nextPostId":"387ac35d-c009-5933-9954-67d491c7663e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

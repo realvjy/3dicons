@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/lab/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6f61a428-1311-5ab2-843f-b07a321ef369","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}},"next":{"fields":{"slug":"/flash/"},"frontmatter":{"title":"Flash"}}},"pageContext":{"id":"6f61a428-1311-5ab2-843f-b07a321ef369","previousPostId":"6419e78d-53af-552b-aaec-d6fe59a394ea","nextPostId":"ba648b97-a07a-53dd-9673-9d452c4bdc55"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6f61a428-1311-5ab2-843f-b07a321ef369","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}},"next":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}}},"pageContext":{"id":"6f61a428-1311-5ab2-843f-b07a321ef369","previousPostId":"50544469-279f-5183-98e4-15435d2a6da1","nextPostId":"a55f575e-5617-5398-8073-66dc78dc9c4e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

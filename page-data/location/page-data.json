@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/location/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","excerpt":"","html":"","frontmatter":{"title":"Location","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}},"next":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}}},"pageContext":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","previousPostId":"00cd8c0c-851f-513c-8ed3-0d13baf01a52","nextPostId":"692e97d4-2a31-56c3-a7a9-849ec9ddb3eb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","excerpt":"","html":"","frontmatter":{"title":"Location","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}},"next":{"fields":{"slug":"/file-text/"},"frontmatter":{"title":"File Text"}}},"pageContext":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","previousPostId":"82041682-e9f1-5f8a-b592-b97ce1581b93","nextPostId":"c7ecf228-304c-572b-ad82-c158c6f9689c"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

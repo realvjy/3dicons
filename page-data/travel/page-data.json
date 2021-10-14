@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/travel/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197","excerpt":"","html":"","frontmatter":{"title":"Travel","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}},"next":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}}},"pageContext":{"id":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197","previousPostId":"84970912-8ea7-5b17-9535-ee413c212e82","nextPostId":"2cbbc144-2c6a-5874-a036-cf6724980d95"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197","excerpt":"","html":"","frontmatter":{"title":"Travel","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}},"next":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}}},"pageContext":{"id":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197","previousPostId":"ab5390fd-e849-5e70-be05-1aa3b44173e0","nextPostId":"2cbbc144-2c6a-5874-a036-cf6724980d95"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

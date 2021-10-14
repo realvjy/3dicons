@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/headphone/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f839c392-f05d-5f1f-91b1-014a5038fe5d","excerpt":"","html":"","frontmatter":{"title":"Headphone","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}},"next":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}}},"pageContext":{"id":"f839c392-f05d-5f1f-91b1-014a5038fe5d","previousPostId":"82041682-e9f1-5f8a-b592-b97ce1581b93","nextPostId":"4091ef55-6965-5dde-98b5-55ffdaaaa0cd"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"f839c392-f05d-5f1f-91b1-014a5038fe5d","excerpt":"","html":"","frontmatter":{"title":"Headphone","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}},"next":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}}},"pageContext":{"id":"f839c392-f05d-5f1f-91b1-014a5038fe5d","previousPostId":"bea2f4c1-5f55-516c-bd74-5b6778f6fefb","nextPostId":"82041682-e9f1-5f8a-b592-b97ce1581b93"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

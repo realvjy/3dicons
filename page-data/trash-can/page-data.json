@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/trash-can/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2f52358e-e0cf-562f-be10-510d9bbb326d","excerpt":"","html":"","frontmatter":{"title":"Trash Can","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}},"next":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}}},"pageContext":{"id":"2f52358e-e0cf-562f-be10-510d9bbb326d","previousPostId":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","nextPostId":"3038415d-cb79-5271-bcb6-6ed96c017d8e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2f52358e-e0cf-562f-be10-510d9bbb326d","excerpt":"","html":"","frontmatter":{"title":"Trash Can","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}},"next":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}}},"pageContext":{"id":"2f52358e-e0cf-562f-be10-510d9bbb326d","previousPostId":"3038415d-cb79-5271-bcb6-6ed96c017d8e","nextPostId":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/glass/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fbf33a97-7423-557a-bfc0-6fbaf647c157","excerpt":"","html":"","frontmatter":{"title":"Glass","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}},"next":{"fields":{"slug":"/chat/"},"frontmatter":{"title":"Chat"}}},"pageContext":{"id":"fbf33a97-7423-557a-bfc0-6fbaf647c157","previousPostId":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","nextPostId":"889bfd4a-6199-5f03-91f6-1cbb865862e5"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fbf33a97-7423-557a-bfc0-6fbaf647c157","excerpt":"","html":"","frontmatter":{"title":"Glass","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}},"next":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}}},"pageContext":{"id":"fbf33a97-7423-557a-bfc0-6fbaf647c157","previousPostId":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","nextPostId":"6419e78d-53af-552b-aaec-d6fe59a394ea"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/calculator/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4d7d4b31-661a-507d-9515-19a58cb88db4","excerpt":"","html":"","frontmatter":{"title":"Calculator","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/boy/"},"frontmatter":{"title":"Boy"}},"next":{"fields":{"slug":"/bucket/"},"frontmatter":{"title":"Bucket"}}},"pageContext":{"id":"4d7d4b31-661a-507d-9515-19a58cb88db4","previousPostId":"4f44566d-567e-5c02-b8af-3c69cd80c5bb","nextPostId":"66160a86-892d-5891-8500-f26c293f664c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4d7d4b31-661a-507d-9515-19a58cb88db4","excerpt":"","html":"","frontmatter":{"title":"Calculator","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bucket/"},"frontmatter":{"title":"Bucket"}},"next":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}}},"pageContext":{"id":"4d7d4b31-661a-507d-9515-19a58cb88db4","previousPostId":"66160a86-892d-5891-8500-f26c293f664c","nextPostId":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

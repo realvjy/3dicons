@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/crown/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","excerpt":"","html":"","frontmatter":{"title":"Crown","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}},"next":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}}},"pageContext":{"id":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","previousPostId":"8db05b76-ea0c-521a-bcba-434049955b39","nextPostId":"39e24189-8dc8-5d07-94fd-4a551b18b5b9"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","excerpt":"","html":"","frontmatter":{"title":"Crown","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}},"next":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}}},"pageContext":{"id":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","previousPostId":"b3424582-25a5-5c8e-8d6b-d33e072985e8","nextPostId":"5f90196f-bad9-5e8d-880d-57b76613b62f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

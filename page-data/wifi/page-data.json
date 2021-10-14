@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/wifi/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}},"next":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}}},"pageContext":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","previousPostId":"2cbbc144-2c6a-5874-a036-cf6724980d95","nextPostId":"29fa79f8-066f-551c-a216-69373356832a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}},"next":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}}},"pageContext":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","previousPostId":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","nextPostId":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

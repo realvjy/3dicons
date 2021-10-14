@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/bag/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c2486883-dd06-53ca-b6ca-7be615c01419","excerpt":"","html":"","frontmatter":{"title":"Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}},"next":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}}},"pageContext":{"id":"c2486883-dd06-53ca-b6ca-7be615c01419","previousPostId":"036acc64-4734-5496-a4d4-b9bddddcb102","nextPostId":"1e57312c-90ce-562d-8404-2e47af74f6e0"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c2486883-dd06-53ca-b6ca-7be615c01419","excerpt":"","html":"","frontmatter":{"title":"Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/backward/"},"frontmatter":{"title":"Backward"}},"next":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}}},"pageContext":{"id":"c2486883-dd06-53ca-b6ca-7be615c01419","previousPostId":"b858b401-797c-52a8-aac1-29347e62f453","nextPostId":"1e57312c-90ce-562d-8404-2e47af74f6e0"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

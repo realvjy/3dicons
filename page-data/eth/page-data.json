@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/eth/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4795ddb3-b892-500b-95d0-79d753b3be52","excerpt":"","html":"","frontmatter":{"title":"Eth","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}},"next":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}}},"pageContext":{"id":"4795ddb3-b892-500b-95d0-79d753b3be52","previousPostId":"fce21935-3a9e-5187-bce2-a435ba9fda58","nextPostId":"5f90196f-bad9-5e8d-880d-57b76613b62f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4795ddb3-b892-500b-95d0-79d753b3be52","excerpt":"","html":"","frontmatter":{"title":"Eth","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}},"next":{"fields":{"slug":"/bookmark/"},"frontmatter":{"title":"Bookmark"}}},"pageContext":{"id":"4795ddb3-b892-500b-95d0-79d753b3be52","previousPostId":"5f90196f-bad9-5e8d-880d-57b76613b62f","nextPostId":"28652105-0fbf-5947-9428-7a9841c50245"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

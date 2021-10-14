@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pause/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-missing/"},"frontmatter":{"title":"Phone Missing"}},"next":{"fields":{"slug":"/phone-only/"},"frontmatter":{"title":"Phone Only"}}},"pageContext":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","previousPostId":"139b5b5c-730a-52bd-be70-7bfba4a7ccd1","nextPostId":"6549ca59-4a7f-5a28-afe0-6e4504370ea8"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}},"next":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}}},"pageContext":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","previousPostId":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","nextPostId":"d0c4084e-b63b-5ae1-85b7-6818032814f7"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

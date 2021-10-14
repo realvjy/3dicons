@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/chat-bubble/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"274ceee2-e673-5846-9b08-b142cbc44a47","excerpt":"","html":"","frontmatter":{"title":"Chat Bubble","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}},"next":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}}},"pageContext":{"id":"274ceee2-e673-5846-9b08-b142cbc44a47","previousPostId":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","nextPostId":"6ba7ea2d-544e-58fd-816a-a62c967b8aee"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"274ceee2-e673-5846-9b08-b142cbc44a47","excerpt":"","html":"","frontmatter":{"title":"Chat Bubble","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat/"},"frontmatter":{"title":"Chat"}},"next":{"fields":{"slug":"/chat-text/"},"frontmatter":{"title":"Chat Text"}}},"pageContext":{"id":"274ceee2-e673-5846-9b08-b142cbc44a47","previousPostId":"889bfd4a-6199-5f03-91f6-1cbb865862e5","nextPostId":"c8b56e52-3b32-5a20-aa31-a817249c9dbe"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

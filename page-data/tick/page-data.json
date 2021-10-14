@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tick/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2","excerpt":"","html":"","frontmatter":{"title":"Tick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}},"next":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}}},"pageContext":{"id":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2","previousPostId":"2642639c-9077-5d1d-9d35-342881328040","nextPostId":"87755d5f-c7d2-5f40-a563-53b5950e6f91"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2","excerpt":"","html":"","frontmatter":{"title":"Tick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}},"next":null},"pageContext":{"id":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2","previousPostId":"29fa79f8-066f-551c-a216-69373356832a","nextPostId":null}},
     "staticQueryHashes": ["2841359383","3257411868"]}

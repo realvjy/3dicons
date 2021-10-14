@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/bulb/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d","excerpt":"","html":"","frontmatter":{"title":"Bulb","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bucket/"},"frontmatter":{"title":"Bucket"}},"next":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}}},"pageContext":{"id":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d","previousPostId":"66160a86-892d-5891-8500-f26c293f664c","nextPostId":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d","excerpt":"","html":"","frontmatter":{"title":"Bulb","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/calculator/"},"frontmatter":{"title":"Calculator"}},"next":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}}},"pageContext":{"id":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d","previousPostId":"4d7d4b31-661a-507d-9515-19a58cb88db4","nextPostId":"b51a1d5a-fbcc-538d-b45d-3b70eeb1a408"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

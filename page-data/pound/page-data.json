@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pound/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","excerpt":"","html":"","frontmatter":{"title":"Pound","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}},"next":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}}},"pageContext":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","previousPostId":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e","nextPostId":"96075d54-ca8c-568d-acc6-609b13fd83b1"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","excerpt":"","html":"","frontmatter":{"title":"Pound","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}},"next":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}}},"pageContext":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","previousPostId":"f39a711e-138f-505f-879a-b97fcfe00d27","nextPostId":"63eea7bc-8d7e-5016-84dc-61665aac0a1a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/locker/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"85f6ae0f-1277-515e-af88-0202f2b6962c","excerpt":"","html":"","frontmatter":{"title":"Locker","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/flash/"},"frontmatter":{"title":"Flash"}},"next":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}}},"pageContext":{"id":"85f6ae0f-1277-515e-af88-0202f2b6962c","previousPostId":"ba648b97-a07a-53dd-9673-9d452c4bdc55","nextPostId":"00cd8c0c-851f-513c-8ed3-0d13baf01a52"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"85f6ae0f-1277-515e-af88-0202f2b6962c","excerpt":"","html":"","frontmatter":{"title":"Locker","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file-text/"},"frontmatter":{"title":"File Text"}},"next":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}}},"pageContext":{"id":"85f6ae0f-1277-515e-af88-0202f2b6962c","previousPostId":"c7ecf228-304c-572b-ad82-c158c6f9689c","nextPostId":"06c762e7-8e1e-504c-9ca6-bc46478fd087"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

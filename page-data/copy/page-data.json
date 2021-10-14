@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/copy/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"39e24189-8dc8-5d07-94fd-4a551b18b5b9","excerpt":"","html":"","frontmatter":{"title":"Copy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/crown/"},"frontmatter":{"title":"Crown"}},"next":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}}},"pageContext":{"id":"39e24189-8dc8-5d07-94fd-4a551b18b5b9","previousPostId":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","nextPostId":"02920517-d996-52b3-ae2d-71ef8a20341b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"39e24189-8dc8-5d07-94fd-4a551b18b5b9","excerpt":"","html":"","frontmatter":{"title":"Copy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}},"next":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}}},"pageContext":{"id":"39e24189-8dc8-5d07-94fd-4a551b18b5b9","previousPostId":"2e3872f7-3d6d-5bc5-ba22-a47261970683","nextPostId":"7e474570-e9d5-530b-9699-b8f07d767d47"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

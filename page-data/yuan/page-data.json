@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/yuan/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"29fa79f8-066f-551c-a216-69373356832a","excerpt":"","html":"","frontmatter":{"title":"Yuan","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}},"next":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}}},"pageContext":{"id":"29fa79f8-066f-551c-a216-69373356832a","previousPostId":"ab5390fd-e849-5e70-be05-1aa3b44173e0","nextPostId":"1472cc3a-5ae8-5f28-9fb9-00c661948fae"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"29fa79f8-066f-551c-a216-69373356832a","excerpt":"","html":"","frontmatter":{"title":"Yuan","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}},"next":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}}},"pageContext":{"id":"29fa79f8-066f-551c-a216-69373356832a","previousPostId":"7c7a7eaa-2190-5cf7-8fd9-72dbfb2a202d","nextPostId":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

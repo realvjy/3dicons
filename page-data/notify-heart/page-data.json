@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/notify-heart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}},"next":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}}},"pageContext":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","previousPostId":"b38c0c54-0e31-56a7-b607-20dd3c94fb59","nextPostId":"2192a6b4-39b2-51c6-8bc4-42c28869af0b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}},"next":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}}},"pageContext":{"id":"d0c4084e-b63b-5ae1-85b7-6818032814f7","previousPostId":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","nextPostId":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

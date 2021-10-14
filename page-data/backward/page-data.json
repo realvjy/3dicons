@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/backward/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b858b401-797c-52a8-aac1-29347e62f453","excerpt":"","html":"","frontmatter":{"title":"Backward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/at/"},"frontmatter":{"title":"At"}},"next":{"fields":{"slug":"/back/"},"frontmatter":{"title":"Back"}}},"pageContext":{"id":"b858b401-797c-52a8-aac1-29347e62f453","previousPostId":"90fe78e7-544d-5347-aa11-b73995e3b222","nextPostId":"d2cbed14-793b-5437-96d9-3c1bf6c13727"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b858b401-797c-52a8-aac1-29347e62f453","excerpt":"","html":"","frontmatter":{"title":"Backward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/at/"},"frontmatter":{"title":"At"}},"next":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}}},"pageContext":{"id":"b858b401-797c-52a8-aac1-29347e62f453","previousPostId":"90fe78e7-544d-5347-aa11-b73995e3b222","nextPostId":"c2486883-dd06-53ca-b6ca-7be615c01419"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

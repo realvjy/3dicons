@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/notebook/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","excerpt":"","html":"","frontmatter":{"title":"Notebook","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}},"next":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}}},"pageContext":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","previousPostId":"d0c4084e-b63b-5ae1-85b7-6818032814f7","nextPostId":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","excerpt":"","html":"","frontmatter":{"title":"Notebook","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}},"next":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}}},"pageContext":{"id":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","previousPostId":"a91eed36-92bd-503c-8a31-e7f4814161be","nextPostId":"88dfd47d-9d7b-53f3-b602-20b32aa9128d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
