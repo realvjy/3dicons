@@ -1027,5 +1027,10 @@ main{
   position: fixed;
   bottom: 36px;
   left: 120px;
+  @media (max-width: $mobile-landscape){
+    left: 50%;
+    transform: translate(-50%, -50%);
+    bottom: 16px;
+  }
   z-index: 111111;
 }
