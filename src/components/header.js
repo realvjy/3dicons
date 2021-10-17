@@ -15,7 +15,7 @@ const Header = () => {
             <div className="assets">
                 <h5>Use with any design tool</h5>
 
-                <div className="p-logo"><img src="/blender.png"/><img src="/figma.png"/> <img src="/sketch.png"/> <img src="/xd.png"/> <img src="/photoshop.png"/><img src="/c4d.png"/><img src="/studio.png"/></div>
+                <div className="p-logo"><img src="/blender.png"/><img src="/figma.png"/> <img src="/sketch.png"/> <img src="/xd.png"/> <img src="/photoshop.png"/><img src="/spline.png"/><img src="/c4d.png"/><img src="/studio.png"/></div>
             </div>
             <div className="btn-lnks">
                 <div className="dwn-links">
