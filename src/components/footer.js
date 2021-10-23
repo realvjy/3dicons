@@ -12,7 +12,7 @@ const Footer = () => {
           <div className="footer-wrap">
             <div className="credit-box">
               <div className="name">
-                <p>Made with love and coffee by<a href="https://twitter.com/realvjy"> @realvjy</a></p>
+                <p>Made with love and coffee by<a href="https://vijayverma.co/?ref=3dicons"> @realvjy</a></p>
               </div>
               <div className="name">
                 <p>Free for commercial and personal use under<a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank"> CC0 License</a></p>
