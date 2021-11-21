@@ -12,7 +12,7 @@ class NotFoundPage extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="illlustrations - MIT License" />
+        <SEO title="3dicons - 404" />
         <section className="navbar">
           <div className="container">
             <nav>

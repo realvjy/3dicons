@@ -68,11 +68,12 @@ class About extends React.Component {
 
               <div className="about-title">
                 <img src="/setting.png" className="about-icon"/>
-                <h2>Running Cost: $8/mo</h2>
+                <h2>Running Cost: ~$70/mo</h2>
                 <ul>
                   <li><span className="cost-lf">Domain & DNS</span><span className="cost-rh">: $36/year (Bigrock)</span></li>
                   <li><span className="cost-lf">Web Hosting</span><span className="cost-rh">: FREE (Github Page)</span></li>
                   <li><span className="cost-lf">Image Hosting</span><span className="cost-rh">: $5/mo (Digital Ocean)</span></li>
+                  <li><span className="cost-lf">Download Bandwidth </span><span className="cost-rh">: $40-$60/mo (Digital Ocean, around 10TB/mo)</span></li>
                   <li><span className="cost-lf">Planing & Managing</span><span className="cost-rh">: FREE (Notion)</span></li>
                   <li><span className="cost-lf">Code & Backup</span><span className="cost-rh">: FREE (Github)</span></li>
                 </ul>
