@@ -44,7 +44,7 @@ const Seo = ({ description, lang, meta, title }) => {
         },
         {
           name: `keywords`,
-          content: `3d, 3d-illustrations, open source illustrations, free 3d icons, 3d model, models, 3d illustration download, realvjy, 3dicons.co, free blender, 3d illustration kit, download 3d illustration, 3d icon, 3d icons libarary, free icons, blender file`,
+          content: `3d, 3d-illustrations, 3D icon vijay verma, open source illustrations, free 3d icons, 3d model, models, 3d illustration download, realvjy, 3dicons.co, free blender, 3d illustration kit, download 3d icons, 3d icon, 3d icons libarary, free icons, blender file`,
         },
         {
           property: `og:image`,
