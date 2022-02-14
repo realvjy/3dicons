@@ -31,6 +31,9 @@ const Header = () => {
                     <li><a href="https://bit.ly/3dicons-fbx-v1"> <img src="/fbx-file.png"/>Fbx File <span> (240mb)</span></a></li>
                   </ul>
                 </div>
+                <a href="https://bit.ly/edit-3dicons-mesh" className="btn btn-mesh" target="_blank">
+                  <h4>Edit with Mesh</h4>
+                </a>
                 <a href="https://www.buymeacoffee.com/realvjy" className="btn btn-coffee">
                   <h4>Donate & Support</h4>
                 </a>
