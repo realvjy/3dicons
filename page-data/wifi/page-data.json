@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/wifi/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}},"next":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}}},"pageContext":{"id":"ab5390fd-e849-5e70-be05-1aa3b44173e0","previousPostId":"7a6d6b05-9cdc-53d3-8f3e-80f0c685c08c","nextPostId":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2071556f-4dbc-5fc7-b14a-08d9585c6205","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}},"next":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}}},"pageContext":{"id":"2071556f-4dbc-5fc7-b14a-08d9585c6205","previousPostId":"dda5136f-507e-5173-81fc-63b0cd14b8fa","nextPostId":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

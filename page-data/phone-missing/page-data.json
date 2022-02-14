@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/phone-missing/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"139b5b5c-730a-52bd-be70-7bfba4a7ccd1","excerpt":"","html":"","frontmatter":{"title":"Phone Missing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}}},"pageContext":{"id":"139b5b5c-730a-52bd-be70-7bfba4a7ccd1","previousPostId":"bf7979e2-2262-5f33-8705-abe29aca1e1b","nextPostId":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"17cf2a4d-eb8d-5d74-8107-64bb83be3531","excerpt":"","html":"","frontmatter":{"title":"Phone Missing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-only/"},"frontmatter":{"title":"Phone Only"}},"next":{"fields":{"slug":"/phone-incoming/"},"frontmatter":{"title":"Phone Incoming"}}},"pageContext":{"id":"17cf2a4d-eb8d-5d74-8107-64bb83be3531","previousPostId":"b5fd8892-77dc-50c9-9c3a-d8b1ce134121","nextPostId":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

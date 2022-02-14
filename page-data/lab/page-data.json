@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/lab/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6f61a428-1311-5ab2-843f-b07a321ef369","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}},"next":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}}},"pageContext":{"id":"6f61a428-1311-5ab2-843f-b07a321ef369","previousPostId":"50544469-279f-5183-98e4-15435d2a6da1","nextPostId":"a55f575e-5617-5398-8073-66dc78dc9c4e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}},"next":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}}},"pageContext":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","previousPostId":"15796d58-846e-58f7-9859-25ca9f420e5a","nextPostId":"624efad7-b508-5af1-b968-07f1707d2434"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

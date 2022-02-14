@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/paint-brush/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"29676fea-edfb-580e-9858-5a357eb683a2","excerpt":"","html":"","frontmatter":{"title":"Paint Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}},"next":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}}},"pageContext":{"id":"29676fea-edfb-580e-9858-5a357eb683a2","previousPostId":"9b6d14d3-20a3-56cb-beaa-7a4fd6081315","nextPostId":"b38c0c54-0e31-56a7-b607-20dd3c94fb59"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"39379eaa-cf6d-5c87-9183-b74e3248018f","excerpt":"","html":"","frontmatter":{"title":"Paint Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-end/"},"frontmatter":{"title":"Phone End"}},"next":{"fields":{"slug":"/phone-only/"},"frontmatter":{"title":"Phone Only"}}},"pageContext":{"id":"39379eaa-cf6d-5c87-9183-b74e3248018f","previousPostId":"793aca7d-0deb-51e8-bb5e-67c50bb1d6bb","nextPostId":"b5fd8892-77dc-50c9-9c3a-d8b1ce134121"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

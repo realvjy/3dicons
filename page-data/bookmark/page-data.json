@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/bookmark/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"28652105-0fbf-5947-9428-7a9841c50245","excerpt":"","html":"","frontmatter":{"title":"Bookmark","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}},"next":{"fields":{"slug":"/eyedropper/"},"frontmatter":{"title":"Eyedropper"}}},"pageContext":{"id":"28652105-0fbf-5947-9428-7a9841c50245","previousPostId":"4795ddb3-b892-500b-95d0-79d753b3be52","nextPostId":"4e26da73-6078-52c5-913e-e52d873dee5e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"e58529ce-09a1-5fea-a22d-8053eef973d0","excerpt":"","html":"","frontmatter":{"title":"Bookmark","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark-fav/"},"frontmatter":{"title":"Bookmark Fav"}},"next":{"fields":{"slug":"/boy/"},"frontmatter":{"title":"Boy"}}},"pageContext":{"id":"e58529ce-09a1-5fea-a22d-8053eef973d0","previousPostId":"a0428fbe-eb44-556d-ae50-14ae11d96a71","nextPostId":"8b786245-87fa-5987-8d39-f00656d15957"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

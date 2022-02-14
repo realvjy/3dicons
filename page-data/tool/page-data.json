@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tool/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6efb0de-3893-5aa3-9e0a-b10e88b39d59","excerpt":"","html":"","frontmatter":{"title":"Tool","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}},"next":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}}},"pageContext":{"id":"a6efb0de-3893-5aa3-9e0a-b10e88b39d59","previousPostId":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220","nextPostId":"84970912-8ea7-5b17-9535-ee413c212e82"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","excerpt":"","html":"","frontmatter":{"title":"Tool","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}},"next":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}}},"pageContext":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","previousPostId":"c10e4079-4375-53cb-ab68-d6cc25970699","nextPostId":"cd897bbf-2e00-5c1e-8c89-c8a06451c159"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

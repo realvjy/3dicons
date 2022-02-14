@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/dollar/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2a1ece06-2c17-507c-8bad-d64b93190138","excerpt":"","html":"","frontmatter":{"title":"Dollar","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}},"next":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}}},"pageContext":{"id":"2a1ece06-2c17-507c-8bad-d64b93190138","previousPostId":"56cda326-20c6-5d13-9425-2ba265ee8814","nextPostId":"fce21935-3a9e-5187-bce2-a435ba9fda58"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"92dc05d3-6784-5fa8-9247-86884ea31661","excerpt":"","html":"","frontmatter":{"title":"Dollar","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}},"next":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}}},"pageContext":{"id":"92dc05d3-6784-5fa8-9247-86884ea31661","previousPostId":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","nextPostId":"1f886667-8d34-5bf3-b0ab-3ec51f9cc3d1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

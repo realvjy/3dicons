@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/play/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bf7979e2-2262-5f33-8705-abe29aca1e1b","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-ringing/"},"frontmatter":{"title":"Phone Ringing"}},"next":{"fields":{"slug":"/phone-missing/"},"frontmatter":{"title":"Phone Missing"}}},"pageContext":{"id":"bf7979e2-2262-5f33-8705-abe29aca1e1b","previousPostId":"08967e3b-9a71-5b74-9a67-98db4f313e87","nextPostId":"139b5b5c-730a-52bd-be70-7bfba4a7ccd1"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}},"next":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}}},"pageContext":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","previousPostId":"1e9ca19e-66f6-5df6-8f51-2d938f001989","nextPostId":"3b72847c-c8b2-57a4-b5f6-82d148a57557"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

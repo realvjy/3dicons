@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pause/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}},"next":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}}},"pageContext":{"id":"88dfd47d-9d7b-53f3-b602-20b32aa9128d","previousPostId":"2192a6b4-39b2-51c6-8bc4-42c28869af0b","nextPostId":"d0c4084e-b63b-5ae1-85b7-6818032814f7"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c64f3545-9582-53f4-b39e-a2a4d72c1686","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}},"next":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}}},"pageContext":{"id":"c64f3545-9582-53f4-b39e-a2a4d72c1686","previousPostId":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d","nextPostId":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

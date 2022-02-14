@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/plus/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e","excerpt":"","html":"","frontmatter":{"title":"Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-missing/"},"frontmatter":{"title":"Phone Missing"}},"next":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}}},"pageContext":{"id":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e","previousPostId":"139b5b5c-730a-52bd-be70-7bfba4a7ccd1","nextPostId":"5fd6a85e-9f14-5dad-915c-c4202c48f68c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1e9ca19e-66f6-5df6-8f51-2d938f001989","excerpt":"","html":"","frontmatter":{"title":"Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-ringing/"},"frontmatter":{"title":"Phone Ringing"}},"next":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}}},"pageContext":{"id":"1e9ca19e-66f6-5df6-8f51-2d938f001989","previousPostId":"db2ea088-e481-5919-9d5c-31223450e8c8","nextPostId":"90c8ed7c-6970-543f-ac75-ec79df8b0569"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

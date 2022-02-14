@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/glass/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fbf33a97-7423-557a-bfc0-6fbaf647c157","excerpt":"","html":"","frontmatter":{"title":"Glass","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}},"next":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}}},"pageContext":{"id":"fbf33a97-7423-557a-bfc0-6fbaf647c157","previousPostId":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","nextPostId":"6419e78d-53af-552b-aaec-d6fe59a394ea"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","excerpt":"","html":"","frontmatter":{"title":"Glass","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/girl/"},"frontmatter":{"title":"Girl"}},"next":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}}},"pageContext":{"id":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","previousPostId":"5406d4c3-7c11-5209-9adf-1e7a04c8fa0d","nextPostId":"179d0d12-a604-5f02-ad86-b6ae7f4e3255"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

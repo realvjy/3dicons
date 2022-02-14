@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/puzzle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e","excerpt":"","html":"","frontmatter":{"title":"Puzzle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}},"next":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}}},"pageContext":{"id":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e","previousPostId":"68c6048d-b39f-5cb3-a0ea-752e50df6993","nextPostId":"f39a711e-138f-505f-879a-b97fcfe00d27"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4069f82c-40d3-563d-aa14-44d3b4094f37","excerpt":"","html":"","frontmatter":{"title":"Puzzle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}},"next":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}}},"pageContext":{"id":"4069f82c-40d3-563d-aa14-44d3b4094f37","previousPostId":"3b72847c-c8b2-57a4-b5f6-82d148a57557","nextPostId":"9aba7c2a-f29c-556b-b372-0593d6a45793"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

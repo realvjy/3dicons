@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/crown/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","excerpt":"","html":"","frontmatter":{"title":"Crown","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}},"next":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}}},"pageContext":{"id":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","previousPostId":"b3424582-25a5-5c8e-8d6b-d33e072985e8","nextPostId":"5f90196f-bad9-5e8d-880d-57b76613b62f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2049bf16-330c-5010-98a7-c8e8d14d9c3f","excerpt":"","html":"","frontmatter":{"title":"Crown","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}},"next":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}}},"pageContext":{"id":"2049bf16-330c-5010-98a7-c8e8d14d9c3f","previousPostId":"51ea9b61-970b-5b95-b7e5-c22c8225debb","nextPostId":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

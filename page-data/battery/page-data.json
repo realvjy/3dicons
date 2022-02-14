@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/battery/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1e57312c-90ce-562d-8404-2e47af74f6e0","excerpt":"","html":"","frontmatter":{"title":"Battery","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}},"next":{"fields":{"slug":"/boy/"},"frontmatter":{"title":"Boy"}}},"pageContext":{"id":"1e57312c-90ce-562d-8404-2e47af74f6e0","previousPostId":"c2486883-dd06-53ca-b6ca-7be615c01419","nextPostId":"4f44566d-567e-5c02-b8af-3c69cd80c5bb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","excerpt":"","html":"","frontmatter":{"title":"Battery","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/back/"},"frontmatter":{"title":"Back"}},"next":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}}},"pageContext":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","previousPostId":"0648108f-f1ff-5fe5-b987-523e4c4dbd34","nextPostId":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

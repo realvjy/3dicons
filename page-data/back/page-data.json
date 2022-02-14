@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/back/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d2cbed14-793b-5437-96d9-3c1bf6c13727","excerpt":"","html":"","frontmatter":{"title":"Back","date":"Invalid date","description":null}},"previous":null,"next":{"fields":{"slug":"/axe/"},"frontmatter":{"title":"Axe"}}},"pageContext":{"id":"d2cbed14-793b-5437-96d9-3c1bf6c13727","previousPostId":null,"nextPostId":"67fb6259-874b-55df-aa13-4ac3e9b9f251"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0648108f-f1ff-5fe5-b987-523e4c4dbd34","excerpt":"","html":"","frontmatter":{"title":"Back","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}},"next":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}}},"pageContext":{"id":"0648108f-f1ff-5fe5-b987-523e4c4dbd34","previousPostId":"816cf8a0-73ce-52d7-8487-385502e8290f","nextPostId":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

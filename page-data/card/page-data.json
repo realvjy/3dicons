@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/card/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","excerpt":"","html":"","frontmatter":{"title":"Card","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}},"next":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}}},"pageContext":{"id":"20efafdf-54a6-54e1-9a5e-40fab6b85f87","previousPostId":"6ba7ea2d-544e-58fd-816a-a62c967b8aee","nextPostId":"23fe5000-5048-5e59-b467-3756fc7de10d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","excerpt":"","html":"","frontmatter":{"title":"Card","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}},"next":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}}},"pageContext":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","previousPostId":"d025bc65-b365-53f5-9f1e-b1c6f0951844","nextPostId":"55b45edd-cce0-5d62-9bfd-4ede5b0221b6"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

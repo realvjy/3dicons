@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/forward/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b3750146-733c-551f-9dda-64a430aecaaf","excerpt":"","html":"","frontmatter":{"title":"Forward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/folder/"},"frontmatter":{"title":"Folder"}},"next":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}}},"pageContext":{"id":"b3750146-733c-551f-9dda-64a430aecaaf","previousPostId":"a9972342-0e2f-536a-b2a6-e9f28aa5396b","nextPostId":"7d93ed38-0574-50ec-86c5-43f5d0e22385"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","excerpt":"","html":"","frontmatter":{"title":"Forward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/flash/"},"frontmatter":{"title":"Flash"}},"next":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}}},"pageContext":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","previousPostId":"528684aa-8d4e-5552-8287-413a425c340d","nextPostId":"d469b522-966d-5129-8b16-1fb68f607aea"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

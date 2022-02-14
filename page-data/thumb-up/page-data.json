@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/thumb-up/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2642639c-9077-5d1d-9d35-342881328040","excerpt":"","html":"","frontmatter":{"title":"Thumb Up","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tea-cup/"},"frontmatter":{"title":"Tea Cup"}},"next":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}}},"pageContext":{"id":"2642639c-9077-5d1d-9d35-342881328040","previousPostId":"0b570000-5b82-5697-ab03-34202388b171","nextPostId":"00cd8c0c-851f-513c-8ed3-0d13baf01a52"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c10e4079-4375-53cb-ab68-d6cc25970699","excerpt":"","html":"","frontmatter":{"title":"Thumb Up","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}},"next":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}}},"pageContext":{"id":"c10e4079-4375-53cb-ab68-d6cc25970699","previousPostId":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","nextPostId":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

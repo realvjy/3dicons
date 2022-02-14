@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/calculator/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4d7d4b31-661a-507d-9515-19a58cb88db4","excerpt":"","html":"","frontmatter":{"title":"Calculator","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bucket/"},"frontmatter":{"title":"Bucket"}},"next":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}}},"pageContext":{"id":"4d7d4b31-661a-507d-9515-19a58cb88db4","previousPostId":"66160a86-892d-5891-8500-f26c293f664c","nextPostId":"18b3e7c1-23c4-578e-bad1-4d8230bd7a8d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","excerpt":"","html":"","frontmatter":{"title":"Calculator","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/brush/"},"frontmatter":{"title":"Brush"}},"next":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}}},"pageContext":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","previousPostId":"effe45a5-0852-5e3a-8c08-cf4c6f8a8555","nextPostId":"4058901f-3cda-557c-a158-2216e9737e39"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

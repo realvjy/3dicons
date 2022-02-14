@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/figma/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8090f6a2-2127-5482-b9d5-9c48bccf617f","excerpt":"","html":"","frontmatter":{"title":"Figma","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}},"next":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}}},"pageContext":{"id":"8090f6a2-2127-5482-b9d5-9c48bccf617f","previousPostId":"02920517-d996-52b3-ae2d-71ef8a20341b","nextPostId":"b3424582-25a5-5c8e-8d6b-d33e072985e8"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0464dd4a-7f26-512b-b7bb-2cac5e1bd0c3","excerpt":"","html":"","frontmatter":{"title":"Figma","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}},"next":{"fields":{"slug":"/file-fav/"},"frontmatter":{"title":"File Fav"}}},"pageContext":{"id":"0464dd4a-7f26-512b-b7bb-2cac5e1bd0c3","previousPostId":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a","nextPostId":"774a207e-9926-5290-8a03-2eb90da6d6c5"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

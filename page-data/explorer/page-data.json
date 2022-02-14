@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/explorer/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5f90196f-bad9-5e8d-880d-57b76613b62f","excerpt":"","html":"","frontmatter":{"title":"Explorer","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/crown/"},"frontmatter":{"title":"Crown"}},"next":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}}},"pageContext":{"id":"5f90196f-bad9-5e8d-880d-57b76613b62f","previousPostId":"0a855ceb-bcf3-59f5-bb56-d2177a734d43","nextPostId":"4795ddb3-b892-500b-95d0-79d753b3be52"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0d5420c0-bca6-5517-83c0-ddca879aa80f","excerpt":"","html":"","frontmatter":{"title":"Explorer","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}},"next":{"fields":{"slug":"/eyedropper/"},"frontmatter":{"title":"Eyedropper"}}},"pageContext":{"id":"0d5420c0-bca6-5517-83c0-ddca879aa80f","previousPostId":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","nextPostId":"50c45ae8-c301-5f2f-9d22-fc6b4b3505ba"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

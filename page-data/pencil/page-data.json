@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pencil/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"53f2e3ee-7f34-5c94-957e-37557a2252b3","excerpt":"","html":"","frontmatter":{"title":"Pencil","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/picture/"},"frontmatter":{"title":"Picture"}},"next":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}}},"pageContext":{"id":"53f2e3ee-7f34-5c94-957e-37557a2252b3","previousPostId":"a53f670b-3075-5d15-9b22-9f284b395185","nextPostId":"96075d54-ca8c-568d-acc6-609b13fd83b1"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","excerpt":"","html":"","frontmatter":{"title":"Pencil","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","previousPostId":"c64f3545-9582-53f4-b39e-a2a4d72c1686","nextPostId":"57610f2c-fb61-5329-a238-1aaf2eda99de"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/wallet/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2cbbc144-2c6a-5874-a036-cf6724980d95","excerpt":"","html":"","frontmatter":{"title":"Wallet","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}},"next":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}}},"pageContext":{"id":"2cbbc144-2c6a-5874-a036-cf6724980d95","previousPostId":"8740ccce-a8f3-5ebf-8c1e-8d5da858b197","nextPostId":"1472cc3a-5ae8-5f28-9fb9-00c661948fae"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","excerpt":"","html":"","frontmatter":{"title":"Wallet","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}},"next":{"fields":{"slug":"/picture/"},"frontmatter":{"title":"Picture"}}},"pageContext":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","previousPostId":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","nextPostId":"761a003b-8e8b-547c-8eaf-e56ce1820d0d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

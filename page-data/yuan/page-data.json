@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/yuan/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"29fa79f8-066f-551c-a216-69373356832a","excerpt":"","html":"","frontmatter":{"title":"Yuan","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}},"next":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}}},"pageContext":{"id":"29fa79f8-066f-551c-a216-69373356832a","previousPostId":"7c7a7eaa-2190-5cf7-8fd9-72dbfb2a202d","nextPostId":"96e2d0d8-1a1d-5f3c-8acf-bb5a564bf6d2"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b32141cd-575b-5680-a789-fcf796f93dfd","excerpt":"","html":"","frontmatter":{"title":"Yuan","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}},"next":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}}},"pageContext":{"id":"b32141cd-575b-5680-a789-fcf796f93dfd","previousPostId":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","nextPostId":"2456062f-25a2-5bdc-b965-9c4e38fe5e05"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/circle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"87755d5f-c7d2-5f40-a563-53b5950e6f91","excerpt":"","html":"","frontmatter":{"title":"Circle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}},"next":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}}},"pageContext":{"id":"87755d5f-c7d2-5f40-a563-53b5950e6f91","previousPostId":"036acc64-4734-5496-a4d4-b9bddddcb102","nextPostId":"56cda326-20c6-5d13-9425-2ba265ee8814"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7f378ab1-16b0-57d2-be16-8dfa843520ef","excerpt":"","html":"","frontmatter":{"title":"Circle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}},"next":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}}},"pageContext":{"id":"7f378ab1-16b0-57d2-be16-8dfa843520ef","previousPostId":"b1e11bc0-802f-5df4-ad9b-29b585978d12","nextPostId":"68ffa3b9-1d4d-5f2d-abc3-b6fee23c3eac"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

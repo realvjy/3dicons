@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/blender/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"036acc64-4734-5496-a4d4-b9bddddcb102","excerpt":"","html":"","frontmatter":{"title":"Blender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}},"next":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}}},"pageContext":{"id":"036acc64-4734-5496-a4d4-b9bddddcb102","previousPostId":"7e474570-e9d5-530b-9699-b8f07d767d47","nextPostId":"87755d5f-c7d2-5f40-a563-53b5950e6f91"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e","excerpt":"","html":"","frontmatter":{"title":"Blender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}},"next":{"fields":{"slug":"/bookmark-fav/"},"frontmatter":{"title":"Bookmark Fav"}}},"pageContext":{"id":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e","previousPostId":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","nextPostId":"a0428fbe-eb44-556d-ae50-14ae11d96a71"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

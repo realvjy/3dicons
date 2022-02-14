@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/cup/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"02920517-d996-52b3-ae2d-71ef8a20341b","excerpt":"","html":"","frontmatter":{"title":"Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}},"next":{"fields":{"slug":"/figma/"},"frontmatter":{"title":"Figma"}}},"pageContext":{"id":"02920517-d996-52b3-ae2d-71ef8a20341b","previousPostId":"fce21935-3a9e-5187-bce2-a435ba9fda58","nextPostId":"8090f6a2-2127-5482-b9d5-9c48bccf617f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","excerpt":"","html":"","frontmatter":{"title":"Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}},"next":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}}},"pageContext":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","previousPostId":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","nextPostId":"92dc05d3-6784-5fa8-9247-86884ea31661"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

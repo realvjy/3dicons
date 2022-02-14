@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pin/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5fd6a85e-9f14-5dad-915c-c4202c48f68c","excerpt":"","html":"","frontmatter":{"title":"Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}},"next":{"fields":{"slug":"/picture/"},"frontmatter":{"title":"Picture"}}},"pageContext":{"id":"5fd6a85e-9f14-5dad-915c-c4202c48f68c","previousPostId":"9cf4c555-b3f6-5839-ba47-0fbc898acf6e","nextPostId":"a53f670b-3075-5d15-9b22-9f284b395185"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"348648a3-3842-5a6c-806a-b644f2fb53ac","excerpt":"","html":"","frontmatter":{"title":"Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/target/"},"frontmatter":{"title":"Target"}},"next":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}}},"pageContext":{"id":"348648a3-3842-5a6c-806a-b644f2fb53ac","previousPostId":"81ed4070-73e3-5acd-b206-9f91e8ba5d11","nextPostId":"65795306-aaeb-5e6f-8d06-32dede82a775"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

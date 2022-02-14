@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/paint-kit/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","excerpt":"","html":"","frontmatter":{"title":"Paint Kit","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}},"next":{"fields":{"slug":"/phone-end/"},"frontmatter":{"title":"Phone End"}}},"pageContext":{"id":"432841d1-d56b-5256-a3f7-19e9e7ac8dea","previousPostId":"b38c0c54-0e31-56a7-b607-20dd3c94fb59","nextPostId":"d872c08c-28fd-5076-8993-286962c5b310"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"57610f2c-fb61-5329-a238-1aaf2eda99de","excerpt":"","html":"","frontmatter":{"title":"Paint Kit","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}},"next":{"fields":{"slug":"/phone-end/"},"frontmatter":{"title":"Phone End"}}},"pageContext":{"id":"57610f2c-fb61-5329-a238-1aaf2eda99de","previousPostId":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","nextPostId":"793aca7d-0deb-51e8-bb5e-67c50bb1d6bb"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

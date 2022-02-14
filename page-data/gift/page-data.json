@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/gift/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","excerpt":"","html":"","frontmatter":{"title":"Gift","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/girl/"},"frontmatter":{"title":"Girl"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"723a02fa-6a4b-5f8c-a3d3-e0fe334028bb","previousPostId":"9699b477-37ba-5094-8439-fff813d99693","nextPostId":"fbf33a97-7423-557a-bfc0-6fbaf647c157"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d469b522-966d-5129-8b16-1fb68f607aea","excerpt":"","html":"","frontmatter":{"title":"Gift","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/forward/"},"frontmatter":{"title":"Forward"}},"next":{"fields":{"slug":"/folder/"},"frontmatter":{"title":"Folder"}}},"pageContext":{"id":"d469b522-966d-5129-8b16-1fb68f607aea","previousPostId":"50c4f8af-2b25-528d-8ac1-499e79e6185e","nextPostId":"71e738ab-b248-56ec-8ea5-b1c0e08b2153"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

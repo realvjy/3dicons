@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/minecraft/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a55f575e-5617-5398-8073-66dc78dc9c4e","excerpt":"","html":"","frontmatter":{"title":"Minecraft","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}},"next":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}}},"pageContext":{"id":"a55f575e-5617-5398-8073-66dc78dc9c4e","previousPostId":"6f61a428-1311-5ab2-843f-b07a321ef369","nextPostId":"4c01dc12-ddfb-5726-a912-0e705c277df8"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ff7f5714-5cdf-5fda-9f16-066edd6455f6","excerpt":"","html":"","frontmatter":{"title":"Minecraft","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}},"next":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}}},"pageContext":{"id":"ff7f5714-5cdf-5fda-9f16-066edd6455f6","previousPostId":"fd009635-1e80-5324-a3c4-d89491a2558a","nextPostId":"bc10da7e-c9ea-5635-bc98-15a29159d077"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

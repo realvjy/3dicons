@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pound/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","excerpt":"","html":"","frontmatter":{"title":"Pound","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}},"next":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}}},"pageContext":{"id":"4a582e03-4fb9-5746-9ee9-e1221abb4158","previousPostId":"f39a711e-138f-505f-879a-b97fcfe00d27","nextPostId":"63eea7bc-8d7e-5016-84dc-61665aac0a1a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3b72847c-c8b2-57a4-b5f6-82d148a57557","excerpt":"","html":"","frontmatter":{"title":"Pound","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}}},"pageContext":{"id":"3b72847c-c8b2-57a4-b5f6-82d148a57557","previousPostId":"90c8ed7c-6970-543f-ac75-ec79df8b0569","nextPostId":"4069f82c-40d3-563d-aa14-44d3b4094f37"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

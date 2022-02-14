@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/scissor/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"68c6048d-b39f-5cb3-a0ea-752e50df6993","excerpt":"","html":"","frontmatter":{"title":"Scissor","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}},"next":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}}},"pageContext":{"id":"68c6048d-b39f-5cb3-a0ea-752e50df6993","previousPostId":"42f3ad2a-0072-5346-bf70-576724f09ca8","nextPostId":"3608a1c4-90f6-5f8d-bc1c-e880c39f3e5e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"702a5de5-f151-50a8-8467-836e23faa8ad","excerpt":"","html":"","frontmatter":{"title":"Scissor","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}},"next":{"fields":{"slug":"/setting/"},"frontmatter":{"title":"Setting"}}},"pageContext":{"id":"702a5de5-f151-50a8-8467-836e23faa8ad","previousPostId":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","nextPostId":"026f1284-7bb3-5895-af00-c307464234b8"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

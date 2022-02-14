@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/rocket/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"96075d54-ca8c-568d-acc6-609b13fd83b1","excerpt":"","html":"","frontmatter":{"title":"Rocket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}},"next":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}}},"pageContext":{"id":"96075d54-ca8c-568d-acc6-609b13fd83b1","previousPostId":"53f2e3ee-7f34-5c94-957e-37557a2252b3","nextPostId":"42f3ad2a-0072-5346-bf70-576724f09ca8"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","excerpt":"","html":"","frontmatter":{"title":"Rocket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}},"next":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}}},"pageContext":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","previousPostId":"ba1d04c0-aaa6-5839-b9e8-752b7a41789d","nextPostId":"702a5de5-f151-50a8-8467-836e23faa8ad"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/phone-outgoing/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"eee28079-6ab7-5525-bae5-0a56e1157b2b","excerpt":"","html":"","frontmatter":{"title":"Phone Outgoing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-end/"},"frontmatter":{"title":"Phone End"}},"next":{"fields":{"slug":"/phone-incoming/"},"frontmatter":{"title":"Phone Incoming"}}},"pageContext":{"id":"eee28079-6ab7-5525-bae5-0a56e1157b2b","previousPostId":"d872c08c-28fd-5076-8993-286962c5b310","nextPostId":"10315916-8e92-5e38-9ca6-83655ffc23eb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0906507d-d61d-5e1e-b606-9cb06c09dec2","excerpt":"","html":"","frontmatter":{"title":"Phone Outgoing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}},"next":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}}},"pageContext":{"id":"0906507d-d61d-5e1e-b606-9cb06c09dec2","previousPostId":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","nextPostId":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

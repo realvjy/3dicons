@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/location/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","excerpt":"","html":"","frontmatter":{"title":"Location","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}},"next":{"fields":{"slug":"/file-text/"},"frontmatter":{"title":"File Text"}}},"pageContext":{"id":"c916c8ca-3db7-5196-bab1-d4d38737d5f8","previousPostId":"82041682-e9f1-5f8a-b592-b97ce1581b93","nextPostId":"c7ecf228-304c-572b-ad82-c158c6f9689c"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ad532959-4c04-5b7f-8de4-135e5afded41","excerpt":"","html":"","frontmatter":{"title":"Location","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}},"next":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}}},"pageContext":{"id":"ad532959-4c04-5b7f-8de4-135e5afded41","previousPostId":"624efad7-b508-5af1-b968-07f1707d2434","nextPostId":"72afdc0b-a4df-50e6-bce8-6a771e590730"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

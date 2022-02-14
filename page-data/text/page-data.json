@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/text/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","excerpt":"","html":"","frontmatter":{"title":"Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}},"next":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}}},"pageContext":{"id":"a0d61cc8-74b7-5188-986e-cf2835e83c26","previousPostId":"00cd8c0c-851f-513c-8ed3-0d13baf01a52","nextPostId":"3c78bfe8-9bab-54a2-8dd3-863ccfcfe220"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"65795306-aaeb-5e6f-8d06-32dede82a775","excerpt":"","html":"","frontmatter":{"title":"Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}},"next":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}}},"pageContext":{"id":"65795306-aaeb-5e6f-8d06-32dede82a775","previousPostId":"348648a3-3842-5a6c-806a-b644f2fb53ac","nextPostId":"cb163b38-b088-5c0f-84a9-c5d61662a3aa"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

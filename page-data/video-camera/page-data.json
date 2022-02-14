@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/video-camera/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"84970912-8ea7-5b17-9535-ee413c212e82","excerpt":"","html":"","frontmatter":{"title":"Video Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}},"next":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}}},"pageContext":{"id":"84970912-8ea7-5b17-9535-ee413c212e82","previousPostId":"a6efb0de-3893-5aa3-9e0a-b10e88b39d59","nextPostId":"3038415d-cb79-5271-bcb6-6ed96c017d8e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","excerpt":"","html":"","frontmatter":{"title":"Video Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}},"next":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}}},"pageContext":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","previousPostId":"2071556f-4dbc-5fc7-b14a-08d9585c6205","nextPostId":"b32141cd-575b-5680-a789-fcf796f93dfd"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/setting/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"25152a5f-fb89-52f3-a77d-8b0df013a304","excerpt":"","html":"","frontmatter":{"title":"Setting","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}},"next":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}}},"pageContext":{"id":"25152a5f-fb89-52f3-a77d-8b0df013a304","previousPostId":"c3ada814-fa2a-5750-aef8-38b53f49db32","nextPostId":"b8efdcf2-fddd-5230-94b5-45554c33ddb4"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"026f1284-7bb3-5895-af00-c307464234b8","excerpt":"","html":"","frontmatter":{"title":"Setting","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}},"next":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}}},"pageContext":{"id":"026f1284-7bb3-5895-af00-c307464234b8","previousPostId":"702a5de5-f151-50a8-8467-836e23faa8ad","nextPostId":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
