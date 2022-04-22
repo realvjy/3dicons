@@ -1091,3 +1091,19 @@ main{
     }
   }
 }
+
+.eth-donate{
+  margin-top: 20px;
+  font-size: 17px;
+  opacity: .6;
+  @media (max-width: $mobile-landscape){
+      font-size: 12px;
+  }
+  span{
+    font-weight: 600;
+    @media (max-width: $mobile-landscape){
+      display: block;
+      margin-top: 12px;
+    }
+  }
+}

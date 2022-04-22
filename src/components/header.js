@@ -38,6 +38,9 @@ const Header = () => {
                   <h4>Donate & Support</h4>
                 </a>
             </div>
+            <div className="eth-donate">
+              Donate ETH: <span>0x2d5A7bcD873A5F8A80433a45647cfCF7947779bC</span>
+            </div>
             <div className="styles-angle">
               <div className="s-a-wrap">
                 <div className="header-text">
