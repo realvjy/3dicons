@@ -22,7 +22,7 @@ const Layout = ({ location, title, children }) => {
           </div>
 
           <div className="ad-float">
-          <a href="bit.ly/3dicons-ads-3" target="_blank">
+          <a href="https://bit.ly/3dicons-ads-3" target="_blank">
             <img src="iconshock.png" />
           </a>
           </div>
