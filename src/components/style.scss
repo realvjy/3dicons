@@ -716,6 +716,28 @@ main{
   }
 }
 
+.article{
+  padding: 54px 54px 12px 54px;
+  @media (max-width: $mobile-landscape){
+    padding: 0;
+    margin-top: 24px;
+  }
+  a{
+    position: relative;
+    transition: all .3s var(--emo-in-out)!important;
+    img{
+      display: flex;
+      width: 100%;
+      border-radius: 24px;
+    }
+    &:hover{
+      img{
+        transform: scale3d(1.02,1.02,1.02)
+      }
+    }
+  }
+
+}
 .inaction{
   .ia-wrap{
     margin: 0 54px;

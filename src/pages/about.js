@@ -60,6 +60,7 @@ class About extends React.Component {
                 <h2>How it was made</h2>
                 <p>I created all these icons in Blender. Some of them were first doodled on iPad using Procreate, and then modeled in 3D. After modeling, all icons were rendered in different angles and styles for multipurpose use. Below is a link to download rough master blender files as well.</p>
                 <a href="https://realvjy.notion.site/3dicons-FAQ-be562c619cf04f2daa04a10c2684575d">Check FAQ to basic tutorial and query »</a>
+                <a href="https://www.smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/" target="_blank">Detailed Case Study on Smashing Magazine »</a>
                 <a href="https://bit.ly/3dicons-master-file">Blender Master File »</a>
                 <a href="https://bit.ly/3dicons-mockups">3dicons Mockups Figma File »</a>
                 <a href="https://bit.ly/3dicons-material">Key Shader/Procedural Texture File »</a>

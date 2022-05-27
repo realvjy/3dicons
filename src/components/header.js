@@ -41,6 +41,11 @@ const Header = () => {
             <div className="eth-donate">
               Donate ETH: <span>0x2d5A7bcD873A5F8A80433a45647cfCF7947779bC</span>
             </div>
+            <div className="article">
+              <a href="https://www.smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/" target="_blank">
+                <img src="/smashing-magazine.jpg"/>
+              </a>
+            </div>
             <div className="styles-angle">
               <div className="s-a-wrap">
                 <div className="header-text">
