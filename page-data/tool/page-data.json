@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tool/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","excerpt":"","html":"","frontmatter":{"title":"Tool","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}},"next":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}}},"pageContext":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","previousPostId":"c10e4079-4375-53cb-ab68-d6cc25970699","nextPostId":"cd897bbf-2e00-5c1e-8c89-c8a06451c159"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","excerpt":"","html":"","frontmatter":{"title":"Tool","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}},"next":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}}},"pageContext":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","previousPostId":"c10e4079-4375-53cb-ab68-d6cc25970699","nextPostId":"7d471add-0693-5ce4-882d-a191c0dd18fc"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

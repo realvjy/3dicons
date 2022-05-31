@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/toggle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","excerpt":"","html":"","frontmatter":{"title":"Toggle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}},"next":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}}},"pageContext":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","previousPostId":"cd897bbf-2e00-5c1e-8c89-c8a06451c159","nextPostId":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","excerpt":"","html":"","frontmatter":{"title":"Toggle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}},"next":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}}},"pageContext":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","previousPostId":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f","nextPostId":"cd897bbf-2e00-5c1e-8c89-c8a06451c159"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/music/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}},"next":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}}},"pageContext":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","previousPostId":"5edc82b6-86b2-5bef-8cae-13252310b24d","nextPostId":"73b6df8c-55ea-5c67-96e8-bc69d80372e7"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}},"next":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}}},"pageContext":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","previousPostId":"fd009635-1e80-5324-a3c4-d89491a2558a","nextPostId":"73b6df8c-55ea-5c67-96e8-bc69d80372e7"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

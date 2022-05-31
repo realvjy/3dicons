@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/circle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7f378ab1-16b0-57d2-be16-8dfa843520ef","excerpt":"","html":"","frontmatter":{"title":"Circle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}},"next":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}}},"pageContext":{"id":"7f378ab1-16b0-57d2-be16-8dfa843520ef","previousPostId":"b1e11bc0-802f-5df4-ad9b-29b585978d12","nextPostId":"68ffa3b9-1d4d-5f2d-abc3-b6fee23c3eac"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"7f378ab1-16b0-57d2-be16-8dfa843520ef","excerpt":"","html":"","frontmatter":{"title":"Circle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}},"next":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}}},"pageContext":{"id":"7f378ab1-16b0-57d2-be16-8dfa843520ef","previousPostId":"4058901f-3cda-557c-a158-2216e9737e39","nextPostId":"b1e11bc0-802f-5df4-ad9b-29b585978d12"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

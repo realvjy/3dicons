@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/moon/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"34121634-f804-55c9-adc3-b6fe79630836","excerpt":"","html":"","frontmatter":{"title":"Moon","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}},"next":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}}},"pageContext":{"id":"34121634-f804-55c9-adc3-b6fe79630836","previousPostId":"63020383-2902-5e7c-932a-c707d0962a67","nextPostId":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"34121634-f804-55c9-adc3-b6fe79630836","excerpt":"","html":"","frontmatter":{"title":"Moon","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}},"next":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}}},"pageContext":{"id":"34121634-f804-55c9-adc3-b6fe79630836","previousPostId":"70137f37-71b8-5199-b6ec-c943b7bf8eb1","nextPostId":"fd009635-1e80-5324-a3c4-d89491a2558a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

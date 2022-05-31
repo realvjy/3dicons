@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/file-plus/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","excerpt":"","html":"","frontmatter":{"title":"File Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file-fav/"},"frontmatter":{"title":"File Fav"}},"next":{"fields":{"slug":"/file-text/"},"frontmatter":{"title":"File Text"}}},"pageContext":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","previousPostId":"774a207e-9926-5290-8a03-2eb90da6d6c5","nextPostId":"b7021280-eab7-5ed3-a0bc-309aba92c6f1"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","excerpt":"","html":"","frontmatter":{"title":"File Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}},"next":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}}},"pageContext":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","previousPostId":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","nextPostId":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

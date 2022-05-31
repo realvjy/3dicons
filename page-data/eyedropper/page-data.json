@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/eyedropper/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50c45ae8-c301-5f2f-9d22-fc6b4b3505ba","excerpt":"","html":"","frontmatter":{"title":"Eyedropper","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}},"next":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}}},"pageContext":{"id":"50c45ae8-c301-5f2f-9d22-fc6b4b3505ba","previousPostId":"0d5420c0-bca6-5517-83c0-ddca879aa80f","nextPostId":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50c45ae8-c301-5f2f-9d22-fc6b4b3505ba","excerpt":"","html":"","frontmatter":{"title":"Eyedropper","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}},"next":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}}},"pageContext":{"id":"50c45ae8-c301-5f2f-9d22-fc6b4b3505ba","previousPostId":"0d5420c0-bca6-5517-83c0-ddca879aa80f","nextPostId":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

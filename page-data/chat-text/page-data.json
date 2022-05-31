@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/chat-text/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b25520e7-915e-5221-9324-1e52e56091bd","excerpt":"","html":"","frontmatter":{"title":"Chat Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat-bubble/"},"frontmatter":{"title":"Chat Bubble"}},"next":{"fields":{"slug":"/chat/"},"frontmatter":{"title":"Chat"}}},"pageContext":{"id":"b25520e7-915e-5221-9324-1e52e56091bd","previousPostId":"ffcefe63-c437-537e-a80f-3787ea2bf9db","nextPostId":"c7a32cee-1201-5cde-8000-8d49a0abb023"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b25520e7-915e-5221-9324-1e52e56091bd","excerpt":"","html":"","frontmatter":{"title":"Chat Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat-bubble/"},"frontmatter":{"title":"Chat Bubble"}},"next":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}}},"pageContext":{"id":"b25520e7-915e-5221-9324-1e52e56091bd","previousPostId":"ffcefe63-c437-537e-a80f-3787ea2bf9db","nextPostId":"4058901f-3cda-557c-a158-2216e9737e39"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

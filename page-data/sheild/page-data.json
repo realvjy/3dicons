@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sheild/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"e72276b3-de68-5c77-ae3a-e60b3da29321","excerpt":"","html":"","frontmatter":{"title":"Sheild","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}},"next":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}}},"pageContext":{"id":"e72276b3-de68-5c77-ae3a-e60b3da29321","previousPostId":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e","nextPostId":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"e72276b3-de68-5c77-ae3a-e60b3da29321","excerpt":"","html":"","frontmatter":{"title":"Sheild","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}},"next":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}}},"pageContext":{"id":"e72276b3-de68-5c77-ae3a-e60b3da29321","previousPostId":"1e9ca19e-66f6-5df6-8f51-2d938f001989","nextPostId":"2aaa008c-6677-5151-8698-e6182245c086"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pin/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"348648a3-3842-5a6c-806a-b644f2fb53ac","excerpt":"","html":"","frontmatter":{"title":"Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/target/"},"frontmatter":{"title":"Target"}},"next":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}}},"pageContext":{"id":"348648a3-3842-5a6c-806a-b644f2fb53ac","previousPostId":"81ed4070-73e3-5acd-b206-9f91e8ba5d11","nextPostId":"65795306-aaeb-5e6f-8d06-32dede82a775"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"348648a3-3842-5a6c-806a-b644f2fb53ac","excerpt":"","html":"","frontmatter":{"title":"Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/phone-outgoing/"},"frontmatter":{"title":"Phone Outgoing"}}},"pageContext":{"id":"348648a3-3842-5a6c-806a-b644f2fb53ac","previousPostId":"39379eaa-cf6d-5c87-9183-b74e3248018f","nextPostId":"0906507d-d61d-5e1e-b606-9cb06c09dec2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

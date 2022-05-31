@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/fire/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b23315c9-a9ad-5580-a971-996213bb088e","excerpt":"","html":"","frontmatter":{"title":"Fire","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file/"},"frontmatter":{"title":"File"}},"next":{"fields":{"slug":"/flag/"},"frontmatter":{"title":"Flag"}}},"pageContext":{"id":"b23315c9-a9ad-5580-a971-996213bb088e","previousPostId":"96e52a57-3c2b-568e-bcb3-f6f131574898","nextPostId":"77e80481-975e-5537-a333-411e1b642730"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b23315c9-a9ad-5580-a971-996213bb088e","excerpt":"","html":"","frontmatter":{"title":"Fire","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file-text/"},"frontmatter":{"title":"File Text"}},"next":{"fields":{"slug":"/flag/"},"frontmatter":{"title":"Flag"}}},"pageContext":{"id":"b23315c9-a9ad-5580-a971-996213bb088e","previousPostId":"b7021280-eab7-5ed3-a0bc-309aba92c6f1","nextPostId":"77e80481-975e-5537-a333-411e1b642730"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

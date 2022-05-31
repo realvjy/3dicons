@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/money/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5edc82b6-86b2-5bef-8cae-13252310b24d","excerpt":"","html":"","frontmatter":{"title":"Money","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}},"next":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}}},"pageContext":{"id":"5edc82b6-86b2-5bef-8cae-13252310b24d","previousPostId":"01aa116b-f40a-5514-8c01-ed42430f3f50","nextPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5edc82b6-86b2-5bef-8cae-13252310b24d","excerpt":"","html":"","frontmatter":{"title":"Money","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}},"next":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}}},"pageContext":{"id":"5edc82b6-86b2-5bef-8cae-13252310b24d","previousPostId":"01aa116b-f40a-5514-8c01-ed42430f3f50","nextPostId":"70137f37-71b8-5199-b6ec-c943b7bf8eb1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

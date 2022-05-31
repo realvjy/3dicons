@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/3d-coin/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"201ed03b-8e5b-5770-ae50-5c844374ec38","excerpt":"","html":"","frontmatter":{"title":"3d Coin","date":"Invalid date","description":null}},"previous":null,"next":{"fields":{"slug":"/3d/"},"frontmatter":{"title":"3d"}}},"pageContext":{"id":"201ed03b-8e5b-5770-ae50-5c844374ec38","previousPostId":null,"nextPostId":"1705e9e7-6d1c-5f9e-b5e9-b24ee563bb15"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"201ed03b-8e5b-5770-ae50-5c844374ec38","excerpt":"","html":"","frontmatter":{"title":"3d Coin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}},"next":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}}},"pageContext":{"id":"201ed03b-8e5b-5770-ae50-5c844374ec38","previousPostId":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","nextPostId":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
