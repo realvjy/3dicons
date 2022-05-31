@@ -26,22 +26,23 @@ class BlogIndex extends React.Component {
       }
     }
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title={siteTitle} bgclass="3dicons-main">
         <SEO title="3dicons - Open source 3D icon library" />
         <Annouce />
         <section className="navbar">
           <div className="container">
             <nav>
               <div className="logo">
-                <a href="/"><img src="/3dicons.png"/></a>
+                <a href="/"><img src="/3dicons.png" /></a>
               </div>
               <div className="menu">
                 <ul>
-                  <li>
-                    <a className="btn btn-outline" href="https://twitter.com/intent/tweet?text=Design%20awesome%20landing%20page%2C%20mockup%2C%20social%20media%20post%20or%20presentation%20with%20%233dicons%20-%20an%20open-source%203d%20icons%20library.%20https%3A//3dicons.co%20by%20@realvjy">Show Love<img src="/twitter.svg"/></a>
-                  </li>
                   <li><a href="/about" className="btn btn-text">about</a></li>
+                  <li><a href="/figma-plugin" className="btn btn-text">figma</a></li>
                   <li><a href="https://www.buymeacoffee.com/realvjy" className="btn btn-text">donate</a></li>
+                  <li>
+                    <a className="btn btn-outline" href="https://twitter.com/intent/tweet?text=Design%20awesome%20landing%20page%2C%20mockup%2C%20social%20media%20post%20or%20presentation%20with%20%233dicons%20-%20an%20open-source%203d%20icons%20library.%20https%3A//3dicons.co%20by%20@realvjy">Show Love<img src="/twitter.svg" /></a>
+                  </li>
                 </ul>
               </div>
             </nav>

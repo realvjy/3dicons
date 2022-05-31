@@ -2,10 +2,10 @@ import * as React from "react"
 import { Link } from "gatsby"
 import { useState, useEffect, useRef, useReducer } from "react";
 
-const Layout = ({ location, title, children }) => {
+const Layout = ({ location, title, children, bgclass }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
-
+  console.log(bgclass);
   let header = (
       <>
       <div className="announce-wrapper producthunt">
@@ -14,7 +14,7 @@ const Layout = ({ location, title, children }) => {
     )
 
     return (
-        <div className="3dicons_main">
+        <div className={bgclass}>
           <header>{header}</header>
           <main>{children}</main>
           <div className="ph-float">
