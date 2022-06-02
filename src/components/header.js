@@ -48,8 +48,8 @@ const Header = () => {
             <div className="right-box">
               <p>Now you can add 3dicons directly to your design from the plugin. And yes, you can search as well.</p>
               <div className="fig-text-btn">
-                <a href="#">Soon on Figma <img src="/arrow.svg" /></a>
-                <a href="/figma-plugin">More about <img src="/arrow.svg" /></a>
+                <a href="https://bit.ly/3dicons-figma">Install on Figma <img src="/arrow.svg" /></a>
+                <a href="/figma">More about <img src="/arrow.svg" /></a>
               </div>
             </div>
           </div>
