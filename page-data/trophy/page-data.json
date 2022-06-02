@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/trophy/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f","excerpt":"","html":"","frontmatter":{"title":"Trophy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}},"next":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}}},"pageContext":{"id":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f","previousPostId":"dda5136f-507e-5173-81fc-63b0cd14b8fa","nextPostId":"60382e94-3cd7-5e78-9598-4ec46c081353"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f","excerpt":"","html":"","frontmatter":{"title":"Trophy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tea-cup/"},"frontmatter":{"title":"Tea Cup"}},"next":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}}},"pageContext":{"id":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f","previousPostId":"2ffece10-c0ad-50ab-afdb-f37b6a4ec70e","nextPostId":"cd897bbf-2e00-5c1e-8c89-c8a06451c159"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

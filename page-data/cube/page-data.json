@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/cube/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","excerpt":"","html":"","frontmatter":{"title":"Cube","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}},"next":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}}},"pageContext":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","previousPostId":"51ea9b61-970b-5b95-b7e5-c22c8225debb","nextPostId":"92dc05d3-6784-5fa8-9247-86884ea31661"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","excerpt":"","html":"","frontmatter":{"title":"Cube","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}},"next":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}}},"pageContext":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","previousPostId":"7f378ab1-16b0-57d2-be16-8dfa843520ef","nextPostId":"2683d107-5204-5a83-8a36-5da64f77f1b2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

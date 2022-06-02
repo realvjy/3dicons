@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/phone-missing/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"17cf2a4d-eb8d-5d74-8107-64bb83be3531","excerpt":"","html":"","frontmatter":{"title":"Phone Missing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-incoming/"},"frontmatter":{"title":"Phone Incoming"}},"next":{"fields":{"slug":"/phone-only/"},"frontmatter":{"title":"Phone Only"}}},"pageContext":{"id":"17cf2a4d-eb8d-5d74-8107-64bb83be3531","previousPostId":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b","nextPostId":"b5fd8892-77dc-50c9-9c3a-d8b1ce134121"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"17cf2a4d-eb8d-5d74-8107-64bb83be3531","excerpt":"","html":"","frontmatter":{"title":"Phone Missing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}},"next":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}}},"pageContext":{"id":"17cf2a4d-eb8d-5d74-8107-64bb83be3531","previousPostId":"63020383-2902-5e7c-932a-c707d0962a67","nextPostId":"4069f82c-40d3-563d-aa14-44d3b4094f37"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

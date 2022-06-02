@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/camera/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"69381b78-7a01-5910-be27-b65557327cd6","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}},"next":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}}},"pageContext":{"id":"69381b78-7a01-5910-be27-b65557327cd6","previousPostId":"688504ff-c477-59ed-9400-bc1a28072c83","nextPostId":"55b45edd-cce0-5d62-9bfd-4ede5b0221b6"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"69381b78-7a01-5910-be27-b65557327cd6","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}},"next":{"fields":{"slug":"/chat-bubble/"},"frontmatter":{"title":"Chat Bubble"}}},"pageContext":{"id":"69381b78-7a01-5910-be27-b65557327cd6","previousPostId":"688504ff-c477-59ed-9400-bc1a28072c83","nextPostId":"ffcefe63-c437-537e-a80f-3787ea2bf9db"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

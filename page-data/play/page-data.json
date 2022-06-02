@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/play/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-ringing/"},"frontmatter":{"title":"Phone Ringing"}},"next":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}}},"pageContext":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","previousPostId":"db2ea088-e481-5919-9d5c-31223450e8c8","nextPostId":"39379eaa-cf6d-5c87-9183-b74e3248018f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/picture/"},"frontmatter":{"title":"Picture"}},"next":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}}},"pageContext":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","previousPostId":"761a003b-8e8b-547c-8eaf-e56ce1820d0d","nextPostId":"3b72847c-c8b2-57a4-b5f6-82d148a57557"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

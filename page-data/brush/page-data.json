@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/brush/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"effe45a5-0852-5e3a-8c08-cf4c6f8a8555","excerpt":"","html":"","frontmatter":{"title":"Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark/"},"frontmatter":{"title":"Bookmark"}},"next":{"fields":{"slug":"/bucket/"},"frontmatter":{"title":"Bucket"}}},"pageContext":{"id":"effe45a5-0852-5e3a-8c08-cf4c6f8a8555","previousPostId":"e58529ce-09a1-5fea-a22d-8053eef973d0","nextPostId":"0e444d53-81fa-541d-9f05-2ab113bb4dd3"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"effe45a5-0852-5e3a-8c08-cf4c6f8a8555","excerpt":"","html":"","frontmatter":{"title":"Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}},"next":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}}},"pageContext":{"id":"effe45a5-0852-5e3a-8c08-cf4c6f8a8555","previousPostId":"c0146735-1499-505f-b4d1-02a101a560e4","nextPostId":"4058901f-3cda-557c-a158-2216e9737e39"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

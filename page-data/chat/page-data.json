@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/chat/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c7a32cee-1201-5cde-8000-8d49a0abb023","excerpt":"","html":"","frontmatter":{"title":"Chat","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}},"next":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}}},"pageContext":{"id":"c7a32cee-1201-5cde-8000-8d49a0abb023","previousPostId":"b1e11bc0-802f-5df4-ad9b-29b585978d12","nextPostId":"62f87883-186c-5f55-91c1-ff34bc68b28f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c7a32cee-1201-5cde-8000-8d49a0abb023","excerpt":"","html":"","frontmatter":{"title":"Chat","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/calculator/"},"frontmatter":{"title":"Calculator"}},"next":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}}},"pageContext":{"id":"c7a32cee-1201-5cde-8000-8d49a0abb023","previousPostId":"2170673f-2b68-569a-a159-8b6c46b982e2","nextPostId":"d025bc65-b365-53f5-9f1e-b1c6f0951844"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

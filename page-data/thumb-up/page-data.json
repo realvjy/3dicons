@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/thumb-up/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c10e4079-4375-53cb-ab68-d6cc25970699","excerpt":"","html":"","frontmatter":{"title":"Thumb Up","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}},"next":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}}},"pageContext":{"id":"c10e4079-4375-53cb-ab68-d6cc25970699","previousPostId":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","nextPostId":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c10e4079-4375-53cb-ab68-d6cc25970699","excerpt":"","html":"","frontmatter":{"title":"Thumb Up","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}},"next":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}}},"pageContext":{"id":"c10e4079-4375-53cb-ab68-d6cc25970699","previousPostId":"702a5de5-f151-50a8-8467-836e23faa8ad","nextPostId":"cb163b38-b088-5c0f-84a9-c5d61662a3aa"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/heart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"472b321a-0427-5916-9551-692ee81bf98f","excerpt":"","html":"","frontmatter":{"title":"Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/headphone/"},"frontmatter":{"title":"Headphone"}},"next":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}}},"pageContext":{"id":"472b321a-0427-5916-9551-692ee81bf98f","previousPostId":"ede3ab5b-39ee-541a-85a7-6fd9720412a5","nextPostId":"15796d58-846e-58f7-9859-25ca9f420e5a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"472b321a-0427-5916-9551-692ee81bf98f","excerpt":"","html":"","frontmatter":{"title":"Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/headphone/"},"frontmatter":{"title":"Headphone"}},"next":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}}},"pageContext":{"id":"472b321a-0427-5916-9551-692ee81bf98f","previousPostId":"ede3ab5b-39ee-541a-85a7-6fd9720412a5","nextPostId":"71b64f72-a4b7-5960-b2f0-6930b8b16b76"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

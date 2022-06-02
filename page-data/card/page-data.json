@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/card/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","excerpt":"","html":"","frontmatter":{"title":"Card","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}},"next":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}}},"pageContext":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","previousPostId":"d025bc65-b365-53f5-9f1e-b1c6f0951844","nextPostId":"69381b78-7a01-5910-be27-b65557327cd6"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","excerpt":"","html":"","frontmatter":{"title":"Card","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}},"next":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}}},"pageContext":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","previousPostId":"55b45edd-cce0-5d62-9bfd-4ede5b0221b6","nextPostId":"69381b78-7a01-5910-be27-b65557327cd6"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

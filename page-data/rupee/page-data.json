@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/rupee/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ba1d04c0-aaa6-5839-b9e8-752b7a41789d","excerpt":"","html":"","frontmatter":{"title":"Rupee","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}},"next":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}}},"pageContext":{"id":"ba1d04c0-aaa6-5839-b9e8-752b7a41789d","previousPostId":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","nextPostId":"ad39f773-b8d6-557f-a0f4-fdd3683295f5"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ba1d04c0-aaa6-5839-b9e8-752b7a41789d","excerpt":"","html":"","frontmatter":{"title":"Rupee","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}},"next":{"fields":{"slug":"/setting/"},"frontmatter":{"title":"Setting"}}},"pageContext":{"id":"ba1d04c0-aaa6-5839-b9e8-752b7a41789d","previousPostId":"9aba7c2a-f29c-556b-b372-0593d6a45793","nextPostId":"026f1284-7bb3-5895-af00-c307464234b8"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

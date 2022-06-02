@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sun/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","excerpt":"","html":"","frontmatter":{"title":"Sun","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}},"next":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}}},"pageContext":{"id":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","previousPostId":"2aaa008c-6677-5151-8698-e6182245c086","nextPostId":"ba1d04c0-aaa6-5839-b9e8-752b7a41789d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","excerpt":"","html":"","frontmatter":{"title":"Sun","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}},"next":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}}},"pageContext":{"id":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","previousPostId":"65795306-aaeb-5e6f-8d06-32dede82a775","nextPostId":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

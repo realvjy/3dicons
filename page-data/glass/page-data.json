@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/glass/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","excerpt":"","html":"","frontmatter":{"title":"Glass","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/flash/"},"frontmatter":{"title":"Flash"}},"next":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}}},"pageContext":{"id":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","previousPostId":"528684aa-8d4e-5552-8287-413a425c340d","nextPostId":"179d0d12-a604-5f02-ad86-b6ae7f4e3255"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","excerpt":"","html":"","frontmatter":{"title":"Glass","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}},"next":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}}},"pageContext":{"id":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","previousPostId":"ad532959-4c04-5b7f-8de4-135e5afded41","nextPostId":"624efad7-b508-5af1-b968-07f1707d2434"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

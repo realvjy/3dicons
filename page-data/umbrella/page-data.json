@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/umbrella/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"dda5136f-507e-5173-81fc-63b0cd14b8fa","excerpt":"","html":"","frontmatter":{"title":"Umbrella","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}},"next":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}}},"pageContext":{"id":"dda5136f-507e-5173-81fc-63b0cd14b8fa","previousPostId":"7d471add-0693-5ce4-882d-a191c0dd18fc","nextPostId":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"dda5136f-507e-5173-81fc-63b0cd14b8fa","excerpt":"","html":"","frontmatter":{"title":"Umbrella","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}},"next":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}}},"pageContext":{"id":"dda5136f-507e-5173-81fc-63b0cd14b8fa","previousPostId":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","nextPostId":"b32141cd-575b-5680-a789-fcf796f93dfd"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

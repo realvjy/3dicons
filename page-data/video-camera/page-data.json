@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/video-camera/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","excerpt":"","html":"","frontmatter":{"title":"Video Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}},"next":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}}},"pageContext":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","previousPostId":"cd897bbf-2e00-5c1e-8c89-c8a06451c159","nextPostId":"2071556f-4dbc-5fc7-b14a-08d9585c6205"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","excerpt":"","html":"","frontmatter":{"title":"Video Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}},"next":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}}},"pageContext":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","previousPostId":"b32141cd-575b-5680-a789-fcf796f93dfd","nextPostId":"60382e94-3cd7-5e78-9598-4ec46c081353"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

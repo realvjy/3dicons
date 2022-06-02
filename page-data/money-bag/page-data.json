@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/money-bag/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"01aa116b-f40a-5514-8c01-ed42430f3f50","excerpt":"","html":"","frontmatter":{"title":"Money Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}},"next":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}}},"pageContext":{"id":"01aa116b-f40a-5514-8c01-ed42430f3f50","previousPostId":"ff7f5714-5cdf-5fda-9f16-066edd6455f6","nextPostId":"5edc82b6-86b2-5bef-8cae-13252310b24d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"01aa116b-f40a-5514-8c01-ed42430f3f50","excerpt":"","html":"","frontmatter":{"title":"Money Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}},"next":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}}},"pageContext":{"id":"01aa116b-f40a-5514-8c01-ed42430f3f50","previousPostId":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","nextPostId":"2071556f-4dbc-5fc7-b14a-08d9585c6205"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

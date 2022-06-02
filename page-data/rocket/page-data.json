@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/rocket/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","excerpt":"","html":"","frontmatter":{"title":"Rocket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}},"next":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}}},"pageContext":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","previousPostId":"9aba7c2a-f29c-556b-b372-0593d6a45793","nextPostId":"702a5de5-f151-50a8-8467-836e23faa8ad"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","excerpt":"","html":"","frontmatter":{"title":"Rocket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}},"next":{"fields":{"slug":"/phone-outgoing/"},"frontmatter":{"title":"Phone Outgoing"}}},"pageContext":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","previousPostId":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","nextPostId":"0906507d-d61d-5e1e-b606-9cb06c09dec2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

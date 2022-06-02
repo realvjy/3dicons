@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/lab/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}},"next":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}}},"pageContext":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","previousPostId":"15796d58-846e-58f7-9859-25ca9f420e5a","nextPostId":"ad532959-4c04-5b7f-8de4-135e5afded41"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}},"next":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}}},"pageContext":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","previousPostId":"472b321a-0427-5916-9551-692ee81bf98f","nextPostId":"72afdc0b-a4df-50e6-bce8-6a771e590730"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

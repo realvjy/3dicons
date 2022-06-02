@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/locker/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3a84bef5-2c57-5a15-87ac-d05f415e9f15","excerpt":"","html":"","frontmatter":{"title":"Locker","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}},"next":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}}},"pageContext":{"id":"3a84bef5-2c57-5a15-87ac-d05f415e9f15","previousPostId":"ad532959-4c04-5b7f-8de4-135e5afded41","nextPostId":"624efad7-b508-5af1-b968-07f1707d2434"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3a84bef5-2c57-5a15-87ac-d05f415e9f15","excerpt":"","html":"","frontmatter":{"title":"Locker","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}},"next":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}}},"pageContext":{"id":"3a84bef5-2c57-5a15-87ac-d05f415e9f15","previousPostId":"c68becd7-aeb3-57fb-a391-b7ff88faa1d0","nextPostId":"0e3b1ed0-2090-5680-9019-e6c7b7732932"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

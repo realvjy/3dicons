@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/3d-coin/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"201ed03b-8e5b-5770-ae50-5c844374ec38","excerpt":"","html":"","frontmatter":{"title":"3d Coin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}},"next":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}}},"pageContext":{"id":"201ed03b-8e5b-5770-ae50-5c844374ec38","previousPostId":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","nextPostId":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"201ed03b-8e5b-5770-ae50-5c844374ec38","excerpt":"","html":"","frontmatter":{"title":"3d Coin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/back/"},"frontmatter":{"title":"Back"}},"next":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}}},"pageContext":{"id":"201ed03b-8e5b-5770-ae50-5c844374ec38","previousPostId":"0648108f-f1ff-5fe5-b987-523e4c4dbd34","nextPostId":"816cf8a0-73ce-52d7-8487-385502e8290f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

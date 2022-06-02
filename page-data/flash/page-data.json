@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/flash/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"528684aa-8d4e-5552-8287-413a425c340d","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"528684aa-8d4e-5552-8287-413a425c340d","previousPostId":"d469b522-966d-5129-8b16-1fb68f607aea","nextPostId":"cc65dcf0-c579-56b8-b45d-1968da7f24e4"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"528684aa-8d4e-5552-8287-413a425c340d","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}},"next":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}}},"pageContext":{"id":"528684aa-8d4e-5552-8287-413a425c340d","previousPostId":"b23315c9-a9ad-5580-a971-996213bb088e","nextPostId":"d469b522-966d-5129-8b16-1fb68f607aea"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

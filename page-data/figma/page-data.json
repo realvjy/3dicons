@@ -1,5 +1,5 @@
 {
-    "componentChunkName": "component---src-templates-blog-post-js",
+    "componentChunkName": "component---src-pages-figma-js",
     "path": "/figma/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0464dd4a-7f26-512b-b7bb-2cac5e1bd0c3","excerpt":"","html":"","frontmatter":{"title":"Figma","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}},"next":{"fields":{"slug":"/file-fav/"},"frontmatter":{"title":"File Fav"}}},"pageContext":{"id":"0464dd4a-7f26-512b-b7bb-2cac5e1bd0c3","previousPostId":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","nextPostId":"774a207e-9926-5290-8a03-2eb90da6d6c5"}},
-    "staticQueryHashes": ["2841359383","3257411868"]}
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}}},"pageContext":{}},
+    "staticQueryHashes": ["1022264299","2841359383","3257411868"]}

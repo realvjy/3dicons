@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/phone-end/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"793aca7d-0deb-51e8-bb5e-67c50bb1d6bb","excerpt":"","html":"","frontmatter":{"title":"Phone End","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}},"next":{"fields":{"slug":"/phone-incoming/"},"frontmatter":{"title":"Phone Incoming"}}},"pageContext":{"id":"793aca7d-0deb-51e8-bb5e-67c50bb1d6bb","previousPostId":"c64f3545-9582-53f4-b39e-a2a4d72c1686","nextPostId":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"793aca7d-0deb-51e8-bb5e-67c50bb1d6bb","excerpt":"","html":"","frontmatter":{"title":"Phone End","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}},"next":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}}},"pageContext":{"id":"793aca7d-0deb-51e8-bb5e-67c50bb1d6bb","previousPostId":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","nextPostId":"c64f3545-9582-53f4-b39e-a2a4d72c1686"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

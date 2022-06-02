@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/wallet/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","excerpt":"","html":"","frontmatter":{"title":"Wallet","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}},"next":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}}},"pageContext":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","previousPostId":"2071556f-4dbc-5fc7-b14a-08d9585c6205","nextPostId":"b32141cd-575b-5680-a789-fcf796f93dfd"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","excerpt":"","html":"","frontmatter":{"title":"Wallet","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}},"next":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}}},"pageContext":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","previousPostId":"7d471add-0693-5ce4-882d-a191c0dd18fc","nextPostId":"dda5136f-507e-5173-81fc-63b0cd14b8fa"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

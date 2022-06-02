@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/mic/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fd009635-1e80-5324-a3c4-d89491a2558a","excerpt":"","html":"","frontmatter":{"title":"Mic","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}},"next":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}}},"pageContext":{"id":"fd009635-1e80-5324-a3c4-d89491a2558a","previousPostId":"34121634-f804-55c9-adc3-b6fe79630836","nextPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fd009635-1e80-5324-a3c4-d89491a2558a","excerpt":"","html":"","frontmatter":{"title":"Mic","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}},"next":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}}},"pageContext":{"id":"fd009635-1e80-5324-a3c4-d89491a2558a","previousPostId":"4fd2c4cf-c56a-5d97-8c36-77383a58e4b4","nextPostId":"bc10da7e-c9ea-5635-bc98-15a29159d077"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

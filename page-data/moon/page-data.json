@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/moon/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"34121634-f804-55c9-adc3-b6fe79630836","excerpt":"","html":"","frontmatter":{"title":"Moon","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}},"next":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}}},"pageContext":{"id":"34121634-f804-55c9-adc3-b6fe79630836","previousPostId":"70137f37-71b8-5199-b6ec-c943b7bf8eb1","nextPostId":"fd009635-1e80-5324-a3c4-d89491a2558a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"34121634-f804-55c9-adc3-b6fe79630836","excerpt":"","html":"","frontmatter":{"title":"Moon","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}},"next":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}}},"pageContext":{"id":"34121634-f804-55c9-adc3-b6fe79630836","previousPostId":"5edc82b6-86b2-5bef-8cae-13252310b24d","nextPostId":"ff7f5714-5cdf-5fda-9f16-066edd6455f6"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
