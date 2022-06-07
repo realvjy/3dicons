@@ -23,7 +23,7 @@ const KnowMore = () => {
             <div className="soon-log">
               <h4>ROADMAP</h4>
               <ul>
-                <li>1. Plugins for <a href="/figma-plugin">Figma</a>, Sketch and XD [WIP]</li>
+                <li>1. Plugins for <a href="/figma">Figma</a>, Sketch and XD [WIP]</li>
                 <li>2. Package for Developers</li>
                 <li>3. Explorer and Single Download</li>
                 <li>4. Adding new icon sets regulary and more</li>
