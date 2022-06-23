@@ -42,7 +42,7 @@ const Header = () => {
           <div className="fig-plug-announce">
             <div className="left-box">
               <div className="fig-p-logo">
-                <a href="/figma-plugin"><img src="/3d-fig-plugin.png" /></a>
+                <a href="/figma"><img src="/3d-fig-plugin.png" /></a>
               </div>
             </div>
             <div className="right-box">
