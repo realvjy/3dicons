@@ -1127,6 +1127,26 @@ main{
   }
 }
 
+.hand-float{
+  position: fixed;
+  bottom: 36px;
+  right: 110px;
+  z-index: 111114;
+  @media (max-width: $mobile-landscape){
+      display: none;
+  }
+  a{
+    display: block;
+    line-height: 0;
+    img{
+      max-width: 300px;
+      border-radius: 8px;
+      border: 1px solid #C1C1C1;
+      line-height: normal;
+    }
+  }
+}
+
 .eth-donate{
   margin-top: 20px;
   font-size: 17px;
