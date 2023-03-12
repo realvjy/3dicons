@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/cube/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","excerpt":"","html":"","frontmatter":{"title":"Cube","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}},"next":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}}},"pageContext":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","previousPostId":"7f378ab1-16b0-57d2-be16-8dfa843520ef","nextPostId":"2683d107-5204-5a83-8a36-5da64f77f1b2"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","excerpt":"","html":"","frontmatter":{"title":"Cube","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}},"next":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}}},"pageContext":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","previousPostId":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","nextPostId":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

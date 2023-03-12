@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tool/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","excerpt":"","html":"","frontmatter":{"title":"Tool","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}},"next":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}}},"pageContext":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","previousPostId":"60382e94-3cd7-5e78-9598-4ec46c081353","nextPostId":"01aa116b-f40a-5514-8c01-ed42430f3f50"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","excerpt":"","html":"","frontmatter":{"title":"Tool","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}},"next":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}}},"pageContext":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","previousPostId":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","nextPostId":"60382e94-3cd7-5e78-9598-4ec46c081353"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

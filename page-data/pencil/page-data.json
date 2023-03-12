@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pencil/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","excerpt":"","html":"","frontmatter":{"title":"Pencil","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}},"next":{"fields":{"slug":"/phone-end/"},"frontmatter":{"title":"Phone End"}}},"pageContext":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","previousPostId":"57610f2c-fb61-5329-a238-1aaf2eda99de","nextPostId":"793aca7d-0deb-51e8-bb5e-67c50bb1d6bb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","excerpt":"","html":"","frontmatter":{"title":"Pencil","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","previousPostId":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","nextPostId":"57610f2c-fb61-5329-a238-1aaf2eda99de"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

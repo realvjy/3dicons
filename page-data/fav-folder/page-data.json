@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/fav-folder/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a","excerpt":"","html":"","frontmatter":{"title":"Fav Folder","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/figma/"},"frontmatter":{"title":"Figma"}},"next":{"fields":{"slug":"/file-text/"},"frontmatter":{"title":"File Text"}}},"pageContext":{"id":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a","previousPostId":"0464dd4a-7f26-512b-b7bb-2cac5e1bd0c3","nextPostId":"b7021280-eab7-5ed3-a0bc-309aba92c6f1"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a","excerpt":"","html":"","frontmatter":{"title":"Fav Folder","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}},"next":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}}},"pageContext":{"id":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a","previousPostId":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","nextPostId":"62f87883-186c-5f55-91c1-ff34bc68b28f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

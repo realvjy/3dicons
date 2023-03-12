@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/magic-trick/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"70137f37-71b8-5199-b6ec-c943b7bf8eb1","excerpt":"","html":"","frontmatter":{"title":"Magic Trick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}},"next":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}}},"pageContext":{"id":"70137f37-71b8-5199-b6ec-c943b7bf8eb1","previousPostId":"15796d58-846e-58f7-9859-25ca9f420e5a","nextPostId":"c68becd7-aeb3-57fb-a391-b7ff88faa1d0"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"70137f37-71b8-5199-b6ec-c943b7bf8eb1","excerpt":"","html":"","frontmatter":{"title":"Magic Trick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}},"next":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}}},"pageContext":{"id":"70137f37-71b8-5199-b6ec-c943b7bf8eb1","previousPostId":"4fd2c4cf-c56a-5d97-8c36-77383a58e4b4","nextPostId":"fd009635-1e80-5324-a3c4-d89491a2558a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

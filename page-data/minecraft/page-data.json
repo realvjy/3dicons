@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/minecraft/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ff7f5714-5cdf-5fda-9f16-066edd6455f6","excerpt":"","html":"","frontmatter":{"title":"Minecraft","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}},"next":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}}},"pageContext":{"id":"ff7f5714-5cdf-5fda-9f16-066edd6455f6","previousPostId":"34121634-f804-55c9-adc3-b6fe79630836","nextPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ff7f5714-5cdf-5fda-9f16-066edd6455f6","excerpt":"","html":"","frontmatter":{"title":"Minecraft","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}},"next":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}}},"pageContext":{"id":"ff7f5714-5cdf-5fda-9f16-066edd6455f6","previousPostId":"01aa116b-f40a-5514-8c01-ed42430f3f50","nextPostId":"5edc82b6-86b2-5bef-8cae-13252310b24d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

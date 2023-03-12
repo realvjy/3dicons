@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sheild/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"e72276b3-de68-5c77-ae3a-e60b3da29321","excerpt":"","html":"","frontmatter":{"title":"Sheild","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/setting/"},"frontmatter":{"title":"Setting"}},"next":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}}},"pageContext":{"id":"e72276b3-de68-5c77-ae3a-e60b3da29321","previousPostId":"026f1284-7bb3-5895-af00-c307464234b8","nextPostId":"348648a3-3842-5a6c-806a-b644f2fb53ac"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"e72276b3-de68-5c77-ae3a-e60b3da29321","excerpt":"","html":"","frontmatter":{"title":"Sheild","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}},"next":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}}},"pageContext":{"id":"e72276b3-de68-5c77-ae3a-e60b3da29321","previousPostId":"9aba7c2a-f29c-556b-b372-0593d6a45793","nextPostId":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/thumb-down/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","excerpt":"","html":"","frontmatter":{"title":"Thumb Down","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}},"next":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}}},"pageContext":{"id":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","previousPostId":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","nextPostId":"d73254c6-3fa4-51b1-bee1-a545362d2bbc"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","excerpt":"","html":"","frontmatter":{"title":"Thumb Down","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/target/"},"frontmatter":{"title":"Target"}},"next":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}}},"pageContext":{"id":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","previousPostId":"81ed4070-73e3-5acd-b206-9f91e8ba5d11","nextPostId":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

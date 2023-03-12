@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/notify-heart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}},"next":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}}},"pageContext":{"id":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","previousPostId":"73b6df8c-55ea-5c67-96e8-bc69d80372e7","nextPostId":"39379eaa-cf6d-5c87-9183-b74e3248018f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}}},"pageContext":{"id":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","previousPostId":"39379eaa-cf6d-5c87-9183-b74e3248018f","nextPostId":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

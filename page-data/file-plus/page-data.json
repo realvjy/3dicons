@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/file-plus/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","excerpt":"","html":"","frontmatter":{"title":"File Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/flag/"},"frontmatter":{"title":"Flag"}},"next":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}}},"pageContext":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","previousPostId":"77e80481-975e-5537-a333-411e1b642730","nextPostId":"b23315c9-a9ad-5580-a971-996213bb088e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","excerpt":"","html":"","frontmatter":{"title":"File Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}},"next":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}}},"pageContext":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","previousPostId":"62f87883-186c-5f55-91c1-ff34bc68b28f","nextPostId":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

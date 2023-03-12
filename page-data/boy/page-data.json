@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/boy/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b786245-87fa-5987-8d39-f00656d15957","excerpt":"","html":"","frontmatter":{"title":"Boy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark-fav/"},"frontmatter":{"title":"Bookmark Fav"}},"next":{"fields":{"slug":"/bucket/"},"frontmatter":{"title":"Bucket"}}},"pageContext":{"id":"8b786245-87fa-5987-8d39-f00656d15957","previousPostId":"a0428fbe-eb44-556d-ae50-14ae11d96a71","nextPostId":"0e444d53-81fa-541d-9f05-2ab113bb4dd3"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b786245-87fa-5987-8d39-f00656d15957","excerpt":"","html":"","frontmatter":{"title":"Boy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}},"next":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}}},"pageContext":{"id":"8b786245-87fa-5987-8d39-f00656d15957","previousPostId":"d025bc65-b365-53f5-9f1e-b1c6f0951844","nextPostId":"c0146735-1499-505f-b4d1-02a101a560e4"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

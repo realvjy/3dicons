@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/wallet/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","excerpt":"","html":"","frontmatter":{"title":"Wallet","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}},"next":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}}},"pageContext":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","previousPostId":"7d471add-0693-5ce4-882d-a191c0dd18fc","nextPostId":"dda5136f-507e-5173-81fc-63b0cd14b8fa"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","excerpt":"","html":"","frontmatter":{"title":"Wallet","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}},"next":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}}},"pageContext":{"id":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","previousPostId":"b32141cd-575b-5680-a789-fcf796f93dfd","nextPostId":"cb163b38-b088-5c0f-84a9-c5d61662a3aa"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

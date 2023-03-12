@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/link/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"624efad7-b508-5af1-b968-07f1707d2434","excerpt":"","html":"","frontmatter":{"title":"Link","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}},"next":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}}},"pageContext":{"id":"624efad7-b508-5af1-b968-07f1707d2434","previousPostId":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","nextPostId":"15796d58-846e-58f7-9859-25ca9f420e5a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"624efad7-b508-5af1-b968-07f1707d2434","excerpt":"","html":"","frontmatter":{"title":"Link","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/locker/"},"frontmatter":{"title":"Locker"}},"next":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}}},"pageContext":{"id":"624efad7-b508-5af1-b968-07f1707d2434","previousPostId":"3a84bef5-2c57-5a15-87ac-d05f415e9f15","nextPostId":"c68becd7-aeb3-57fb-a391-b7ff88faa1d0"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

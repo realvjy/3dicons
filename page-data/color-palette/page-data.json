@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/color-palette/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"62f87883-186c-5f55-91c1-ff34bc68b28f","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}},"next":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}}},"pageContext":{"id":"62f87883-186c-5f55-91c1-ff34bc68b28f","previousPostId":"68ffa3b9-1d4d-5f2d-abc3-b6fee23c3eac","nextPostId":"7f378ab1-16b0-57d2-be16-8dfa843520ef"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"62f87883-186c-5f55-91c1-ff34bc68b28f","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}},"next":{"fields":{"slug":"/file-plus/"},"frontmatter":{"title":"File Plus"}}},"pageContext":{"id":"62f87883-186c-5f55-91c1-ff34bc68b28f","previousPostId":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a","nextPostId":"c4418512-1ef0-585e-ac64-9db980c71c3a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

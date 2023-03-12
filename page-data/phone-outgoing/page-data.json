@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/phone-outgoing/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0906507d-d61d-5e1e-b606-9cb06c09dec2","excerpt":"","html":"","frontmatter":{"title":"Phone Outgoing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}},"next":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}}},"pageContext":{"id":"0906507d-d61d-5e1e-b606-9cb06c09dec2","previousPostId":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","nextPostId":"702a5de5-f151-50a8-8467-836e23faa8ad"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0906507d-d61d-5e1e-b606-9cb06c09dec2","excerpt":"","html":"","frontmatter":{"title":"Phone Outgoing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-only/"},"frontmatter":{"title":"Phone Only"}},"next":{"fields":{"slug":"/picture/"},"frontmatter":{"title":"Picture"}}},"pageContext":{"id":"0906507d-d61d-5e1e-b606-9cb06c09dec2","previousPostId":"b5fd8892-77dc-50c9-9c3a-d8b1ce134121","nextPostId":"761a003b-8e8b-547c-8eaf-e56ce1820d0d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

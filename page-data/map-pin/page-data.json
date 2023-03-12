@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/map-pin/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ce845795-c6b6-5ca8-89fa-ff2247c887a7","excerpt":"","html":"","frontmatter":{"title":"Map Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-incoming/"},"frontmatter":{"title":"Phone Incoming"}},"next":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}}},"pageContext":{"id":"ce845795-c6b6-5ca8-89fa-ff2247c887a7","previousPostId":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b","nextPostId":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ce845795-c6b6-5ca8-89fa-ff2247c887a7","excerpt":"","html":"","frontmatter":{"title":"Map Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}},"next":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}}},"pageContext":{"id":"ce845795-c6b6-5ca8-89fa-ff2247c887a7","previousPostId":"0e3b1ed0-2090-5680-9019-e6c7b7732932","nextPostId":"bc10da7e-c9ea-5635-bc98-15a29159d077"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

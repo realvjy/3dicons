@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/forward/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","excerpt":"","html":"","frontmatter":{"title":"Forward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/folder/"},"frontmatter":{"title":"Folder"}},"next":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}}},"pageContext":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","previousPostId":"71e738ab-b248-56ec-8ea5-b1c0e08b2153","nextPostId":"179d0d12-a604-5f02-ad86-b6ae7f4e3255"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","excerpt":"","html":"","frontmatter":{"title":"Forward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/girl/"},"frontmatter":{"title":"Girl"}},"next":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}}},"pageContext":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","previousPostId":"5406d4c3-7c11-5209-9adf-1e7a04c8fa0d","nextPostId":"0d5420c0-bca6-5517-83c0-ddca879aa80f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

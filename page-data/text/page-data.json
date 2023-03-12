@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/text/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"65795306-aaeb-5e6f-8d06-32dede82a775","excerpt":"","html":"","frontmatter":{"title":"Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/target/"},"frontmatter":{"title":"Target"}},"next":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}}},"pageContext":{"id":"65795306-aaeb-5e6f-8d06-32dede82a775","previousPostId":"81ed4070-73e3-5acd-b206-9f91e8ba5d11","nextPostId":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"65795306-aaeb-5e6f-8d06-32dede82a775","excerpt":"","html":"","frontmatter":{"title":"Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}},"next":{"fields":{"slug":"/target/"},"frontmatter":{"title":"Target"}}},"pageContext":{"id":"65795306-aaeb-5e6f-8d06-32dede82a775","previousPostId":"348648a3-3842-5a6c-806a-b644f2fb53ac","nextPostId":"81ed4070-73e3-5acd-b206-9f91e8ba5d11"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

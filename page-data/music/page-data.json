@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/music/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}},"next":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}}},"pageContext":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","previousPostId":"ff7f5714-5cdf-5fda-9f16-066edd6455f6","nextPostId":"73b6df8c-55ea-5c67-96e8-bc69d80372e7"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}},"next":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}}},"pageContext":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","previousPostId":"63020383-2902-5e7c-932a-c707d0962a67","nextPostId":"15796d58-846e-58f7-9859-25ca9f420e5a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

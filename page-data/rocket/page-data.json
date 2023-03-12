@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/rocket/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","excerpt":"","html":"","frontmatter":{"title":"Rocket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}},"next":{"fields":{"slug":"/phone-outgoing/"},"frontmatter":{"title":"Phone Outgoing"}}},"pageContext":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","previousPostId":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","nextPostId":"0906507d-d61d-5e1e-b606-9cb06c09dec2"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","excerpt":"","html":"","frontmatter":{"title":"Rocket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}},"next":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}}},"pageContext":{"id":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","previousPostId":"4069f82c-40d3-563d-aa14-44d3b4094f37","nextPostId":"ba1d04c0-aaa6-5839-b9e8-752b7a41789d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

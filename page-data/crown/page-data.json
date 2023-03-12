@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/crown/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2049bf16-330c-5010-98a7-c8e8d14d9c3f","excerpt":"","html":"","frontmatter":{"title":"Crown","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}},"next":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}}},"pageContext":{"id":"2049bf16-330c-5010-98a7-c8e8d14d9c3f","previousPostId":"51ea9b61-970b-5b95-b7e5-c22c8225debb","nextPostId":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2049bf16-330c-5010-98a7-c8e8d14d9c3f","excerpt":"","html":"","frontmatter":{"title":"Crown","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/clock/"},"frontmatter":{"title":"Clock"}},"next":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}}},"pageContext":{"id":"2049bf16-330c-5010-98a7-c8e8d14d9c3f","previousPostId":"68ffa3b9-1d4d-5f2d-abc3-b6fee23c3eac","nextPostId":"2683d107-5204-5a83-8a36-5da64f77f1b2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

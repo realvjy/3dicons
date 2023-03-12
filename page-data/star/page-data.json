@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/star/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2aaa008c-6677-5151-8698-e6182245c086","excerpt":"","html":"","frontmatter":{"title":"Star","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}},"next":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}}},"pageContext":{"id":"2aaa008c-6677-5151-8698-e6182245c086","previousPostId":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e","nextPostId":"ad39f773-b8d6-557f-a0f4-fdd3683295f5"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2aaa008c-6677-5151-8698-e6182245c086","excerpt":"","html":"","frontmatter":{"title":"Star","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/setting/"},"frontmatter":{"title":"Setting"}},"next":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}}},"pageContext":{"id":"2aaa008c-6677-5151-8698-e6182245c086","previousPostId":"026f1284-7bb3-5895-af00-c307464234b8","nextPostId":"ad39f773-b8d6-557f-a0f4-fdd3683295f5"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

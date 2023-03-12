@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/copy/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"51ea9b61-970b-5b95-b7e5-c22c8225debb","excerpt":"","html":"","frontmatter":{"title":"Copy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}},"next":{"fields":{"slug":"/crown/"},"frontmatter":{"title":"Crown"}}},"pageContext":{"id":"51ea9b61-970b-5b95-b7e5-c22c8225debb","previousPostId":"2683d107-5204-5a83-8a36-5da64f77f1b2","nextPostId":"2049bf16-330c-5010-98a7-c8e8d14d9c3f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"51ea9b61-970b-5b95-b7e5-c22c8225debb","excerpt":"","html":"","frontmatter":{"title":"Copy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}},"next":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}}},"pageContext":{"id":"51ea9b61-970b-5b95-b7e5-c22c8225debb","previousPostId":"688504ff-c477-59ed-9400-bc1a28072c83","nextPostId":"92dc05d3-6784-5fa8-9247-86884ea31661"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

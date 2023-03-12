@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/next/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"63020383-2902-5e7c-932a-c707d0962a67","excerpt":"","html":"","frontmatter":{"title":"Next","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}},"next":{"fields":{"slug":"/phone-missing/"},"frontmatter":{"title":"Phone Missing"}}},"pageContext":{"id":"63020383-2902-5e7c-932a-c707d0962a67","previousPostId":"3b72847c-c8b2-57a4-b5f6-82d148a57557","nextPostId":"17cf2a4d-eb8d-5d74-8107-64bb83be3531"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"63020383-2902-5e7c-932a-c707d0962a67","excerpt":"","html":"","frontmatter":{"title":"Next","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}},"next":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}}},"pageContext":{"id":"63020383-2902-5e7c-932a-c707d0962a67","previousPostId":"73b6df8c-55ea-5c67-96e8-bc69d80372e7","nextPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

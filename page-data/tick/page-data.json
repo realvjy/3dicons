@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tick/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","excerpt":"","html":"","frontmatter":{"title":"Tick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}},"next":{"fields":{"slug":"/tea-cup/"},"frontmatter":{"title":"Tea Cup"}}},"pageContext":{"id":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","previousPostId":"c10e4079-4375-53cb-ab68-d6cc25970699","nextPostId":"2ffece10-c0ad-50ab-afdb-f37b6a4ec70e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","excerpt":"","html":"","frontmatter":{"title":"Tick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}},"next":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}}},"pageContext":{"id":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","previousPostId":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","nextPostId":"b23315c9-a9ad-5580-a971-996213bb088e"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

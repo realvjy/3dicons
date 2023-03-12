@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/setting/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"026f1284-7bb3-5895-af00-c307464234b8","excerpt":"","html":"","frontmatter":{"title":"Setting","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/rupee/"},"frontmatter":{"title":"Rupee"}},"next":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}}},"pageContext":{"id":"026f1284-7bb3-5895-af00-c307464234b8","previousPostId":"ba1d04c0-aaa6-5839-b9e8-752b7a41789d","nextPostId":"e72276b3-de68-5c77-ae3a-e60b3da29321"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"026f1284-7bb3-5895-af00-c307464234b8","excerpt":"","html":"","frontmatter":{"title":"Setting","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}},"next":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}}},"pageContext":{"id":"026f1284-7bb3-5895-af00-c307464234b8","previousPostId":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e","nextPostId":"2aaa008c-6677-5151-8698-e6182245c086"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

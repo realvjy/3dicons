@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/bag/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"816cf8a0-73ce-52d7-8487-385502e8290f","excerpt":"","html":"","frontmatter":{"title":"Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/3d-coin/"},"frontmatter":{"title":"3d Coin"}},"next":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}}},"pageContext":{"id":"816cf8a0-73ce-52d7-8487-385502e8290f","previousPostId":"201ed03b-8e5b-5770-ae50-5c844374ec38","nextPostId":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"816cf8a0-73ce-52d7-8487-385502e8290f","excerpt":"","html":"","frontmatter":{"title":"Bag","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/axe/"},"frontmatter":{"title":"Axe"}},"next":{"fields":{"slug":"/bookmark-fav/"},"frontmatter":{"title":"Bookmark Fav"}}},"pageContext":{"id":"816cf8a0-73ce-52d7-8487-385502e8290f","previousPostId":"541c11e9-dc4a-566c-927f-fea192ab914b","nextPostId":"a0428fbe-eb44-556d-ae50-14ae11d96a71"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

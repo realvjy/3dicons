@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/zoom/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","excerpt":"","html":"","frontmatter":{"title":"Zoom","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}},"next":null},"pageContext":{"id":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","previousPostId":"2071556f-4dbc-5fc7-b14a-08d9585c6205","nextPostId":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","excerpt":"","html":"","frontmatter":{"title":"Zoom","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}},"next":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}}},"pageContext":{"id":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","previousPostId":"2071556f-4dbc-5fc7-b14a-08d9585c6205","nextPostId":"b32141cd-575b-5680-a789-fcf796f93dfd"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
