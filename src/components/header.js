@@ -39,18 +39,22 @@ const Header = () => {
             </a>
           </div>
 
-          <div className="fig-plug-announce">
-            <div className="left-box">
-              <div className="fig-p-logo">
-                <a href="/figma"><img src="/3d-fig-plugin.png" /></a>
+
+          <div className="v2">
+            <div className="ia-wrap">
+              <div className="action-box">
+                <div className="v2 a-img-box _2c">
+                  <a href="/v2">
+                    <img src="/v2.png" />
+                  </a>
+                </div>
+                <div className="fig a-img-box _2c">
+                  <a href="https://bit.ly/3dicons-figma">
+                    <img src="/figma-plugin.png" />
+                  </a>
+                </div>
               </div>
-            </div>
-            <div className="right-box">
-              <p>Now you can add 3dicons directly to your design from the plugin. And yes, you can search as well.</p>
-              <div className="fig-text-btn">
-                <a href="https://bit.ly/3dicons-figma">Install on Figma <img src="/arrow.svg" /></a>
-                <a href="/figma">More about <img src="/arrow.svg" /></a>
-              </div>
+
             </div>
           </div>
           <div className="styles-angle">

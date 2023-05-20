@@ -747,7 +747,7 @@ main{
   }
 
 }
-.inaction{
+.inaction, .v2{
   .ia-wrap{
     margin: 0 54px;
     display: flex;
@@ -911,6 +911,18 @@ main{
       }
 
     }
+  }
+}
+
+.v2{
+  .ia-wrap{
+    @media (max-width: $mobile-landscape){
+      margin: 0;
+      ._2c{
+        margin-bottom: 12px;
+      }
+    }
+   
   }
 }
 
@@ -1318,6 +1330,63 @@ main{
     }
   } 
   .right-box{
+    text-align: left;
+    padding: 0 24px;
+    border-left: 2px solid $black;
+    @media (max-width: $tablet-wide){
+      border-top: 2px solid $black;
+      border-left: none;
+      padding: 12px;
+     }
+    .fig-text-btn{
+      display: flex;
+      @media (max-width: $tablet-wide){
+        flex-direction: column;
+       }
+    }
+    p{
+      font-size: 18px;
+      line-height: 130%;
+      font-weight: 300;
+      margin-bottom: 16px;
+      margin-right: 24px;
+    }
+    a{
+      font-weight: 500;
+      font-size: 18px;
+      letter-spacing: -.2px;
+      margin-right: 24px;
+      @media (max-width: $tablet-wide){
+        padding: 4px 0;
+       }
+    }
+  } 
+}
+
+.v2-cards{
+  margin: 54px 54px 12px 54px;
+  border-radius: 24px;
+  display: flex;
+  align-items: center;
+  @media (max-width: $tablet-wide){
+   flex-direction: column;
+   margin: 0;
+   padding: 32px;
+  }
+  img{
+    width: 100%;
+  }
+  .v2{
+    width: 50%;
+    .fig-p-logo{
+      padding: 32px;
+      img{
+        height: 72px;
+      }
+    }
+  } 
+  .fig{
+    width: 50%;
     text-align: left;
     padding: 0 24px;
     border-left: 2px solid $black;
