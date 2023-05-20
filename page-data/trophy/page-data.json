@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/trophy/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f","excerpt":"","html":"","frontmatter":{"title":"Trophy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/video-camera/"},"frontmatter":{"title":"Video Camera"}},"next":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}}},"pageContext":{"id":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f","previousPostId":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","nextPostId":"2071556f-4dbc-5fc7-b14a-08d9585c6205"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f","excerpt":"","html":"","frontmatter":{"title":"Trophy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}},"next":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}}},"pageContext":{"id":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f","previousPostId":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","nextPostId":"dda5136f-507e-5173-81fc-63b0cd14b8fa"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

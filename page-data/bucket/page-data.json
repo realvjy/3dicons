@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/bucket/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","excerpt":"","html":"","frontmatter":{"title":"Bucket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark/"},"frontmatter":{"title":"Bookmark"}},"next":{"fields":{"slug":"/brush/"},"frontmatter":{"title":"Brush"}}},"pageContext":{"id":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","previousPostId":"e58529ce-09a1-5fea-a22d-8053eef973d0","nextPostId":"effe45a5-0852-5e3a-8c08-cf4c6f8a8555"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","excerpt":"","html":"","frontmatter":{"title":"Bucket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/brush/"},"frontmatter":{"title":"Brush"}},"next":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}}},"pageContext":{"id":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","previousPostId":"effe45a5-0852-5e3a-8c08-cf4c6f8a8555","nextPostId":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

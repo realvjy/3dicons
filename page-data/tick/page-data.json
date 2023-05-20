@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tick/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","excerpt":"","html":"","frontmatter":{"title":"Tick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}},"next":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}}},"pageContext":{"id":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","previousPostId":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","nextPostId":"b23315c9-a9ad-5580-a971-996213bb088e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","excerpt":"","html":"","frontmatter":{"title":"Tick","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}},"next":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}}},"pageContext":{"id":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","previousPostId":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","nextPostId":"7d471add-0693-5ce4-882d-a191c0dd18fc"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

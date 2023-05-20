@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/card/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","excerpt":"","html":"","frontmatter":{"title":"Card","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}},"next":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}}},"pageContext":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","previousPostId":"2683d107-5204-5a83-8a36-5da64f77f1b2","nextPostId":"51ea9b61-970b-5b95-b7e5-c22c8225debb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","excerpt":"","html":"","frontmatter":{"title":"Card","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}},"next":{"fields":{"slug":"/chart/"},"frontmatter":{"title":"Chart"}}},"pageContext":{"id":"688504ff-c477-59ed-9400-bc1a28072c83","previousPostId":"c0146735-1499-505f-b4d1-02a101a560e4","nextPostId":"55b45edd-cce0-5d62-9bfd-4ede5b0221b6"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

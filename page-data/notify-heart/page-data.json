@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/notify-heart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/pencil/"},"frontmatter":{"title":"Pencil"}}},"pageContext":{"id":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","previousPostId":"39379eaa-cf6d-5c87-9183-b74e3248018f","nextPostId":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","excerpt":"","html":"","frontmatter":{"title":"Notify Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}},"next":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}}},"pageContext":{"id":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","previousPostId":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d","nextPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

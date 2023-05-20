@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/music/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}},"next":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}}},"pageContext":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","previousPostId":"63020383-2902-5e7c-932a-c707d0962a67","nextPostId":"15796d58-846e-58f7-9859-25ca9f420e5a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","excerpt":"","html":"","frontmatter":{"title":"Music","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}},"next":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}}},"pageContext":{"id":"5bb53e7c-5755-5593-9532-7f98e49a01da","previousPostId":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","nextPostId":"c64f3545-9582-53f4-b39e-a2a4d72c1686"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

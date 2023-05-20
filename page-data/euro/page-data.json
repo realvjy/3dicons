@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/euro/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","excerpt":"","html":"","frontmatter":{"title":"Euro","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file-plus/"},"frontmatter":{"title":"File Plus"}},"next":{"fields":{"slug":"/figma/"},"frontmatter":{"title":"Figma"}}},"pageContext":{"id":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","previousPostId":"c4418512-1ef0-585e-ac64-9db980c71c3a","nextPostId":"0464dd4a-7f26-512b-b7bb-2cac5e1bd0c3"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","excerpt":"","html":"","frontmatter":{"title":"Euro","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eyedropper/"},"frontmatter":{"title":"Eyedropper"}},"next":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}}},"pageContext":{"id":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","previousPostId":"50c45ae8-c301-5f2f-9d22-fc6b4b3505ba","nextPostId":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

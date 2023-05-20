@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/takeaway-cup/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ad39f773-b8d6-557f-a0f4-fdd3683295f5","excerpt":"","html":"","frontmatter":{"title":"Takeaway Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}},"next":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}}},"pageContext":{"id":"ad39f773-b8d6-557f-a0f4-fdd3683295f5","previousPostId":"2aaa008c-6677-5151-8698-e6182245c086","nextPostId":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ad39f773-b8d6-557f-a0f4-fdd3683295f5","excerpt":"","html":"","frontmatter":{"title":"Takeaway Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tea-cup/"},"frontmatter":{"title":"Tea Cup"}},"next":{"fields":{"slug":"/sun/"},"frontmatter":{"title":"Sun"}}},"pageContext":{"id":"ad39f773-b8d6-557f-a0f4-fdd3683295f5","previousPostId":"2ffece10-c0ad-50ab-afdb-f37b6a4ec70e","nextPostId":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

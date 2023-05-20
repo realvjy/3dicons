@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/file/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"96e52a57-3c2b-568e-bcb3-f6f131574898","excerpt":"","html":"","frontmatter":{"title":"File","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/figma/"},"frontmatter":{"title":"Figma"}},"next":{"fields":{"slug":"/eyedropper/"},"frontmatter":{"title":"Eyedropper"}}},"pageContext":{"id":"96e52a57-3c2b-568e-bcb3-f6f131574898","previousPostId":"0464dd4a-7f26-512b-b7bb-2cac5e1bd0c3","nextPostId":"50c45ae8-c301-5f2f-9d22-fc6b4b3505ba"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"96e52a57-3c2b-568e-bcb3-f6f131574898","excerpt":"","html":"","frontmatter":{"title":"File","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/file-plus/"},"frontmatter":{"title":"File Plus"}},"next":{"fields":{"slug":"/flag/"},"frontmatter":{"title":"Flag"}}},"pageContext":{"id":"96e52a57-3c2b-568e-bcb3-f6f131574898","previousPostId":"c4418512-1ef0-585e-ac64-9db980c71c3a","nextPostId":"77e80481-975e-5537-a333-411e1b642730"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

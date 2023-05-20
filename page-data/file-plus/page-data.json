@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/file-plus/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","excerpt":"","html":"","frontmatter":{"title":"File Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}},"next":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}}},"pageContext":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","previousPostId":"62f87883-186c-5f55-91c1-ff34bc68b28f","nextPostId":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","excerpt":"","html":"","frontmatter":{"title":"File Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/figma/"},"frontmatter":{"title":"Figma"}},"next":{"fields":{"slug":"/file/"},"frontmatter":{"title":"File"}}},"pageContext":{"id":"c4418512-1ef0-585e-ac64-9db980c71c3a","previousPostId":"0464dd4a-7f26-512b-b7bb-2cac5e1bd0c3","nextPostId":"96e52a57-3c2b-568e-bcb3-f6f131574898"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

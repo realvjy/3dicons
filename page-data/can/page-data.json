@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/can/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d025bc65-b365-53f5-9f1e-b1c6f0951844","excerpt":"","html":"","frontmatter":{"title":"Can","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}},"next":{"fields":{"slug":"/boy/"},"frontmatter":{"title":"Boy"}}},"pageContext":{"id":"d025bc65-b365-53f5-9f1e-b1c6f0951844","previousPostId":"69381b78-7a01-5910-be27-b65557327cd6","nextPostId":"8b786245-87fa-5987-8d39-f00656d15957"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"d025bc65-b365-53f5-9f1e-b1c6f0951844","excerpt":"","html":"","frontmatter":{"title":"Can","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat-bubble/"},"frontmatter":{"title":"Chat Bubble"}},"next":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}}},"pageContext":{"id":"d025bc65-b365-53f5-9f1e-b1c6f0951844","previousPostId":"ffcefe63-c437-537e-a80f-3787ea2bf9db","nextPostId":"4058901f-3cda-557c-a158-2216e9737e39"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

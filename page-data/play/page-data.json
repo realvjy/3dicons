@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/play/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-ringing/"},"frontmatter":{"title":"Phone Ringing"}},"next":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}}},"pageContext":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","previousPostId":"db2ea088-e481-5919-9d5c-31223450e8c8","nextPostId":"1e9ca19e-66f6-5df6-8f51-2d938f001989"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}},"next":{"fields":{"slug":"/roll-brush/"},"frontmatter":{"title":"Roll Brush"}}},"pageContext":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","previousPostId":"d73254c6-3fa4-51b1-bee1-a545362d2bbc","nextPostId":"9aba7c2a-f29c-556b-b372-0593d6a45793"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

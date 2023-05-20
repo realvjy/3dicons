@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pause/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c64f3545-9582-53f4-b39e-a2a4d72c1686","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-incoming/"},"frontmatter":{"title":"Phone Incoming"}},"next":{"fields":{"slug":"/phone-missing/"},"frontmatter":{"title":"Phone Missing"}}},"pageContext":{"id":"c64f3545-9582-53f4-b39e-a2a4d72c1686","previousPostId":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b","nextPostId":"17cf2a4d-eb8d-5d74-8107-64bb83be3531"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c64f3545-9582-53f4-b39e-a2a4d72c1686","excerpt":"","html":"","frontmatter":{"title":"Pause","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"c64f3545-9582-53f4-b39e-a2a4d72c1686","previousPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da","nextPostId":"57610f2c-fb61-5329-a238-1aaf2eda99de"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

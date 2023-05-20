@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/cup/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","excerpt":"","html":"","frontmatter":{"title":"Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}},"next":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}}},"pageContext":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","previousPostId":"1f886667-8d34-5bf3-b0ab-3ec51f9cc3d1","nextPostId":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","excerpt":"","html":"","frontmatter":{"title":"Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}},"next":{"fields":{"slug":"/crown/"},"frontmatter":{"title":"Crown"}}},"pageContext":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","previousPostId":"51ea9b61-970b-5b95-b7e5-c22c8225debb","nextPostId":"2049bf16-330c-5010-98a7-c8e8d14d9c3f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

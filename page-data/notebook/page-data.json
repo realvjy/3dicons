@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/notebook/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d","excerpt":"","html":"","frontmatter":{"title":"Notebook","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}},"next":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}}},"pageContext":{"id":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d","previousPostId":"15796d58-846e-58f7-9859-25ca9f420e5a","nextPostId":"39379eaa-cf6d-5c87-9183-b74e3248018f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d","excerpt":"","html":"","frontmatter":{"title":"Notebook","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}},"next":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}}},"pageContext":{"id":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d","previousPostId":"5edc82b6-86b2-5bef-8cae-13252310b24d","nextPostId":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/video-camera/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","excerpt":"","html":"","frontmatter":{"title":"Video Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/umbrella/"},"frontmatter":{"title":"Umbrella"}},"next":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}}},"pageContext":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","previousPostId":"dda5136f-507e-5173-81fc-63b0cd14b8fa","nextPostId":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","excerpt":"","html":"","frontmatter":{"title":"Video Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wifi/"},"frontmatter":{"title":"Wifi"}},"next":null},"pageContext":{"id":"bac6e861-7d34-55c8-9eae-b49edd4f6d9b","previousPostId":"2071556f-4dbc-5fc7-b14a-08d9585c6205","nextPostId":null}},
     "staticQueryHashes": ["2841359383","3257411868"]}

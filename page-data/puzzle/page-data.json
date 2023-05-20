@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/puzzle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4069f82c-40d3-563d-aa14-44d3b4094f37","excerpt":"","html":"","frontmatter":{"title":"Puzzle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}},"next":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}}},"pageContext":{"id":"4069f82c-40d3-563d-aa14-44d3b4094f37","previousPostId":"3b72847c-c8b2-57a4-b5f6-82d148a57557","nextPostId":"d73254c6-3fa4-51b1-bee1-a545362d2bbc"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4069f82c-40d3-563d-aa14-44d3b4094f37","excerpt":"","html":"","frontmatter":{"title":"Puzzle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/setting/"},"frontmatter":{"title":"Setting"}},"next":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}}},"pageContext":{"id":"4069f82c-40d3-563d-aa14-44d3b4094f37","previousPostId":"026f1284-7bb3-5895-af00-c307464234b8","nextPostId":"702a5de5-f151-50a8-8467-836e23faa8ad"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

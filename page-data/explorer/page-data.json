@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/explorer/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0d5420c0-bca6-5517-83c0-ddca879aa80f","excerpt":"","html":"","frontmatter":{"title":"Explorer","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/forward/"},"frontmatter":{"title":"Forward"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"0d5420c0-bca6-5517-83c0-ddca879aa80f","previousPostId":"50c4f8af-2b25-528d-8ac1-499e79e6185e","nextPostId":"cc65dcf0-c579-56b8-b45d-1968da7f24e4"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0d5420c0-bca6-5517-83c0-ddca879aa80f","excerpt":"","html":"","frontmatter":{"title":"Explorer","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}},"next":{"fields":{"slug":"/file-fav/"},"frontmatter":{"title":"File Fav"}}},"pageContext":{"id":"0d5420c0-bca6-5517-83c0-ddca879aa80f","previousPostId":"2683d107-5204-5a83-8a36-5da64f77f1b2","nextPostId":"774a207e-9926-5290-8a03-2eb90da6d6c5"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

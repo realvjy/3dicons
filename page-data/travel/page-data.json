@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/travel/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"cd897bbf-2e00-5c1e-8c89-c8a06451c159","excerpt":"","html":"","frontmatter":{"title":"Travel","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}},"next":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}}},"pageContext":{"id":"cd897bbf-2e00-5c1e-8c89-c8a06451c159","previousPostId":"60382e94-3cd7-5e78-9598-4ec46c081353","nextPostId":"7d471add-0693-5ce4-882d-a191c0dd18fc"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"cd897bbf-2e00-5c1e-8c89-c8a06451c159","excerpt":"","html":"","frontmatter":{"title":"Travel","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/trash-can/"},"frontmatter":{"title":"Trash Can"}},"next":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}}},"pageContext":{"id":"cd897bbf-2e00-5c1e-8c89-c8a06451c159","previousPostId":"7d471add-0693-5ce4-882d-a191c0dd18fc","nextPostId":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

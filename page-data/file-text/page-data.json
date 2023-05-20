@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/file-text/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b7021280-eab7-5ed3-a0bc-309aba92c6f1","excerpt":"","html":"","frontmatter":{"title":"File Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eyedropper/"},"frontmatter":{"title":"Eyedropper"}},"next":{"fields":{"slug":"/file-fav/"},"frontmatter":{"title":"File Fav"}}},"pageContext":{"id":"b7021280-eab7-5ed3-a0bc-309aba92c6f1","previousPostId":"50c45ae8-c301-5f2f-9d22-fc6b4b3505ba","nextPostId":"774a207e-9926-5290-8a03-2eb90da6d6c5"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b7021280-eab7-5ed3-a0bc-309aba92c6f1","excerpt":"","html":"","frontmatter":{"title":"File Text","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/girl/"},"frontmatter":{"title":"Girl"}},"next":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}}},"pageContext":{"id":"b7021280-eab7-5ed3-a0bc-309aba92c6f1","previousPostId":"5406d4c3-7c11-5209-9adf-1e7a04c8fa0d","nextPostId":"1f886667-8d34-5bf3-b0ab-3ec51f9cc3d1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

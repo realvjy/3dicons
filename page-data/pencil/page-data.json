@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pencil/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","excerpt":"","html":"","frontmatter":{"title":"Pencil","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","previousPostId":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","nextPostId":"57610f2c-fb61-5329-a238-1aaf2eda99de"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","excerpt":"","html":"","frontmatter":{"title":"Pencil","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}},"next":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}}},"pageContext":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","previousPostId":"2aaa008c-6677-5151-8698-e6182245c086","nextPostId":"e72276b3-de68-5c77-ae3a-e60b3da29321"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/key/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"15796d58-846e-58f7-9859-25ca9f420e5a","excerpt":"","html":"","frontmatter":{"title":"Key","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}},"next":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}}},"pageContext":{"id":"15796d58-846e-58f7-9859-25ca9f420e5a","previousPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da","nextPostId":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"15796d58-846e-58f7-9859-25ca9f420e5a","excerpt":"","html":"","frontmatter":{"title":"Key","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/headphone/"},"frontmatter":{"title":"Headphone"}},"next":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}}},"pageContext":{"id":"15796d58-846e-58f7-9859-25ca9f420e5a","previousPostId":"ede3ab5b-39ee-541a-85a7-6fd9720412a5","nextPostId":"472b321a-0427-5916-9551-692ee81bf98f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

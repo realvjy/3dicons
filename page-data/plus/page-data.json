@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/plus/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1e9ca19e-66f6-5df6-8f51-2d938f001989","excerpt":"","html":"","frontmatter":{"title":"Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}}},"pageContext":{"id":"1e9ca19e-66f6-5df6-8f51-2d938f001989","previousPostId":"90c8ed7c-6970-543f-ac75-ec79df8b0569","nextPostId":"3b72847c-c8b2-57a4-b5f6-82d148a57557"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1e9ca19e-66f6-5df6-8f51-2d938f001989","excerpt":"","html":"","frontmatter":{"title":"Plus","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}},"next":{"fields":{"slug":"/rocket/"},"frontmatter":{"title":"Rocket"}}},"pageContext":{"id":"1e9ca19e-66f6-5df6-8f51-2d938f001989","previousPostId":"348648a3-3842-5a6c-806a-b644f2fb53ac","nextPostId":"d73254c6-3fa4-51b1-bee1-a545362d2bbc"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

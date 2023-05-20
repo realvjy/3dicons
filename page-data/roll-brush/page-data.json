@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/roll-brush/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","excerpt":"","html":"","frontmatter":{"title":"Roll Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}},"next":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}}},"pageContext":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","previousPostId":"702a5de5-f151-50a8-8467-836e23faa8ad","nextPostId":"e72276b3-de68-5c77-ae3a-e60b3da29321"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","excerpt":"","html":"","frontmatter":{"title":"Roll Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}}},"pageContext":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","previousPostId":"90c8ed7c-6970-543f-ac75-ec79df8b0569","nextPostId":"3b72847c-c8b2-57a4-b5f6-82d148a57557"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

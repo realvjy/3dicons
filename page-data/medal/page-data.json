@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/medal/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4fd2c4cf-c56a-5d97-8c36-77383a58e4b4","excerpt":"","html":"","frontmatter":{"title":"Medal","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}},"next":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}}},"pageContext":{"id":"4fd2c4cf-c56a-5d97-8c36-77383a58e4b4","previousPostId":"ad532959-4c04-5b7f-8de4-135e5afded41","nextPostId":"70137f37-71b8-5199-b6ec-c943b7bf8eb1"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"4fd2c4cf-c56a-5d97-8c36-77383a58e4b4","excerpt":"","html":"","frontmatter":{"title":"Medal","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}},"next":{"fields":{"slug":"/mic/"},"frontmatter":{"title":"Mic"}}},"pageContext":{"id":"4fd2c4cf-c56a-5d97-8c36-77383a58e4b4","previousPostId":"70137f37-71b8-5199-b6ec-c943b7bf8eb1","nextPostId":"fd009635-1e80-5324-a3c4-d89491a2558a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

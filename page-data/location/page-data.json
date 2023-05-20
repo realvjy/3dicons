@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/location/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ad532959-4c04-5b7f-8de4-135e5afded41","excerpt":"","html":"","frontmatter":{"title":"Location","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}},"next":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}}},"pageContext":{"id":"ad532959-4c04-5b7f-8de4-135e5afded41","previousPostId":"c68becd7-aeb3-57fb-a391-b7ff88faa1d0","nextPostId":"4fd2c4cf-c56a-5d97-8c36-77383a58e4b4"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ad532959-4c04-5b7f-8de4-135e5afded41","excerpt":"","html":"","frontmatter":{"title":"Location","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}},"next":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}}},"pageContext":{"id":"ad532959-4c04-5b7f-8de4-135e5afded41","previousPostId":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","nextPostId":"179d0d12-a604-5f02-ad86-b6ae7f4e3255"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

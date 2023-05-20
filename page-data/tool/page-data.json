@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/tool/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","excerpt":"","html":"","frontmatter":{"title":"Tool","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/thumb-down/"},"frontmatter":{"title":"Thumb Down"}},"next":{"fields":{"slug":"/toggle/"},"frontmatter":{"title":"Toggle"}}},"pageContext":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","previousPostId":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","nextPostId":"60382e94-3cd7-5e78-9598-4ec46c081353"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","excerpt":"","html":"","frontmatter":{"title":"Tool","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}},"next":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}}},"pageContext":{"id":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f","previousPostId":"cd897bbf-2e00-5c1e-8c89-c8a06451c159","nextPostId":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
