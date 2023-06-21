@@ -1419,3 +1419,25 @@ main{
     }
   } 
 }
+
+
+.handsss{
+  .container{
+    a{
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+      transition: all 300ms ease;
+      &:hover{
+        transform: scale(1.02);
+      }
+      img{
+        width: 40%;
+        border-radius: 12px;
+        @media (max-width: $tablet-wide){
+          width: 80%;
+        }
+      }
+    }
+  }
+}
