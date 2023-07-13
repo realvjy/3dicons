@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/new-folder/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"73b6df8c-55ea-5c67-96e8-bc69d80372e7","excerpt":"","html":"","frontmatter":{"title":"New Folder","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}},"next":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}}},"pageContext":{"id":"73b6df8c-55ea-5c67-96e8-bc69d80372e7","previousPostId":"01aa116b-f40a-5514-8c01-ed42430f3f50","nextPostId":"34121634-f804-55c9-adc3-b6fe79630836"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"73b6df8c-55ea-5c67-96e8-bc69d80372e7","excerpt":"","html":"","frontmatter":{"title":"New Folder","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}},"next":{"fields":{"slug":"/next/"},"frontmatter":{"title":"Next"}}},"pageContext":{"id":"73b6df8c-55ea-5c67-96e8-bc69d80372e7","previousPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da","nextPostId":"63020383-2902-5e7c-932a-c707d0962a67"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

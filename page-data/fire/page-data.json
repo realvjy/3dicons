@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/fire/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b23315c9-a9ad-5580-a971-996213bb088e","excerpt":"","html":"","frontmatter":{"title":"Fire","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}},"next":{"fields":{"slug":"/forward/"},"frontmatter":{"title":"Forward"}}},"pageContext":{"id":"b23315c9-a9ad-5580-a971-996213bb088e","previousPostId":"d469b522-966d-5129-8b16-1fb68f607aea","nextPostId":"50c4f8af-2b25-528d-8ac1-499e79e6185e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"b23315c9-a9ad-5580-a971-996213bb088e","excerpt":"","html":"","frontmatter":{"title":"Fire","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}},"next":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}}},"pageContext":{"id":"b23315c9-a9ad-5580-a971-996213bb088e","previousPostId":"1f886667-8d34-5bf3-b0ab-3ec51f9cc3d1","nextPostId":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

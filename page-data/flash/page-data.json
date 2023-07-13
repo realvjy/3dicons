@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/flash/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"528684aa-8d4e-5552-8287-413a425c340d","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/flag/"},"frontmatter":{"title":"Flag"}},"next":{"fields":{"slug":"/folder/"},"frontmatter":{"title":"Folder"}}},"pageContext":{"id":"528684aa-8d4e-5552-8287-413a425c340d","previousPostId":"77e80481-975e-5537-a333-411e1b642730","nextPostId":"71e738ab-b248-56ec-8ea5-b1c0e08b2153"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"528684aa-8d4e-5552-8287-413a425c340d","excerpt":"","html":"","frontmatter":{"title":"Flash","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}},"next":{"fields":{"slug":"/file-fav/"},"frontmatter":{"title":"File Fav"}}},"pageContext":{"id":"528684aa-8d4e-5552-8287-413a425c340d","previousPostId":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","nextPostId":"774a207e-9926-5290-8a03-2eb90da6d6c5"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

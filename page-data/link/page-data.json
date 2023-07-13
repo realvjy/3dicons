@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/link/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"624efad7-b508-5af1-b968-07f1707d2434","excerpt":"","html":"","frontmatter":{"title":"Link","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}},"next":{"fields":{"slug":"/locker/"},"frontmatter":{"title":"Locker"}}},"pageContext":{"id":"624efad7-b508-5af1-b968-07f1707d2434","previousPostId":"179d0d12-a604-5f02-ad86-b6ae7f4e3255","nextPostId":"3a84bef5-2c57-5a15-87ac-d05f415e9f15"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"624efad7-b508-5af1-b968-07f1707d2434","excerpt":"","html":"","frontmatter":{"title":"Link","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}},"next":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}}},"pageContext":{"id":"624efad7-b508-5af1-b968-07f1707d2434","previousPostId":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","nextPostId":"72afdc0b-a4df-50e6-bce8-6a771e590730"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

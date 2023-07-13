@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/locker/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3a84bef5-2c57-5a15-87ac-d05f415e9f15","excerpt":"","html":"","frontmatter":{"title":"Locker","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}},"next":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}}},"pageContext":{"id":"3a84bef5-2c57-5a15-87ac-d05f415e9f15","previousPostId":"624efad7-b508-5af1-b968-07f1707d2434","nextPostId":"72afdc0b-a4df-50e6-bce8-6a771e590730"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"3a84bef5-2c57-5a15-87ac-d05f415e9f15","excerpt":"","html":"","frontmatter":{"title":"Locker","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}},"next":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}}},"pageContext":{"id":"3a84bef5-2c57-5a15-87ac-d05f415e9f15","previousPostId":"0e3b1ed0-2090-5680-9019-e6c7b7732932","nextPostId":"c68becd7-aeb3-57fb-a391-b7ff88faa1d0"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

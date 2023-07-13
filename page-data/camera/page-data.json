@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/camera/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"69381b78-7a01-5910-be27-b65557327cd6","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}},"next":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}}},"pageContext":{"id":"69381b78-7a01-5910-be27-b65557327cd6","previousPostId":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","nextPostId":"c0146735-1499-505f-b4d1-02a101a560e4"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"69381b78-7a01-5910-be27-b65557327cd6","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}},"next":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}}},"pageContext":{"id":"69381b78-7a01-5910-be27-b65557327cd6","previousPostId":"2683d107-5204-5a83-8a36-5da64f77f1b2","nextPostId":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

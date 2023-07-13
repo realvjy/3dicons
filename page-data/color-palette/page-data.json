@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/color-palette/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"62f87883-186c-5f55-91c1-ff34bc68b28f","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}},"next":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}}},"pageContext":{"id":"62f87883-186c-5f55-91c1-ff34bc68b28f","previousPostId":"b1e11bc0-802f-5df4-ad9b-29b585978d12","nextPostId":"7f378ab1-16b0-57d2-be16-8dfa843520ef"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"62f87883-186c-5f55-91c1-ff34bc68b28f","excerpt":"","html":"","frontmatter":{"title":"Color Palette","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}},"next":{"fields":{"slug":"/chat-text/"},"frontmatter":{"title":"Chat Text"}}},"pageContext":{"id":"62f87883-186c-5f55-91c1-ff34bc68b28f","previousPostId":"b1e11bc0-802f-5df4-ad9b-29b585978d12","nextPostId":"b25520e7-915e-5221-9324-1e52e56091bd"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

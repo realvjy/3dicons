@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sun/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","excerpt":"","html":"","frontmatter":{"title":"Sun","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}},"next":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}}},"pageContext":{"id":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","previousPostId":"ad39f773-b8d6-557f-a0f4-fdd3683295f5","nextPostId":"65795306-aaeb-5e6f-8d06-32dede82a775"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","excerpt":"","html":"","frontmatter":{"title":"Sun","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}},"next":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}}},"pageContext":{"id":"e03872c5-a3ce-56cf-8b99-f8d18fc5dc25","previousPostId":"e72276b3-de68-5c77-ae3a-e60b3da29321","nextPostId":"ad39f773-b8d6-557f-a0f4-fdd3683295f5"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

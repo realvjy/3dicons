@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/sphere/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sheild/"},"frontmatter":{"title":"Sheild"}},"next":{"fields":{"slug":"/target/"},"frontmatter":{"title":"Target"}}},"pageContext":{"id":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e","previousPostId":"e72276b3-de68-5c77-ae3a-e60b3da29321","nextPostId":"81ed4070-73e3-5acd-b206-9f91e8ba5d11"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e","excerpt":"","html":"","frontmatter":{"title":"Sphere","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/scissor/"},"frontmatter":{"title":"Scissor"}},"next":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}}},"pageContext":{"id":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e","previousPostId":"702a5de5-f151-50a8-8467-836e23faa8ad","nextPostId":"2aaa008c-6677-5151-8698-e6182245c086"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

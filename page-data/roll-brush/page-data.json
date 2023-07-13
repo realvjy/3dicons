@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/roll-brush/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","excerpt":"","html":"","frontmatter":{"title":"Roll Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}}},"pageContext":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","previousPostId":"90c8ed7c-6970-543f-ac75-ec79df8b0569","nextPostId":"3b72847c-c8b2-57a4-b5f6-82d148a57557"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","excerpt":"","html":"","frontmatter":{"title":"Roll Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}},"next":null},"pageContext":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","previousPostId":"4069f82c-40d3-563d-aa14-44d3b4094f37","nextPostId":null}},
     "staticQueryHashes": ["2841359383","3257411868"]}

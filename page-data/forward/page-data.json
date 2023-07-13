@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/forward/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","excerpt":"","html":"","frontmatter":{"title":"Forward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}},"next":{"fields":{"slug":"/girl/"},"frontmatter":{"title":"Girl"}}},"pageContext":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","previousPostId":"b23315c9-a9ad-5580-a971-996213bb088e","nextPostId":"5406d4c3-7c11-5209-9adf-1e7a04c8fa0d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","excerpt":"","html":"","frontmatter":{"title":"Forward","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/girl/"},"frontmatter":{"title":"Girl"}},"next":{"fields":{"slug":"/folder/"},"frontmatter":{"title":"Folder"}}},"pageContext":{"id":"50c4f8af-2b25-528d-8ac1-499e79e6185e","previousPostId":"5406d4c3-7c11-5209-9adf-1e7a04c8fa0d","nextPostId":"71e738ab-b248-56ec-8ea5-b1c0e08b2153"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

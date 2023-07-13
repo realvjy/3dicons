@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/phone-ringing/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"db2ea088-e481-5919-9d5c-31223450e8c8","excerpt":"","html":"","frontmatter":{"title":"Phone Ringing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-missing/"},"frontmatter":{"title":"Phone Missing"}},"next":{"fields":{"slug":"/phone-only/"},"frontmatter":{"title":"Phone Only"}}},"pageContext":{"id":"db2ea088-e481-5919-9d5c-31223450e8c8","previousPostId":"17cf2a4d-eb8d-5d74-8107-64bb83be3531","nextPostId":"b5fd8892-77dc-50c9-9c3a-d8b1ce134121"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"db2ea088-e481-5919-9d5c-31223450e8c8","excerpt":"","html":"","frontmatter":{"title":"Phone Ringing","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/phone-only/"},"frontmatter":{"title":"Phone Only"}},"next":{"fields":{"slug":"/picture/"},"frontmatter":{"title":"Picture"}}},"pageContext":{"id":"db2ea088-e481-5919-9d5c-31223450e8c8","previousPostId":"b5fd8892-77dc-50c9-9c3a-d8b1ce134121","nextPostId":"761a003b-8e8b-547c-8eaf-e56ce1820d0d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

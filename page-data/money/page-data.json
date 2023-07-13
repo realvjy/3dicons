@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/money/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5edc82b6-86b2-5bef-8cae-13252310b24d","excerpt":"","html":"","frontmatter":{"title":"Money","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}}},"pageContext":{"id":"5edc82b6-86b2-5bef-8cae-13252310b24d","previousPostId":"39379eaa-cf6d-5c87-9183-b74e3248018f","nextPostId":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"5edc82b6-86b2-5bef-8cae-13252310b24d","excerpt":"","html":"","frontmatter":{"title":"Money","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}},"next":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}}},"pageContext":{"id":"5edc82b6-86b2-5bef-8cae-13252310b24d","previousPostId":"01aa116b-f40a-5514-8c01-ed42430f3f50","nextPostId":"34121634-f804-55c9-adc3-b6fe79630836"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/file-fav/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"774a207e-9926-5290-8a03-2eb90da6d6c5","excerpt":"","html":"","frontmatter":{"title":"File Fav","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}},"next":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}}},"pageContext":{"id":"774a207e-9926-5290-8a03-2eb90da6d6c5","previousPostId":"0d5420c0-bca6-5517-83c0-ddca879aa80f","nextPostId":"92dc05d3-6784-5fa8-9247-86884ea31661"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"774a207e-9926-5290-8a03-2eb90da6d6c5","excerpt":"","html":"","frontmatter":{"title":"File Fav","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/flash/"},"frontmatter":{"title":"Flash"}},"next":{"fields":{"slug":"/flag/"},"frontmatter":{"title":"Flag"}}},"pageContext":{"id":"774a207e-9926-5290-8a03-2eb90da6d6c5","previousPostId":"528684aa-8d4e-5552-8287-413a425c340d","nextPostId":"77e80481-975e-5537-a333-411e1b642730"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

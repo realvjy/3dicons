@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/map-pin/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ce845795-c6b6-5ca8-89fa-ff2247c887a7","excerpt":"","html":"","frontmatter":{"title":"Map Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mail/"},"frontmatter":{"title":"Mail"}},"next":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}}},"pageContext":{"id":"ce845795-c6b6-5ca8-89fa-ff2247c887a7","previousPostId":"c68becd7-aeb3-57fb-a391-b7ff88faa1d0","nextPostId":"70137f37-71b8-5199-b6ec-c943b7bf8eb1"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ce845795-c6b6-5ca8-89fa-ff2247c887a7","excerpt":"","html":"","frontmatter":{"title":"Map Pin","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}},"next":{"fields":{"slug":"/medal/"},"frontmatter":{"title":"Medal"}}},"pageContext":{"id":"ce845795-c6b6-5ca8-89fa-ff2247c887a7","previousPostId":"ad532959-4c04-5b7f-8de4-135e5afded41","nextPostId":"4fd2c4cf-c56a-5d97-8c36-77383a58e4b4"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

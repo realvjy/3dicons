@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/heart/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"472b321a-0427-5916-9551-692ee81bf98f","excerpt":"","html":"","frontmatter":{"title":"Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}},"next":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}}},"pageContext":{"id":"472b321a-0427-5916-9551-692ee81bf98f","previousPostId":"15796d58-846e-58f7-9859-25ca9f420e5a","nextPostId":"71b64f72-a4b7-5960-b2f0-6930b8b16b76"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"472b321a-0427-5916-9551-692ee81bf98f","excerpt":"","html":"","frontmatter":{"title":"Heart","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"472b321a-0427-5916-9551-692ee81bf98f","previousPostId":"15796d58-846e-58f7-9859-25ca9f420e5a","nextPostId":"57610f2c-fb61-5329-a238-1aaf2eda99de"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

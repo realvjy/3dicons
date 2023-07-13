@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/battery/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","excerpt":"","html":"","frontmatter":{"title":"Battery","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bucket/"},"frontmatter":{"title":"Bucket"}},"next":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}}},"pageContext":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","previousPostId":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","nextPostId":"69381b78-7a01-5910-be27-b65557327cd6"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","excerpt":"","html":"","frontmatter":{"title":"Battery","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}},"next":{"fields":{"slug":"/chat/"},"frontmatter":{"title":"Chat"}}},"pageContext":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","previousPostId":"816cf8a0-73ce-52d7-8487-385502e8290f","nextPostId":"c7a32cee-1201-5cde-8000-8d49a0abb023"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

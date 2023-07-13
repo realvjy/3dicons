@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/zoom/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","excerpt":"","html":"","frontmatter":{"title":"Zoom","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}},"next":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}}},"pageContext":{"id":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","previousPostId":"b32141cd-575b-5680-a789-fcf796f93dfd","nextPostId":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","excerpt":"","html":"","frontmatter":{"title":"Zoom","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/yuan/"},"frontmatter":{"title":"Yuan"}},"next":{"fields":{"slug":"/trophy/"},"frontmatter":{"title":"Trophy"}}},"pageContext":{"id":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","previousPostId":"b32141cd-575b-5680-a789-fcf796f93dfd","nextPostId":"c0c6d7d7-47e3-5c56-a38c-6cd9ca63998f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

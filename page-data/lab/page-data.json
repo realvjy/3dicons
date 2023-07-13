@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/lab/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","previousPostId":"472b321a-0427-5916-9551-692ee81bf98f","nextPostId":"cc65dcf0-c579-56b8-b45d-1968da7f24e4"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}},"next":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}}},"pageContext":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","previousPostId":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","nextPostId":"624efad7-b508-5af1-b968-07f1707d2434"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

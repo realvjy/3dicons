@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/bookmark-fav/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a0428fbe-eb44-556d-ae50-14ae11d96a71","excerpt":"","html":"","frontmatter":{"title":"Bookmark Fav","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/backward/"},"frontmatter":{"title":"Backward"}},"next":{"fields":{"slug":"/bookmark/"},"frontmatter":{"title":"Bookmark"}}},"pageContext":{"id":"a0428fbe-eb44-556d-ae50-14ae11d96a71","previousPostId":"2e85f0aa-4b4e-51f0-93e4-c0c6f990d091","nextPostId":"e58529ce-09a1-5fea-a22d-8053eef973d0"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a0428fbe-eb44-556d-ae50-14ae11d96a71","excerpt":"","html":"","frontmatter":{"title":"Bookmark Fav","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bookmark/"},"frontmatter":{"title":"Bookmark"}},"next":{"fields":{"slug":"/brush/"},"frontmatter":{"title":"Brush"}}},"pageContext":{"id":"a0428fbe-eb44-556d-ae50-14ae11d96a71","previousPostId":"e58529ce-09a1-5fea-a22d-8053eef973d0","nextPostId":"effe45a5-0852-5e3a-8c08-cf4c6f8a8555"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

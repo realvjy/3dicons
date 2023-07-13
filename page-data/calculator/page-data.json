@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/calculator/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","excerpt":"","html":"","frontmatter":{"title":"Calculator","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}},"next":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}}},"pageContext":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","previousPostId":"bc10da7e-c9ea-5635-bc98-15a29159d077","nextPostId":"01aa116b-f40a-5514-8c01-ed42430f3f50"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","excerpt":"","html":"","frontmatter":{"title":"Calculator","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/back/"},"frontmatter":{"title":"Back"}},"next":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}}},"pageContext":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","previousPostId":"0648108f-f1ff-5fe5-b987-523e4c4dbd34","nextPostId":"688504ff-c477-59ed-9400-bc1a28072c83"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

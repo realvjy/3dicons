@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/toggle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","excerpt":"","html":"","frontmatter":{"title":"Toggle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}},"next":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}}},"pageContext":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","previousPostId":"65795306-aaeb-5e6f-8d06-32dede82a775","nextPostId":"c10e4079-4375-53cb-ab68-d6cc25970699"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","excerpt":"","html":"","frontmatter":{"title":"Toggle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}},"next":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}}},"pageContext":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","previousPostId":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","nextPostId":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

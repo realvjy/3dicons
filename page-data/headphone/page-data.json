@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/headphone/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ede3ab5b-39ee-541a-85a7-6fd9720412a5","excerpt":"","html":"","frontmatter":{"title":"Headphone","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}},"next":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}}},"pageContext":{"id":"ede3ab5b-39ee-541a-85a7-6fd9720412a5","previousPostId":"1f886667-8d34-5bf3-b0ab-3ec51f9cc3d1","nextPostId":"15796d58-846e-58f7-9859-25ca9f420e5a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"ede3ab5b-39ee-541a-85a7-6fd9720412a5","excerpt":"","html":"","frontmatter":{"title":"Headphone","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/folder/"},"frontmatter":{"title":"Folder"}},"next":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}}},"pageContext":{"id":"ede3ab5b-39ee-541a-85a7-6fd9720412a5","previousPostId":"71e738ab-b248-56ec-8ea5-b1c0e08b2153","nextPostId":"cc65dcf0-c579-56b8-b45d-1968da7f24e4"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
