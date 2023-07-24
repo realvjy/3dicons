@@ -50,7 +50,9 @@ class BlogIndex extends React.Component {
           </div>
 
         </section>
+
         <Header />
+
         <div className="handsss">
           <div className="container">
             <a href="https://bit.ly/hands-kit-3">

@@ -34,11 +34,19 @@ const Header = () => {
             <a href="https://bit.ly/edit-3dicons-mesh" className="btn btn-mesh" target="_blank">
               <h4>Edit with Mesh</h4>
             </a>
-            <a href="https://www.buymeacoffee.com/realvjy" className="btn btn-coffee">
-              <h4>Donate & Support</h4>
-            </a>
-          </div>
 
+          </div>
+          <div className="support">
+            <div className="container">
+              <a href="https://www.buymeacoffee.com/realvjy">
+                <div className="box">
+                  <p>To run this website, I have to pay $50 to $70 per month for hosting costs. Any donation will be appreciated here. Thanks.</p>
+                  <span className="btn btn-o"><img src="/bmc-w.svg" /> Donate & Support</span>
+                </div>
+              </a>
+            </div>
+
+          </div>
 
           <div className="v2">
             <div className="ia-wrap">
