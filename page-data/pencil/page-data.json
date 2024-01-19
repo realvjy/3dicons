@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/pencil/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","excerpt":"","html":"","frontmatter":{"title":"Pencil","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pause/"},"frontmatter":{"title":"Pause"}},"next":{"fields":{"slug":"/phone-end/"},"frontmatter":{"title":"Phone End"}}},"pageContext":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","previousPostId":"c64f3545-9582-53f4-b39e-a2a4d72c1686","nextPostId":"793aca7d-0deb-51e8-bb5e-67c50bb1d6bb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","excerpt":"","html":"","frontmatter":{"title":"Pencil","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}},"next":{"fields":{"slug":"/takeaway-cup/"},"frontmatter":{"title":"Takeaway Cup"}}},"pageContext":{"id":"6aac4ed9-8b0c-5cf9-b60d-2a4480e9cfa1","previousPostId":"2aaa008c-6677-5151-8698-e6182245c086","nextPostId":"ad39f773-b8d6-557f-a0f4-fdd3683295f5"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

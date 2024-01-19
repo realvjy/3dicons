@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/chat/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c7a32cee-1201-5cde-8000-8d49a0abb023","excerpt":"","html":"","frontmatter":{"title":"Chat","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}},"next":{"fields":{"slug":"/chess/"},"frontmatter":{"title":"Chess"}}},"pageContext":{"id":"c7a32cee-1201-5cde-8000-8d49a0abb023","previousPostId":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","nextPostId":"b1e11bc0-802f-5df4-ad9b-29b585978d12"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c7a32cee-1201-5cde-8000-8d49a0abb023","excerpt":"","html":"","frontmatter":{"title":"Chat","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/chat-text/"},"frontmatter":{"title":"Chat Text"}},"next":{"fields":{"slug":"/circle/"},"frontmatter":{"title":"Circle"}}},"pageContext":{"id":"c7a32cee-1201-5cde-8000-8d49a0abb023","previousPostId":"b25520e7-915e-5221-9324-1e52e56091bd","nextPostId":"7f378ab1-16b0-57d2-be16-8dfa843520ef"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

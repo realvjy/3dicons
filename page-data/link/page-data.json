@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/link/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"624efad7-b508-5af1-b968-07f1707d2434","excerpt":"","html":"","frontmatter":{"title":"Link","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}},"next":{"fields":{"slug":"/lock/"},"frontmatter":{"title":"Lock"}}},"pageContext":{"id":"624efad7-b508-5af1-b968-07f1707d2434","previousPostId":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","nextPostId":"72afdc0b-a4df-50e6-bce8-6a771e590730"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"624efad7-b508-5af1-b968-07f1707d2434","excerpt":"","html":"","frontmatter":{"title":"Link","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}},"next":{"fields":{"slug":"/location/"},"frontmatter":{"title":"Location"}}},"pageContext":{"id":"624efad7-b508-5af1-b968-07f1707d2434","previousPostId":"472b321a-0427-5916-9551-692ee81bf98f","nextPostId":"ad532959-4c04-5b7f-8de4-135e5afded41"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

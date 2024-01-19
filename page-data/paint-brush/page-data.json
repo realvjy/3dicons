@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/paint-brush/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"39379eaa-cf6d-5c87-9183-b74e3248018f","excerpt":"","html":"","frontmatter":{"title":"Paint Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}},"next":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}}},"pageContext":{"id":"39379eaa-cf6d-5c87-9183-b74e3248018f","previousPostId":"4058901f-3cda-557c-a158-2216e9737e39","nextPostId":"179d0d12-a604-5f02-ad86-b6ae7f4e3255"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"39379eaa-cf6d-5c87-9183-b74e3248018f","excerpt":"","html":"","frontmatter":{"title":"Paint Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notify-heart/"},"frontmatter":{"title":"Notify Heart"}},"next":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}}},"pageContext":{"id":"39379eaa-cf6d-5c87-9183-b74e3248018f","previousPostId":"8b0fd86a-27fb-54b1-b830-bfdf5a8c3897","nextPostId":"5edc82b6-86b2-5bef-8cae-13252310b24d"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/key/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"15796d58-846e-58f7-9859-25ca9f420e5a","excerpt":"","html":"","frontmatter":{"title":"Key","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/gym/"},"frontmatter":{"title":"Gym"}},"next":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}}},"pageContext":{"id":"15796d58-846e-58f7-9859-25ca9f420e5a","previousPostId":"179d0d12-a604-5f02-ad86-b6ae7f4e3255","nextPostId":"472b321a-0427-5916-9551-692ee81bf98f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"15796d58-846e-58f7-9859-25ca9f420e5a","excerpt":"","html":"","frontmatter":{"title":"Key","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/lab/"},"frontmatter":{"title":"Lab"}},"next":{"fields":{"slug":"/heart/"},"frontmatter":{"title":"Heart"}}},"pageContext":{"id":"15796d58-846e-58f7-9859-25ca9f420e5a","previousPostId":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","nextPostId":"472b321a-0427-5916-9551-692ee81bf98f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/copy/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"51ea9b61-970b-5b95-b7e5-c22c8225debb","excerpt":"","html":"","frontmatter":{"title":"Copy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}},"next":{"fields":{"slug":"/explorer/"},"frontmatter":{"title":"Explorer"}}},"pageContext":{"id":"51ea9b61-970b-5b95-b7e5-c22c8225debb","previousPostId":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","nextPostId":"0d5420c0-bca6-5517-83c0-ddca879aa80f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"51ea9b61-970b-5b95-b7e5-c22c8225debb","excerpt":"","html":"","frontmatter":{"title":"Copy","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/color-palette/"},"frontmatter":{"title":"Color Palette"}},"next":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}}},"pageContext":{"id":"51ea9b61-970b-5b95-b7e5-c22c8225debb","previousPostId":"62f87883-186c-5f55-91c1-ff34bc68b28f","nextPostId":"2683d107-5204-5a83-8a36-5da64f77f1b2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

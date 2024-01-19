@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/roll-brush/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","excerpt":"","html":"","frontmatter":{"title":"Roll Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}},"next":null},"pageContext":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","previousPostId":"4069f82c-40d3-563d-aa14-44d3b4094f37","nextPostId":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","excerpt":"","html":"","frontmatter":{"title":"Roll Brush","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/sphere/"},"frontmatter":{"title":"Sphere"}},"next":{"fields":{"slug":"/star/"},"frontmatter":{"title":"Star"}}},"pageContext":{"id":"9aba7c2a-f29c-556b-b372-0593d6a45793","previousPostId":"fa668b78-c607-5589-9e0f-c87a5c9ddc1e","nextPostId":"2aaa008c-6677-5151-8698-e6182245c086"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

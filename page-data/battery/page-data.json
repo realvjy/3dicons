@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/battery/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","excerpt":"","html":"","frontmatter":{"title":"Battery","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}},"next":{"fields":{"slug":"/chat/"},"frontmatter":{"title":"Chat"}}},"pageContext":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","previousPostId":"816cf8a0-73ce-52d7-8487-385502e8290f","nextPostId":"c7a32cee-1201-5cde-8000-8d49a0abb023"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","excerpt":"","html":"","frontmatter":{"title":"Battery","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}},"next":{"fields":{"slug":"/bookmark-fav/"},"frontmatter":{"title":"Bookmark Fav"}}},"pageContext":{"id":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90","previousPostId":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e","nextPostId":"a0428fbe-eb44-556d-ae50-14ae11d96a71"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

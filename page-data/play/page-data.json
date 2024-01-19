@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/play/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pin/"},"frontmatter":{"title":"Pin"}},"next":{"fields":{"slug":"/phone-incoming/"},"frontmatter":{"title":"Phone Incoming"}}},"pageContext":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","previousPostId":"348648a3-3842-5a6c-806a-b644f2fb53ac","nextPostId":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","excerpt":"","html":"","frontmatter":{"title":"Play","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/mobile/"},"frontmatter":{"title":"Mobile"}},"next":{"fields":{"slug":"/puzzle/"},"frontmatter":{"title":"Puzzle"}}},"pageContext":{"id":"90c8ed7c-6970-543f-ac75-ec79df8b0569","previousPostId":"bc10da7e-c9ea-5635-bc98-15a29159d077","nextPostId":"4069f82c-40d3-563d-aa14-44d3b4094f37"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

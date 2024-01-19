@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/bulb/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c0146735-1499-505f-b4d1-02a101a560e4","excerpt":"","html":"","frontmatter":{"title":"Bulb","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/can/"},"frontmatter":{"title":"Can"}},"next":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}}},"pageContext":{"id":"c0146735-1499-505f-b4d1-02a101a560e4","previousPostId":"d025bc65-b365-53f5-9f1e-b1c6f0951844","nextPostId":"816cf8a0-73ce-52d7-8487-385502e8290f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c0146735-1499-505f-b4d1-02a101a560e4","excerpt":"","html":"","frontmatter":{"title":"Bulb","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bucket/"},"frontmatter":{"title":"Bucket"}},"next":{"fields":{"slug":"/calculator/"},"frontmatter":{"title":"Calculator"}}},"pageContext":{"id":"c0146735-1499-505f-b4d1-02a101a560e4","previousPostId":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","nextPostId":"2170673f-2b68-569a-a159-8b6c46b982e2"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

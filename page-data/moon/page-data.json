@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/moon/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"34121634-f804-55c9-adc3-b6fe79630836","excerpt":"","html":"","frontmatter":{"title":"Moon","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}},"next":{"fields":{"slug":"/blender/"},"frontmatter":{"title":"Blender"}}},"pageContext":{"id":"34121634-f804-55c9-adc3-b6fe79630836","previousPostId":"5edc82b6-86b2-5bef-8cae-13252310b24d","nextPostId":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"34121634-f804-55c9-adc3-b6fe79630836","excerpt":"","html":"","frontmatter":{"title":"Moon","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/new-folder/"},"frontmatter":{"title":"New Folder"}},"next":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}}},"pageContext":{"id":"34121634-f804-55c9-adc3-b6fe79630836","previousPostId":"73b6df8c-55ea-5c67-96e8-bc69d80372e7","nextPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

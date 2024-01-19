@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/cup/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","excerpt":"","html":"","frontmatter":{"title":"Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}},"next":{"fields":{"slug":"/copy/"},"frontmatter":{"title":"Copy"}}},"pageContext":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","previousPostId":"69381b78-7a01-5910-be27-b65557327cd6","nextPostId":"51ea9b61-970b-5b95-b7e5-c22c8225debb"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","excerpt":"","html":"","frontmatter":{"title":"Cup","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/crown/"},"frontmatter":{"title":"Crown"}},"next":{"fields":{"slug":"/eth/"},"frontmatter":{"title":"Eth"}}},"pageContext":{"id":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3","previousPostId":"2049bf16-330c-5010-98a7-c8e8d14d9c3f","nextPostId":"1f886667-8d34-5bf3-b0ab-3ec51f9cc3d1"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

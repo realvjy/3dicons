@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/mic/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fd009635-1e80-5324-a3c4-d89491a2558a","excerpt":"","html":"","frontmatter":{"title":"Mic","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/magic-trick/"},"frontmatter":{"title":"Magic Trick"}},"next":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}}},"pageContext":{"id":"fd009635-1e80-5324-a3c4-d89491a2558a","previousPostId":"70137f37-71b8-5199-b6ec-c943b7bf8eb1","nextPostId":"ff7f5714-5cdf-5fda-9f16-066edd6455f6"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"fd009635-1e80-5324-a3c4-d89491a2558a","excerpt":"","html":"","frontmatter":{"title":"Mic","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/megaphone/"},"frontmatter":{"title":"Megaphone"}},"next":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}}},"pageContext":{"id":"fd009635-1e80-5324-a3c4-d89491a2558a","previousPostId":"0e3b1ed0-2090-5680-9019-e6c7b7732932","nextPostId":"ff7f5714-5cdf-5fda-9f16-066edd6455f6"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

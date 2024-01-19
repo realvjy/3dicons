@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/lab/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}},"next":{"fields":{"slug":"/link/"},"frontmatter":{"title":"Link"}}},"pageContext":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","previousPostId":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","nextPostId":"624efad7-b508-5af1-b968-07f1707d2434"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","excerpt":"","html":"","frontmatter":{"title":"Lab","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/headphone/"},"frontmatter":{"title":"Headphone"}},"next":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}}},"pageContext":{"id":"71b64f72-a4b7-5960-b2f0-6930b8b16b76","previousPostId":"ede3ab5b-39ee-541a-85a7-6fd9720412a5","nextPostId":"15796d58-846e-58f7-9859-25ca9f420e5a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

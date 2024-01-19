@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/mobile/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bc10da7e-c9ea-5635-bc98-15a29159d077","excerpt":"","html":"","frontmatter":{"title":"Mobile","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/minecraft/"},"frontmatter":{"title":"Minecraft"}},"next":{"fields":{"slug":"/money-bag/"},"frontmatter":{"title":"Money Bag"}}},"pageContext":{"id":"bc10da7e-c9ea-5635-bc98-15a29159d077","previousPostId":"ff7f5714-5cdf-5fda-9f16-066edd6455f6","nextPostId":"01aa116b-f40a-5514-8c01-ed42430f3f50"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bc10da7e-c9ea-5635-bc98-15a29159d077","excerpt":"","html":"","frontmatter":{"title":"Mobile","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/pound/"},"frontmatter":{"title":"Pound"}},"next":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}}},"pageContext":{"id":"bc10da7e-c9ea-5635-bc98-15a29159d077","previousPostId":"3b72847c-c8b2-57a4-b5f6-82d148a57557","nextPostId":"90c8ed7c-6970-543f-ac75-ec79df8b0569"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

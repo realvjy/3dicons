@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/thumb-down/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","excerpt":"","html":"","frontmatter":{"title":"Thumb Down","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/travel/"},"frontmatter":{"title":"Travel"}},"next":{"fields":{"slug":"/thumb-up/"},"frontmatter":{"title":"Thumb Up"}}},"pageContext":{"id":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","previousPostId":"cd897bbf-2e00-5c1e-8c89-c8a06451c159","nextPostId":"c10e4079-4375-53cb-ab68-d6cc25970699"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","excerpt":"","html":"","frontmatter":{"title":"Thumb Down","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}},"next":{"fields":{"slug":"/text/"},"frontmatter":{"title":"Text"}}},"pageContext":{"id":"a6bb4f80-e33f-5ce5-a5a3-0a063fc2e238","previousPostId":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","nextPostId":"65795306-aaeb-5e6f-8d06-32dede82a775"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

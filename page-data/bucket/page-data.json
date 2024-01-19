@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/bucket/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","excerpt":"","html":"","frontmatter":{"title":"Bucket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/notebook/"},"frontmatter":{"title":"Notebook"}},"next":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}}},"pageContext":{"id":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","previousPostId":"934416d4-2f25-5bf8-9300-abf3eaaa2b7d","nextPostId":"4058901f-3cda-557c-a158-2216e9737e39"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","excerpt":"","html":"","frontmatter":{"title":"Bucket","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/boy/"},"frontmatter":{"title":"Boy"}},"next":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}}},"pageContext":{"id":"0e444d53-81fa-541d-9f05-2ab113bb4dd3","previousPostId":"8b786245-87fa-5987-8d39-f00656d15957","nextPostId":"c0146735-1499-505f-b4d1-02a101a560e4"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

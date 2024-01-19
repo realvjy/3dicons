@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/camera/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"69381b78-7a01-5910-be27-b65557327cd6","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/computer/"},"frontmatter":{"title":"Computer"}},"next":{"fields":{"slug":"/cup/"},"frontmatter":{"title":"Cup"}}},"pageContext":{"id":"69381b78-7a01-5910-be27-b65557327cd6","previousPostId":"2683d107-5204-5a83-8a36-5da64f77f1b2","nextPostId":"8b7cd888-b3b5-5d6a-be75-67e3971a14e3"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"69381b78-7a01-5910-be27-b65557327cd6","excerpt":"","html":"","frontmatter":{"title":"Camera","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/calculator/"},"frontmatter":{"title":"Calculator"}},"next":{"fields":{"slug":"/calender/"},"frontmatter":{"title":"Calender"}}},"pageContext":{"id":"69381b78-7a01-5910-be27-b65557327cd6","previousPostId":"2170673f-2b68-569a-a159-8b6c46b982e2","nextPostId":"4058901f-3cda-557c-a158-2216e9737e39"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

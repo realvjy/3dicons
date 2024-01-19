@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/euro/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","excerpt":"","html":"","frontmatter":{"title":"Euro","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/fire/"},"frontmatter":{"title":"Fire"}},"next":{"fields":{"slug":"/flash/"},"frontmatter":{"title":"Flash"}}},"pageContext":{"id":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","previousPostId":"b23315c9-a9ad-5580-a971-996213bb088e","nextPostId":"528684aa-8d4e-5552-8287-413a425c340d"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","excerpt":"","html":"","frontmatter":{"title":"Euro","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/dollar/"},"frontmatter":{"title":"Dollar"}},"next":{"fields":{"slug":"/cube/"},"frontmatter":{"title":"Cube"}}},"pageContext":{"id":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","previousPostId":"92dc05d3-6784-5fa8-9247-86884ea31661","nextPostId":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

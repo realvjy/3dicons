@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/cube/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","excerpt":"","html":"","frontmatter":{"title":"Cube","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/crown/"},"frontmatter":{"title":"Crown"}},"next":{"fields":{"slug":"/figma/"},"frontmatter":{"title":"Figma"}}},"pageContext":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","previousPostId":"2049bf16-330c-5010-98a7-c8e8d14d9c3f","nextPostId":"0464dd4a-7f26-512b-b7bb-2cac5e1bd0c3"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","excerpt":"","html":"","frontmatter":{"title":"Cube","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/euro/"},"frontmatter":{"title":"Euro"}},"next":{"fields":{"slug":"/fav-folder/"},"frontmatter":{"title":"Fav Folder"}}},"pageContext":{"id":"bc5f43cf-0bb5-5091-abb6-ed377bac34eb","previousPostId":"c7f6319e-9d35-5e8f-84ae-2de4bfada2b7","nextPostId":"44e1e918-7a1c-50fa-9fbe-15fb6598a33a"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

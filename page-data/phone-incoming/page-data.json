@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/phone-incoming/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b","excerpt":"","html":"","frontmatter":{"title":"Phone Incoming","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/play/"},"frontmatter":{"title":"Play"}},"next":{"fields":{"slug":"/plus/"},"frontmatter":{"title":"Plus"}}},"pageContext":{"id":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b","previousPostId":"90c8ed7c-6970-543f-ac75-ec79df8b0569","nextPostId":"1e9ca19e-66f6-5df6-8f51-2d938f001989"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b","excerpt":"","html":"","frontmatter":{"title":"Phone Incoming","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/money/"},"frontmatter":{"title":"Money"}},"next":{"fields":{"slug":"/paint-kit/"},"frontmatter":{"title":"Paint Kit"}}},"pageContext":{"id":"da6ba6dc-a2b3-5404-874b-1125e96f6a4b","previousPostId":"5edc82b6-86b2-5bef-8cae-13252310b24d","nextPostId":"57610f2c-fb61-5329-a238-1aaf2eda99de"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

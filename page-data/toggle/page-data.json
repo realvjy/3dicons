@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/toggle/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","excerpt":"","html":"","frontmatter":{"title":"Toggle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/tick/"},"frontmatter":{"title":"Tick"}},"next":{"fields":{"slug":"/tool/"},"frontmatter":{"title":"Tool"}}},"pageContext":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","previousPostId":"cb163b38-b088-5c0f-84a9-c5d61662a3aa","nextPostId":"1857cf35-ab47-573d-9fc7-b7fbd6161c9f"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","excerpt":"","html":"","frontmatter":{"title":"Toggle","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/wallet/"},"frontmatter":{"title":"Wallet"}},"next":{"fields":{"slug":"/gift/"},"frontmatter":{"title":"Gift"}}},"pageContext":{"id":"60382e94-3cd7-5e78-9598-4ec46c081353","previousPostId":"3c99d40d-58ed-5bf0-93a0-90cf85a0ada6","nextPostId":"d469b522-966d-5129-8b16-1fb68f607aea"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

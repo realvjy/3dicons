@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/gym/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"179d0d12-a604-5f02-ad86-b6ae7f4e3255","excerpt":"","html":"","frontmatter":{"title":"Gym","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/paint-brush/"},"frontmatter":{"title":"Paint Brush"}},"next":{"fields":{"slug":"/key/"},"frontmatter":{"title":"Key"}}},"pageContext":{"id":"179d0d12-a604-5f02-ad86-b6ae7f4e3255","previousPostId":"39379eaa-cf6d-5c87-9183-b74e3248018f","nextPostId":"15796d58-846e-58f7-9859-25ca9f420e5a"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"179d0d12-a604-5f02-ad86-b6ae7f4e3255","excerpt":"","html":"","frontmatter":{"title":"Gym","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/glass/"},"frontmatter":{"title":"Glass"}},"next":{"fields":{"slug":"/headphone/"},"frontmatter":{"title":"Headphone"}}},"pageContext":{"id":"179d0d12-a604-5f02-ad86-b6ae7f4e3255","previousPostId":"cc65dcf0-c579-56b8-b45d-1968da7f24e4","nextPostId":"ede3ab5b-39ee-541a-85a7-6fd9720412a5"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

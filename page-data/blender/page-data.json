@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/blender/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e","excerpt":"","html":"","frontmatter":{"title":"Blender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/moon/"},"frontmatter":{"title":"Moon"}},"next":{"fields":{"slug":"/music/"},"frontmatter":{"title":"Music"}}},"pageContext":{"id":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e","previousPostId":"34121634-f804-55c9-adc3-b6fe79630836","nextPostId":"5bb53e7c-5755-5593-9532-7f98e49a01da"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e","excerpt":"","html":"","frontmatter":{"title":"Blender","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bag/"},"frontmatter":{"title":"Bag"}},"next":{"fields":{"slug":"/battery/"},"frontmatter":{"title":"Battery"}}},"pageContext":{"id":"dd96949b-89aa-5c88-bb2b-a6ea6bf7a92e","previousPostId":"816cf8a0-73ce-52d7-8487-385502e8290f","nextPostId":"0a1bb904-4ca2-50b5-a2b8-0604edaf3b90"}},
     "staticQueryHashes": ["2841359383","3257411868"]}

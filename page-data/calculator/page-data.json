@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/calculator/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","excerpt":"","html":"","frontmatter":{"title":"Calculator","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/back/"},"frontmatter":{"title":"Back"}},"next":{"fields":{"slug":"/card/"},"frontmatter":{"title":"Card"}}},"pageContext":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","previousPostId":"0648108f-f1ff-5fe5-b987-523e4c4dbd34","nextPostId":"688504ff-c477-59ed-9400-bc1a28072c83"}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","excerpt":"","html":"","frontmatter":{"title":"Calculator","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/bulb/"},"frontmatter":{"title":"Bulb"}},"next":{"fields":{"slug":"/camera/"},"frontmatter":{"title":"Camera"}}},"pageContext":{"id":"2170673f-2b68-569a-a159-8b6c46b982e2","previousPostId":"c0146735-1499-505f-b4d1-02a101a560e4","nextPostId":"69381b78-7a01-5910-be27-b65557327cd6"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
