@@ -31,22 +31,16 @@ const Header = () => {
                 <li><a href="https://bit.ly/3dicons-fbx-v1"> <img src="/fbx-file.png" />Fbx File <span> (240mb)</span></a></li>
               </ul>
             </div>
+            <a href="https://www.buymeacoffee.com/realvjy" className="btn btn-mesh" target="_blank">
+              <h4>Donate & Support</h4>
+            </a>
+
             <a href="https://bit.ly/edit-3dicons-mesh" className="btn btn-mesh" target="_blank">
               <h4>Edit with Mesh</h4>
             </a>
 
           </div>
-          <div className="support">
-            <div className="container">
-              <a href="https://www.buymeacoffee.com/realvjy">
-                <div className="box">
-                  <p>To run this website, I have to pay $50 to $70 per month for hosting costs. Any donation will be appreciated here. Thanks.</p>
-                  <span className="btn btn-o"><img src="/bmc-w.svg" /> Donate & Support</span>
-                </div>
-              </a>
-            </div>
 
-          </div>
 
           <div className="v2">
             <div className="ia-wrap">
@@ -58,7 +52,7 @@ const Header = () => {
                 </div>
                 <div className="fig a-img-box _2c">
                   <a href="https://bit.ly/3dicons-figma">
-                    <img src="/figma-plugin.png" />
+                    <img src="figma-plugin.png" />
                   </a>
                 </div>
               </div>

@@ -55,7 +55,7 @@ class BlogIndex extends React.Component {
 
         <div className="handsss">
           <div className="container">
-            <a href="https://bit.ly/hands-kit-3">
+            <a href="https://realvjy.lemonsqueezy.com/checkout/buy/a11f5cef-a474-49f2-a452-0a7b6d03e342?discount=0">
               <img src="/handkit.png" />
             </a>
           </div>
