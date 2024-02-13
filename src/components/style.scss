@@ -1122,19 +1122,37 @@ main{
 .ad-float{
   position: fixed;
   bottom: 36px;
-  right: 110px;
+  right: 100px;
   z-index: 111114;
-  @media (max-width: $mobile-landscape){
-      display: none;
+  @media (max-width: $tablet){
+    position: relative;
+    bottom: unset;
+    right: unset;
+    width: 100%;
+    display: flex;
+    justify-content: center;
   }
+
   a{
     display: block;
     line-height: 0;
+    position: relative;
+    max-width: 300px;
     img{
       max-width: 300px;
       border-radius: 8px;
       border: 1px solid #C1C1C1;
       line-height: normal;
+    }
+    .atag{
+      position: absolute;
+      bottom: 12px;
+      right: 12px;
+      background-color: #566CEC;
+      color: #fff;
+      font-size: 12px;
+      padding: 6px;
+      border-radius: 2px;
     }
   }
 }

@@ -59,6 +59,13 @@ const Header = () => {
 
             </div>
           </div>
+          <div className="ad-float">
+
+            <a href="https://bit.ly/49cKh8h" target="_blank">
+              <img src="master-ui-design.png" />
+              <div className="atag">Ad</div>
+            </a>
+          </div>
           <div className="styles-angle">
             <div className="s-a-wrap">
               <div className="header-text">
@@ -104,6 +111,7 @@ const Header = () => {
             </div>
           </div>
         </div>
+
       </div>
     </section>
   )
