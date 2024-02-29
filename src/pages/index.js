@@ -37,7 +37,7 @@ class BlogIndex extends React.Component {
               </div>
               <div className="menu">
                 <ul>
-
+                  <li><a href="https://forms.gle/TMwNiFukU7xdSFDv5" className="btn btn-text">request</a></li>
                   <li><a href="/about" className="btn btn-text">about</a></li>
                   <li><a href="/figma" className="btn btn-text">figma</a></li>
                   <li><a href="https://www.buymeacoffee.com/realvjy" className="btn btn-text">donate</a></li>

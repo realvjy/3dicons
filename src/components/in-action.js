@@ -9,6 +9,22 @@ const InAction = () => {
     <section className="inaction">
       <div className="container">
         <div className="ia-wrap">
+          <div className="request-box">
+            <div className="r-box-wrapper">
+              <div className="r-text">
+                <div className="r-t-wrap">
+                  <h2 className="gradient blue">Get custom 3D icons</h2>
+                  <p>Min Icon Pack of 10 for $200. Commission me to draw 3D icon pack. For commercial use.</p>
+                  <a href="https://forms.gle/ec5wGyt6HqqMcCBAA" className="btn btn-coffee request">Request Icon</a>
+                </div>
+              </div>
+              <div className="r-img">
+                <div className="r-im-wrap">
+                  <img src="/3dicons.gif" />
+                </div>
+              </div>
+            </div>
+          </div>
           <h2 className="gradient blue">3dicons in action</h2>
           <p>Crafted some examples - mockups, posts, and presentations that you can download for free <a href="https://bit.ly/3dicons-mockups">from Figma community.</a></p>
           <div className="action-box">
@@ -54,22 +70,7 @@ const InAction = () => {
               </div>
             </div>
           </div>
-          <div className="request-box">
-            <div className="r-box-wrapper">
-              <div className="r-text">
-                <div className="r-t-wrap">
-                  <h2 className="gradient blue">Get custom 3D icons</h2>
-                  <p>For just $25, you can get a pack of 20 custom icons. Perhaps I can include them here and make them free for you 😍. </p>
-                  <a href="https://forms.gle/ec5wGyt6HqqMcCBAA" className="btn btn-coffee disable request">Request Icon <span>Closed</span></a>
-                </div>
-              </div>
-              <div className="r-img">
-                <div className="r-im-wrap">
-                  <img src="/3dicons.gif" />
-                </div>
-              </div>
-            </div>
-          </div>
+
         </div>
       </div>
     </section>

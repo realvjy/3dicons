@@ -456,7 +456,9 @@ main{
       border-color: rgba(200,200,200,.8);
     }
     &.request{
+      background-color: #000000;
       font-size: 20px;
+      color: #fff;
     }
     @media (max-width: $mobile-landscape){
       margin-right: 0;
@@ -837,11 +839,11 @@ main{
     }
     .request-box{
       width: 100%;
+      margin-bottom: 40px;
       @media (max-width: $mobile-landscape){
         flex-direction: column;
         flex-direction: column-reverse;
       }
-      margin-top: 48px;
       .r-box-wrapper{
         margin: 12px;
         display: flex;
