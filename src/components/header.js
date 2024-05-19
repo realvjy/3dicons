@@ -10,6 +10,7 @@ const Header = () => {
     <section className="header">
       <div className="container">
         <div className="header-wrap">
+          <div className="overlayz">Need design? <a href="https://overlayz.studio" className="link" target="_blank"><img src="/overlayz-o.png" /> overlayz studio <img src="/angle-arrow.svg" className="arrow" /></a></div>
           <h1>Beautifully crafted open source 3D icons</h1>
           <h3>100% FREE FOR Commercial and Personal Use UNDER <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a></h3>
           <div className="assets">
@@ -58,6 +59,14 @@ const Header = () => {
               </div>
 
             </div>
+          </div>
+          <div className="handsss">
+            <div className="container">
+              <a href="https://realvjy.lemonsqueezy.com/checkout/buy/a11f5cef-a474-49f2-a452-0a7b6d03e342?discount=0">
+                <img src="/handkit.png" />
+              </a>
+            </div>
+
           </div>
           <div className="sp-float">
 

@@ -227,6 +227,40 @@ main{
     @media (max-width: $mobile-landscape){
       padding-top: 24px;
     }
+    .overlayz{
+      display: inline-flex;
+      padding: 4px 12px;
+      gap: 12px;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid rgba(255, 65, 4, 0.5);
+      border-radius: 16px;
+      font-size: 18px;
+      @media (max-width: $mobile-landscape){
+        font-size: 14px;
+        gap: 8px;
+      }
+      &:hover{
+        background-color: rgba(255, 65, 4, 0.08);;
+      }
+      img{
+        height: 24px;
+        @media (max-width: $mobile-landscape){
+          height: 20px;
+        }
+      }
+      
+      a{
+        display: flex;
+        gap: 5px;
+        font-weight: 500;
+        letter-spacing: -0.6px;
+        align-items: center;
+        .arrow{
+          height: 16px;
+        }
+      }
+    }
     h1{
       font-size: 44px;
       font-weight: 700;
@@ -1442,6 +1476,8 @@ main{
 
 
 .handsss{
+  margin-top: 40px;
+  margin-bottom: 20px;
   .container{
     a{
       margin: 0 auto;
@@ -1455,7 +1491,7 @@ main{
         max-width: 60%;
         border-radius: 12px;
         @media (max-width: $tablet-wide){
-          width: 80%;
+          max-width: calc(100% - 16px);
         }
       }
     }
