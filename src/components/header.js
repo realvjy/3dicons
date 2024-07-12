@@ -70,8 +70,8 @@ const Header = () => {
           </div>
           <div className="sp-float">
 
-            <a href="https://bit.ly/49cKh8h" target="_blank">
-              <img src="master-ui-design.png" />
+            <a href="https://s.vjy.me/vectopus-sponsor" target="_blank">
+              <img src="vectopus-illustration.jpg" />
 
             </a>
           </div>
