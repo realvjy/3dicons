@@ -24,14 +24,14 @@ const Header = () => {
                 <h4>Download all</h4>
               </button>
               <ul className="dwn-list">
-                <li><a href="https://bit.ly/3dicons-v1"> <img src="/figma-file.png" />All as Figma <span> (File)</span></a></li>
+                <li><a href="https://s.vjy.me/3dicons-v1-gum"> <img src="/png-file.png" />PNG Files <span> (Gumroad)</span></a></li>
+                <li><a href="https://bit.ly/3dicons-v1"> <img src="/figma-file.png" />All Image in Figma <span> (File)</span></a></li>
                 <li><a href="https://s.vjy.me/3dicons-plugin-v1"> <img src="/figma-file.png" />Get Figma <span> (Plugin)</span></a></li>
-                <li><a href="https://bit.ly/3dicons-blender-v1"> <img src="/blender-file.png" />Blender File <span> (205mb)</span></a></li>
-                <li><a href="https://bit.ly/3dicons-fbx-v1"> <img src="/fbx-file.png" />Fbx File <span> (240mb)</span></a></li>
+                <li><a href="https://s.vjy.me/3dicons-blend-v1"> <img src="/blender-file.png" />Blender File <span> (205mb)</span></a></li>
+                <li><a href="https://s.vjy.me/3dicons-fbx-v1"> <img src="/fbx-file.png" />Fbx File <span> (240mb)</span></a></li>
                 <li><a href="#"> <img src="/png-file.png" />PNG Dynamic <span> (Unavailable)</span></a></li>
                 <li><a href="#"> <img src="/png-file.png" />PNG ISO<span> (Unavailable)</span></a></li>
                 <li><a href="#"> <img src="/png-file.png" />PNG Front <span> (Unavailable)</span></a></li>
-
               </ul>
             </div>
             <a href="https://www.buymeacoffee.com/realvjy" className="btn btn-mesh" target="_blank">
@@ -43,7 +43,14 @@ const Header = () => {
             </a>
 
           </div>
+          <div className="support">
+            <div className="container">
+              <div className="box">
+                <p>Server Having issue to download. Please check the figma links or gumroad link to download. If have issue connect me on twiter/X <a href="https://x.com/realvjy">@realvjy</a></p>
+              </div>
+            </div>
 
+          </div>
 
           <div className="v2">
             <div className="ia-wrap">
