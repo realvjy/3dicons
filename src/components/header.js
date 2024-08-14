@@ -24,12 +24,14 @@ const Header = () => {
                 <h4>Download all</h4>
               </button>
               <ul className="dwn-list">
-                <li><a href="https://bit.ly/3dicons-v1"> <img src="/figma-file.png" />Figma File<span> (compressed)</span></a></li>
-                <li><a href="https://bit.ly/3dicons-dynamic-png-v1"> <img src="/png-file.png" />PNG Dynamic <span> (2400px, 1.3gb)</span></a></li>
-                <li><a href="https://bit.ly/3dicons-iso-png-v1"> <img src="/png-file.png" />PNG ISO<span> (2400px, 1.2gb)</span></a></li>
-                <li><a href="https://bit.ly/3dicons-front-png-v1"> <img src="/png-file.png" />PNG Front <span> (2400px, 1.2gb)</span></a></li>
+                <li><a href="https://bit.ly/3dicons-v1"> <img src="/figma-file.png" />All as Figma <span> (File)</span></a></li>
+                <li><a href="https://s.vjy.me/3dicons-plugin-v1"> <img src="/figma-file.png" />Get Figma <span> (Plugin)</span></a></li>
                 <li><a href="https://bit.ly/3dicons-blender-v1"> <img src="/blender-file.png" />Blender File <span> (205mb)</span></a></li>
                 <li><a href="https://bit.ly/3dicons-fbx-v1"> <img src="/fbx-file.png" />Fbx File <span> (240mb)</span></a></li>
+                <li><a href="#"> <img src="/png-file.png" />PNG Dynamic <span> (Unavailable)</span></a></li>
+                <li><a href="#"> <img src="/png-file.png" />PNG ISO<span> (Unavailable)</span></a></li>
+                <li><a href="#"> <img src="/png-file.png" />PNG Front <span> (Unavailable)</span></a></li>
+
               </ul>
             </div>
             <a href="https://www.buymeacoffee.com/realvjy" className="btn btn-mesh" target="_blank">
@@ -69,11 +71,11 @@ const Header = () => {
 
           </div>
           <div className="sp-float">
-
+            {/* 
             <a href="https://s.vjy.me/vectopus-sponsor" target="_blank">
               <img src="vectopus-illustration.jpg" />
 
-            </a>
+            </a> */}
           </div>
           <div className="styles-angle">
             <div className="s-a-wrap">
