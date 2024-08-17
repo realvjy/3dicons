@@ -24,12 +24,12 @@ const Header = () => {
                 <h4>Download all</h4>
               </button>
               <ul className="dwn-list">
-                <li><a href="https://s.vjy.me/3dicons-v1-gum"> <img src="/png-file.png" />PNG Files <span> (Gumroad)</span></a></li>
+                <li><a href="https://s.vjy.me/3dicons-v1-gum"> <img src="/png-file.png" />All PNG Files <span> (Gumroad)</span></a></li>
                 <li><a href="https://bit.ly/3dicons-v1"> <img src="/figma-file.png" />All Image in Figma <span> (File)</span></a></li>
                 <li><a href="https://s.vjy.me/3dicons-plugin-v1"> <img src="/figma-file.png" />Get Figma <span> (Plugin)</span></a></li>
                 <li><a href="https://s.vjy.me/3dicons-blend-v1"> <img src="/blender-file.png" />Blender File <span> (205mb)</span></a></li>
                 <li><a href="https://s.vjy.me/3dicons-fbx-v1"> <img src="/fbx-file.png" />Fbx File <span> (240mb)</span></a></li>
-                <li><a href="#"> <img src="/png-file.png" />PNG Dynamic <span> (Unavailable)</span></a></li>
+                <li><a href="https://s.vjy.me/3dicons-d-png-v1"> <img src="/png-file.png" />PNG Dynamic <span> (1.36 gb)</span></a></li>
                 <li><a href="#"> <img src="/png-file.png" />PNG ISO<span> (Unavailable)</span></a></li>
                 <li><a href="#"> <img src="/png-file.png" />PNG Front <span> (Unavailable)</span></a></li>
               </ul>

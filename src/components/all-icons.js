@@ -12,7 +12,7 @@ import { MDXProvider } from "@mdx-js/react"
 
 
 const AllIcons = () => {
-      const data = useStaticQuery(graphql`
+  const data = useStaticQuery(graphql`
         query iconQuery{
           site {
             siteMetadata {
@@ -47,47 +47,60 @@ const AllIcons = () => {
         }
     `)
 
-    const initalState = 0;
-    const [count, setCount] = useState(initalState);
-    const counterRef = useRef(initalState);
+  const initalState = 0;
+  const [count, setCount] = useState(initalState);
+  const counterRef = useRef(initalState);
 
 
 
-    const siteTitle = data.site.siteMetadata.title
-    const icons = data.allMarkdownRemark.edges
 
-    return (
+  const siteTitle = data.site.siteMetadata.title
+  const icons = data.allMarkdownRemark.edges
+  const prefix = "https://pub-821312cfd07a4061bf7b99c1f23ed29b.r2.dev/v1/"
 
-      <section className="all-icons">
-        <div className="container">
-          <div className="icons-wrap">
-            <h2 className="gradient blue">120+ icons Preview</h2>
-            <p>1440+ Rendered Images</p>
-              <div className="icons-grid">
-              {icons.map(({ node }) => {
-                const title = node.frontmatter.title
-                return (
-                  <>
+  // https://pub-821312cfd07a4061bf7b99c1f23ed29b.r2.dev/v1/dynamic/color/chart-dynamic-color.png
+
+  const showImgURL = prefix + "dynamic/color/"
+  const convertToSlug = (text) => {
+    return text
+      .toLowerCase() // Convert to lowercase
+      .replace(/\s+/g, '-') // Replace spaces with hyphens
+      .replace(/[^\w-]+/g, ''); // Remove any non-alphanumeric characters
+  };
+
+  return (
+
+    <section className="all-icons">
+      <div className="container">
+        <div className="icons-wrap">
+          <h2 className="gradient blue">120+ icons Preview</h2>
+          <p>1440+ Rendered Images</p>
+          <div className="icons-grid">
+            {icons.map(({ node }) => {
+              const title = convertToSlug(node.frontmatter.title)
+
+              return (
+                <>
                   <div className="icons-box">
                     <div className="i-wrap">
                       <div className="img-ani">
                         <div className="img-list" key={node.frontmatter.id}>
-                          <img src={node.frontmatter.gradient} className="gradient"/>
-                          <img src={node.frontmatter.clay} className="clay"/>
-                          <img src={node.frontmatter.color} className="color"/>
-                          <img src={node.frontmatter.premium} className="premium"/>
+                          {/* <img src={node.frontmatter.gradient} className="gradient"/> */}
+                          {/* <img src={node.frontmatter.clay} className="clay"/> */}
+                          <img src={showImgURL + title + "-dynamic-color.png"} className="color" />
+                          {/* <img src={node.frontmatter.premium} className="premium"/> */}
                         </div>
                       </div>
                     </div>
                   </div>
-                  </>
-                )
-              })}
-              </div>
+                </>
+              )
+            })}
           </div>
         </div>
-      </section>
-    )
+      </div>
+    </section>
+  )
 }
 
 export default AllIcons
