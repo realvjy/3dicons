@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-blog-post-js",
     "path": "/wifi/",
-    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2071556f-4dbc-5fc7-b14a-08d9585c6205","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}},"next":null},"pageContext":{"id":"2071556f-4dbc-5fc7-b14a-08d9585c6205","previousPostId":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","nextPostId":null}},
+    "result": {"data":{"site":{"siteMetadata":{"title":"3Dicons"}},"markdownRemark":{"id":"2071556f-4dbc-5fc7-b14a-08d9585c6205","excerpt":"","html":"","frontmatter":{"title":"Wifi","date":"Invalid date","description":null}},"previous":{"fields":{"slug":"/zoom/"},"frontmatter":{"title":"Zoom"}},"next":{"fields":{"slug":"/crown/"},"frontmatter":{"title":"Crow"}}},"pageContext":{"id":"2071556f-4dbc-5fc7-b14a-08d9585c6205","previousPostId":"2456062f-25a2-5bdc-b965-9c4e38fe5e05","nextPostId":"2049bf16-330c-5010-98a7-c8e8d14d9c3f"}},
     "staticQueryHashes": ["2841359383","3257411868"]}
