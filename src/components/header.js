@@ -56,7 +56,7 @@ const Header = () => {
             <div className="ia-wrap">
               <div className="action-box">
                 <div className="v2 a-img-box _2c">
-                  <a href="/v2">
+                  <a href="https://t.3dicons.co?v2">
                     <img src="/v2.png" />
                   </a>
                 </div>
