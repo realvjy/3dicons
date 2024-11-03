@@ -6,15 +6,15 @@ import { useStaticQuery, graphql } from "gatsby"
 
 
 const Annouce = () => {
-    return (
-      <section className="announce">
-        <div className="container">
-          <div className="announce-wrapper producthunt">
-          </div>
+  return (
+    <section className="announce">
+      <div className="container">
+        <div className="announce-wrapper new">
         </div>
-      </section>
+      </div>
+    </section>
 
-    )
+  )
 }
 
 export default Annouce

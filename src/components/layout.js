@@ -8,7 +8,10 @@ const Layout = ({ location, title, children, bgclass }) => {
   console.log(bgclass);
   let header = (
     <>
-      <div className="announce-wrapper producthunt">
+      <div className="announce">
+        <div className="container new-box">
+          <a href="https://3dicons.co" className="gradient yellow">Go to new version here</a>
+        </div>
       </div>
     </>
   )
