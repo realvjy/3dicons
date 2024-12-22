@@ -10,7 +10,7 @@ const Header = () => {
     <section className="header">
       <div className="container">
         <div className="header-wrap">
-          <div className="overlayz">Need design? <a href="https://overlayz.studio" className="link" target="_blank"><img src="/overlayz-o.png" /> overlayz studio <img src="/angle-arrow.svg" className="arrow" /></a></div>
+          <div className="overlayz">Need design? <a href="https://overlayz.studio" className="link" target="_blank"><img src="overlayz-o.png" /> overlayz studio <img src="/angle-arrow.svg" className="arrow" /></a></div>
           <h1>Beautifully crafted open source 3D icons</h1>
           <h3>100% FREE FOR Commercial and Personal Use UNDER <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0</a></h3>
           <div className="assets">
@@ -27,26 +27,19 @@ const Header = () => {
                 <li><a href="https://s.vjy.me/3dicons-v1-gum"> <img src="/png-file.png" />All PNG Files <span> (Gumroad)</span></a></li>
                 <li><a href="https://bit.ly/3dicons-v1"> <img src="/figma-file.png" />All Image in Figma <span> (File)</span></a></li>
                 <li><a href="https://s.vjy.me/3dicons-plugin-v1"> <img src="/figma-file.png" />Get Figma <span> (Plugin)</span></a></li>
-                <li><a href="https://s.vjy.me/3dicons-blend-v1"> <img src="/blender-file.png" />Blender File <span> (205mb)</span></a></li>
-                <li><a href="https://s.vjy.me/3dicons-fbx-v1"> <img src="/fbx-file.png" />Fbx File <span> (240mb)</span></a></li>
-                <li><a href="https://s.vjy.me/3dicons-d-png-v1"> <img src="/png-file.png" />PNG Dynamic <span> (1.36 gb)</span></a></li>
-                <li><a href="#"> <img src="/png-file.png" />PNG ISO<span> (Unavailable)</span></a></li>
-                <li><a href="#"> <img src="/png-file.png" />PNG Front <span> (Unavailable)</span></a></li>
+
               </ul>
             </div>
             <a href="https://www.buymeacoffee.com/realvjy" className="btn btn-mesh" target="_blank">
               <h4>Donate & Support</h4>
             </a>
 
-            <a href="https://bit.ly/edit-3dicons-mesh" className="btn btn-mesh" target="_blank">
-              <h4>Edit with Mesh</h4>
-            </a>
 
           </div>
           <div className="support">
             <div className="container">
               <div className="box">
-                <p>Server Having issue to download. Please check the figma links or gumroad link to download. If have issue connect me on twiter/X <a href="https://x.com/realvjy">@realvjy</a></p>
+                <p>New version released at <a href="https://3dicons.co">3dicons.co</a></p>
               </div>
             </div>
 
